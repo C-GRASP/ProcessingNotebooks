@@ -1,0 +1,489 @@
+/* DATA DESCRIPTION:
+Citation:	COASTMONITOR Project Members (1998): Spatial and temporal grain-size variability of the sediment of the barrier island system of Ria Formosa. PANGAEA, https://doi.org/10.1594/PANGAEA.883098, 
+	In supplement to: Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Surficial sediment texture database for the south-western Iberian Atlantic margin. Earth System Science Data, 10(2), 1185-1195, https://doi.org/10.5194/essd-10-1185-2018
+Original version:	Original data of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed) (URI: https://store.pangaea.de/Publications/Coasta-etal_2017/PLOSscripts.zip)
+Further details:	Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Shape files of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed). PANGAEA, https://doi.org/10.1594/PANGAEA.890946
+Coverage:	MEDIAN LATITUDE: 37.106327 * MEDIAN LONGITUDE: -7.714995 * SOUTH-BOUND LATITUDE: 36.991600 * WEST-BOUND LONGITUDE: -8.087470 * NORTH-BOUND LATITUDE: 37.157130 * EAST-BOUND LONGITUDE: -7.532760
+	DATE/TIME START: 1996-06-04T00:00:00 * DATE/TIME END: 1998-07-28T00:00:00
+	MINIMUM ELEVATION: 0 m a.s.l. * MAXIMUM ELEVATION: 8 m a.s.l.
+Event(s):	IBAM-Sed_COASTMONITOR * LATITUDE: 37.100700 * LONGITUDE: -7.803200 * DATE/TIME START: 1996-06-04T00:00:00 * DATE/TIME END: 1998-07-28T00:00:00 * METHOD/DEVICE: Sampling by hand (HAND)
+Comment:	COASTMONITOR (1998). Coastal monitoring
+Parameter(s):	Sample ID (Sample ID) * PI: COASTMONITOR Project Members * COMMENT: Sample number
+	Sample ID (Sample ID) * PI: COASTMONITOR Project Members * COMMENT: Acess number from laboratory
+	Sample ID (Sample ID) * PI: COASTMONITOR Project Members * COMMENT: Reference sample in the collect
+	Sample comment (Sample comment) * PI: COASTMONITOR Project Members
+	DATE/TIME (Date/Time) * GEOCODE * PI: COASTMONITOR Project Members * COMMENT: of collecting
+	Project (Project) * PI: COASTMONITOR Project Members
+	Sample method (Sample method) * PI: COASTMONITOR Project Members
+	LATITUDE (Latitude) * GEOCODE * PI: COASTMONITOR Project Members * COMMENT: WGS1984
+	LONGITUDE (Longitude) * GEOCODE * PI: COASTMONITOR Project Members * COMMENT: WGS1984
+	ELEVATION [m a.s.l.] (Elevation) * GEOCODE * PI: COASTMONITOR Project Members * COMMENT: Relative to mean sea level (m)
+	Gravel [%] (Gravel) * PI: COASTMONITOR Project Members * METHOD/DEVICE: Grain size, sieving
+	Sandstone [%] (Sdst) * PI: COASTMONITOR Project Members * METHOD/DEVICE: Grain size, sieving
+	Mudstone [%] (Mudstone) * PI: COASTMONITOR Project Members * METHOD/DEVICE: Grain size, sieving/pipette
+	Grain size, mean [phi] (Grain size mean) * PI: COASTMONITOR Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Standard deviation [±] (Std dev) * PI: COASTMONITOR Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: Of sample value
+	Skewness (Skew) * PI: COASTMONITOR Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Kurtosis (Kurt) * PI: COASTMONITOR Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Mode, grain size [phi] (Mode) * PI: COASTMONITOR Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 1st Mode sample value
+	Mode, grain size [phi] (Mode) * PI: COASTMONITOR Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 2nd Mode sample value
+	Observation (Obs) * PI: COASTMONITOR Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	5892 data points
+*/
+Sample ID (Sample number)	Sample ID (Acess number from laboratory)	Sample ID (Reference sample in the collect)	Sample comment	Date/Time (of collecting)	Project	Sample method	Latitude (WGS1984)	Longitude (WGS1984)	Elevation [m a.s.l.] (Relative to mean sea level (m))	Gravel [%] (Grain size, sieving)	Sdst [%] (Grain size, sieving)	Mudstone [%] (Grain size, sieving/pipette)	Grain size mean [phi] (Grain size, sieving/pipette, ...)	Std dev [±] (Of sample value, Grain size, ...)	Skew (Grain size, sieving/pipette, ...)	Kurt (Grain size, sieving/pipette, ...)	Mode [phi] (1st Mode sample value, Grain ...)	Mode [phi] (2nd Mode sample value, Grain ...)	Obs (Grain size, sieving/pipette, ...)
+1	1A	P1/cabecoBMB	Berm	1996-11-14	Coastal Monitoring	Hand-Collecting	37.1454	-7.567	8	3.12	96.88	0.00	0.440	0.612	-0.190				Before beach nourishment
+2	2A	P1/MM.Face_Praia	Beach face	1996-11-14	Coastal Monitoring	Hand-Collecting	37.1449	-7.567	4	3.54	96.46	0.00	1.055	0.993	-0.914		1.750		Before beach nourishment
+3	3A	P1/MB.Terraco	Low tide terrace	1996-11-14	Coastal Monitoring	Hand-Collecting	37.1445	-7.567	3	3.44	96.56	0.00	0.572	0.773	-0.279		0.750		Before beach nourishment
+4	4A	P2/GO.Galgamento	Nourishment	1996-11-14	Coastal Monitoring	Hand-Collecting	37.1465	-7.562	1	0.00	100.00	0.00	1.430	0.214	-0.077				Before beach nourishment
+5	5A	P2/D.Duna	Dune	1996-11-14	Coastal Monitoring	Hand-Collecting	37.1464	-7.562	8	0.00	100.00	0.00	1.634	0.173	-0.362		1.250		Before beach nourishment
+6	6A	P2/MM.Face_Praia	Beach face	1996-11-14	Coastal Monitoring	Hand-Collecting	37.1462	-7.562	4	0.36	99.64	0.00	0.780	0.675	0.121		0.250		Before beach nourishment
+7	7A	P2/MB.Terraco	Low tide terrace	1996-11-14	Coastal Monitoring	Hand-Collecting	37.1459	-7.562	3	4.50	95.50	0.00	0.887	1.119	-0.481		1.750	0.250	Before beach nourishment
+8	8A	P3/D.Duna	Dune	1996-11-14	Coastal Monitoring	Hand-Collecting	37.1480	-7.557	7	0.00	100.00	0.00	1.796	0.181	-0.311		1.750		Before beach nourishment
+9	9A	P3/MA.Berma	Berm	1996-11-14	Coastal Monitoring	Hand-Collecting	37.1479	-7.557	5	0.92	99.08	0.00	1.257	0.626	-0.876		1.750		Before beach nourishment
+10	10A	P3/MM.Face_Praia	Beach face	1996-11-14	Coastal Monitoring	Hand-Collecting	37.1477	-7.557	3	0.27	99.73	0.00	1.152	0.538	-0.331		1.750		Before beach nourishment
+11	11A	P3/MB.Terraco	Low tide terrace	1996-11-14	Coastal Monitoring	Hand-Collecting	37.1475	-7.557	2	3.34	96.66	0.00	1.044	1.026	-0.767		1.750		Before beach nourishment
+12	12A	P4/GO.Galgamento	Nourishment	1996-11-14	Coastal Monitoring	Hand-Collecting	37.1498	-7.553	7	3.05	96.95	0.00	0.892	0.830	-0.808		1.250		Before beach nourishment
+13	13A	P4/MM.Face_Praia	Beach face	1996-11-14	Coastal Monitoring	Hand-Collecting	37.1494	-7.553	4	0.09	99.91	0.00	1.402	0.222	-0.465		1.250		Before beach nourishment
+14	14A	P4/MB.Terraco	Low tide terrace	1996-11-14	Coastal Monitoring	Hand-Collecting	37.1487	-7.553	2	1.60	98.40	0.00	0.985	0.721	-0.739		1.250		Before beach nourishment
+15	15A	P5/GO.Galgamento	Nourishment	1996-11-14	Coastal Monitoring	Hand-Collecting	37.1519	-7.547	6	0.00	100.00	0.00	1.697	0.232	-0.929				Before beach nourishment
+16	16A	P5/MM.Face_Praia	Beach face	1996-11-14	Coastal Monitoring	Hand-Collecting	37.1514	-7.547	3	1.30	98.70	0.00	1.062	0.609	-0.870				Before beach nourishment
+17	17A	P5/MB.Terraco	Low tide terrace	1996-11-14	Coastal Monitoring	Hand-Collecting	37.1509	-7.547	2	0.09	99.91	0.00	1.818	0.269	-1.404				Before beach nourishment
+18	18A	P1/D.Duna	Dune	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1454	-7.567	8	0.00	100.00	0.00	1.535	0.375	-0.456		1.750		After beach nourishment
+19	19A	P1/MA.Berma	Berm	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1452	-7.567	4	2.11	97.89	0.00	1.512	0.539	-2.740		1.750		After beach nourishment
+20	20A	P1/MM.Face_Praia	Beach face	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1449	-7.567	3	2.93	97.07	0.00	0.531	0.619	-0.358		0.750		After beach nourishment
+21	21A	P1/MB.Terraco	Low tide terrace	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1445	-7.567	1	1.09	98.91	0.00	0.802	0.573	-0.130		0.750		After beach nourishment
+22	22A	P2/D.Duna	Dune	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1465	-7.562	8	6.24	93.76	0.00	0.829	1.128	-0.978		1.250		After beach nourishment
+23	23A	P2/MA.Berma	Berm	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1464	-7.562	4	0.00	100.00	0.00	1.498	0.242	-0.392		1.750		After beach nourishment
+24	24A	P2/MM.Face_Praia	Beach face	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1462	-7.562	3	0.00	100.00	0.00	1.611	0.339	-0.906		1.750		After beach nourishment
+25	25A	P2/MB.Terraco	Low tide terrace	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1459	-7.562	1	0.53	99.47	0.00	1.527	0.568	-1.134		1.750		After beach nourishment
+26	26A	P3/D.Duna	Dune	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1480	-7.557	7	0.86	99.14	0.00	1.493	0.437	-1.663		1.750		After beach nourishment
+27	27A	P3/MA.Berma	Berm	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1479	-7.557	5	0.00	100.00	0.00	1.474	0.245	-0.633		1.750		After beach nourishment
+28	28A	P3/MM.Face_Praia	Beach face	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1477	-7.557	3	1.42	98.58	0.00	1.306	0.720	-1.081		1.750		After beach nourishment
+29	29A	P3/MB.Terraco	Low tide terrace	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1475	-7.557	2	7.40	92.60	0.00	0.584	1.346	-0.162		-0.250		After beach nourishment
+30	30A	P4/D.Duna	Dune	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1498	-7.553	7	0.00	100.00	0.00	1.152	0.311	0.137		0.750		After beach nourishment
+31	31A	P4/MA.Berma	Berm	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1497	-7.553	5	3.07	96.93	0.00	1.487	0.850	-2.130		1.750		After beach nourishment
+32	32A	P4/MM.Face_Praia	Beach face	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1494	-7.553	4	4.00	96.00	0.00	0.915	1.041	-0.696		1.250		After beach nourishment
+33	33A	P4/MB.Terraco	Low tide terrace	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1487	-7.553	2	1.03	98.97	0.00	0.938	0.748	-0.226		1.750		After beach nourishment
+34	34A	P5/D.Duna	Dune	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1519	-7.547	6	0.09	99.91	0.00	1.480	0.292	-0.736		1.750		After beach nourishment
+35	35A	P5/MA.Berma	Berm	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1517	-7.547	5	0.19	99.81	0.00	1.275	0.485	-0.431		1.750		After beach nourishment
+36	36A	P5/MM.Face_Praia	Beach face	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1514	-7.547	3	8.20	91.80	0.00	0.337	1.215	-0.086		0.250	1.750	After beach nourishment
+37	37A	P5/MB.Terraco	Low tide terrace	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1509	-7.547	2	1.70	98.30	0.00	1.629	0.961	-1.161		0.250		After beach nourishment
+38	38A	P6/D.Duna	Dune	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1534	-7.542	5	0.09	99.91	0.00	1.323	0.359	-0.494		1.750		After beach nourishment
+39	39A	P6/MA.Berma	Berm	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1533	-7.542	4	0.00	100.00	0.00	1.713	0.208	-0.404		1.750	-0.250	After beach nourishment
+40	40A	P6/MM.Face_Praia	Beach face	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1530	-7.542	2	5.09	94.91	0.00	0.619	1.055	-0.292		0.750	1.750	After beach nourishment
+41	41A	P6/MB.Terraco	Low tide terrace	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1527	-7.542	2	1.48	98.52	0.00	0.542	0.605	0.359		1.750		After beach nourishment
+42	42A	P7/D.Duna	Dune	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1549	-7.538	7	0.00	100.00	0.00	1.568	0.205	-0.389		1.750		After beach nourishment
+43	43A	P7/MA.Berma	Berm	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1548	-7.538	5	1.24	98.76	0.00	1.011	0.927	-0.506		1.750	-0.750	After beach nourishment
+44	44A	P7/MM.Face_Praia	Beach face	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1547	-7.538	4	0.61	99.39	0.00	1.046	0.634	-0.130		1.750	0.250	After beach nourishment
+45	45A	P7/MB.Terraco	Low tide terrace	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1543	-7.538	2	4.18	95.82	0.00	1.428	1.149	-1.406		1.750		After beach nourishment
+46	46A	P8/D.Duna	Dune	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1571	-7.533	5	0.00	100.00	0.00	1.590	0.280	-0.329		1.750		After beach nourishment
+47	47A	P8/MA.Berma	Berm	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1570	-7.533	5	7.90	92.10	0.00	1.244	1.432	-1.283		1.750		After beach nourishment
+48	48A	P8/MM.Face_Praia	Beach face	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1567	-7.533	3	9.45	90.55	0.00	0.646	1.454	-0.634		1.750		After beach nourishment
+49	49A	P8/MB.Terraco	Low tide terrace	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1564	-7.533	2	1.21	98.79	0.00	1.440	0.702	-1.380		0.250		After beach nourishment
+50	50A	P9/D.Duna	Dune	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1571	-7.533	6	0.00	100.00	0.00	1.715	0.150	0.133				After beach nourishment
+51	51A	P9/MA.Berma	Berm	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1569	-7.533	5	0.00	100.00	0.00	1.638	0.161	-0.203				After beach nourishment
+52	52A	P9/MM.Face_Praia	Beach face	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1567	-7.533	2	2.32	97.68	0.00	1.260	0.780	-1.403				After beach nourishment
+53	53A	P9/MB.Terraco	Low tide terrace	1997-02-24	Coastal Monitoring	Hand-Collecting	37.1564	-7.533	1	4.21	95.79	0.00	0.560	0.847	-0.269				After beach nourishment
+54	54A	P1/D.Duna	Dune	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1454	-7.567	8	10.52	89.48	0.00	0.707	1.665	-0.761		1.750		After beach nourishment
+55	55A	P1/MA.Berma	Berm	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1452	-7.567	4	0.09	99.91	0.00	1.721	0.197	-0.896		1.750		After beach nourishment
+56	56A	P1/MM.Face_Praia	Beach face	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1449	-7.567	3	0.00	100.00	0.00	1.468	0.216	0.110		1.250		After beach nourishment
+57	57A	P1/MB.Terraco	Low tide terrace	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1445	-7.567	1	1.04	98.96	0.00	1.016	0.787	-0.210		0.750	1.750	After beach nourishment
+58	58A	P2/D.Duna	Dune	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1465	-7.562	8	6.16	93.84	0.00	0.833	1.160	-0.798		1.750		After beach nourishment
+59	59A	P2/MA.Berma	Berm	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1464	-7.562	4	0.00	100.00	0.00	1.817	0.120	-0.246		1.750		After beach nourishment
+60	60A	P2/MM.Face_Praia	Beach face	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1462	-7.562	3	0.00	100.00	0.00	1.733	0.141	0.107		1.750		After beach nourishment
+61	61A	P2/MB.Terraco	Low tide terrace	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1459	-7.562	1	0.09	99.91	0.00	1.761	0.400	-1.284		1.750		After beach nourishment
+62	62A	P3/D.Duna	Dune	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1480	-7.557	7	5.96	94.04	0.00	0.686	1.103	-0.530		0.250		After beach nourishment
+63	63A	P3/MA.Berma	Berm	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1479	-7.557	5	0.00	100.00	0.00	1.567	0.244	-0.616		1.750		After beach nourishment
+64	64A	P3/MM.Face_Praia	Beach face	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1477	-7.557	3	1.34	98.66	0.00	1.212	0.701	-1.061		1.750	-0.250	After beach nourishment
+65	65A	P3/MB.Terraco	Low tide terrace	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1475	-7.557	2	0.00	100.00	0.00	1.821	0.240	-1.193		1.750		After beach nourishment
+66	66A	P4/D.Duna	Dune	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1498	-7.553	7	2.55	97.45	0.00	1.048	0.910	-0.691		1.750		After beach nourishment
+67	67A	P4/MA.Berma	Berm	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1497	-7.553	5	0.00	100.00	0.00	1.606	0.225	-0.565		1.750		After beach nourishment
+68	68A	P4/MM.Face_Praia	Beach face	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1494	-7.553	4	0.00	100.00	0.00	1.773	0.124	-0.065		1.750		After beach nourishment
+69	69A	P4/MB.Terraco	Low tide terrace	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1487	-7.553	2	0.64	99.36	0.00	1.844	0.252	-3.230		1.750		After beach nourishment
+70	70A	P5/D.Duna	Dune	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1519	-7.547	6	9.16	90.84	0.00	0.564	1.239	-0.703		1.250	-2.250	After beach nourishment
+71	71A	P5/MA.Berma	Berm	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1517	-7.547	5	0.00	100.00	0.00	1.829	0.145	-0.198		1.750		After beach nourishment
+72	72A	P5/MM.Face_Praia	Beach face	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1514	-7.547	3	0.00	100.00	0.00	1.353	0.242	0.134		1.250		After beach nourishment
+73	73A	P5/MB.Terraco	Low tide terrace	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1509	-7.547	2	0.00	100.00	0.00	1.849	0.178	-0.050		1.750		After beach nourishment
+74	74A	P6/D.Duna	Dune	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1534	-7.542	5	0.00	100.00	0.00	1.619	0.195	-0.093		1.750		After beach nourishment
+75	75A	P6/MA.Berma	Berm	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1533	-7.542	4	0.18	99.82	0.00	1.380	0.406	-0.617		1.750		After beach nourishment
+76	76A	P6/MM.Face_Praia	Beach face	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1530	-7.542	2	0.09	99.91	0.00	1.656	0.307	-0.836		1.750	0.250	After beach nourishment
+77	77A	P6/MB.Terraco	Low tide terrace	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1527	-7.542	2	0.00	100.00	0.00	1.825	0.155	0.112		1.750		After beach nourishment
+78	78A	P7/D.Duna	Dune	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1549	-7.538	7	0.00	100.00	0.00	1.744	0.173	-0.367		1.750		After beach nourishment
+79	79A	P7/MA.Berma	Berm	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1548	-7.538	5	1.85	98.15	0.00	1.385	0.608	-1.911		1.750	-0.250	After beach nourishment
+80	80A	P7/MM.Face_Praia	Beach face	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1547	-7.538	4	0.00	100.00	0.00	1.626	0.267	-1.257		1.750		After beach nourishment
+81	81A	P7/MB.Terraco	Low tide terrace	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1543	-7.538	2	0.00	100.00	0.00	1.702	0.190	0.121		1.750		After beach nourishment
+82	82A	P8/D.Duna	Dune	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1571	-7.533	5	0.00	100.00	0.00	1.527	0.246	-0.421		1.750		After beach nourishment
+83	83A	P8/MA.Berma	Berm	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1570	-7.533	5	0.00	100.00	0.00	1.451	0.181	-0.054		1.750		After beach nourishment
+84	84A	P8/MM.Face_Praia	Beach face	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1567	-7.533	3	0.09	99.91	0.00	1.662	0.328	-0.753		1.750		After beach nourishment
+85	85A	P8/MB.Terraco	Low tide terrace	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1564	-7.533	2	0.00	100.00	0.00	1.843	0.142	0.122				After beach nourishment
+86	86A	P9/D.Duna	Dune	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1571	-7.533	6	0.00	100.00	0.00	1.713	0.186	-0.232				After beach nourishment
+87	87A	P9/MA.Berma	Berm	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1569	-7.533	5	0.00	100.00	0.00	1.171	0.200	0.009				After beach nourishment
+88	88A	P9/MM.Face_Praia	Beach face	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1567	-7.533	2	0.00	100.00	0.00	1.747	0.173	-0.396				After beach nourishment
+89	89A	P9/MB.Terraco	Low tide terrace	1997-03-27	Coastal Monitoring	Hand-Collecting	37.1564	-7.533	1	0.00	100.00	0.00	1.999	0.175	-0.065				After beach nourishment
+90	90A	P1/MA.Berma	Berm	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1450	-7.567	4	0.70	99.30	0.00	0.625	0.558	0.067				After beach nourishment
+91	91A	P1/MM.Face_Praia	Beach face	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1450	-7.567	3	0.18	99.82	0.00	1.062	0.301	-0.034				After beach nourishment
+92	92A	P1/MB.Terraco	Low tide terrace	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1444	-7.567	1	0.09	99.91	0.00	1.727	0.216	-1.066				After beach nourishment
+93	93A	P2/MA.Berma	Berm	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1463	-7.562	4	0.36	99.64	0.00	0.959	0.463	0.059				After beach nourishment
+94	94A	P2/MM.Face_Praia	Beach face	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1462	-7.562	3	0.09	99.91	0.00	1.425	0.373	-0.330				After beach nourishment
+95	95A	P2/MB.Terraco	Low tide terrace	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1458	-7.562	1	0.27	99.73	0.00	1.538	0.310	-0.813				After beach nourishment
+96	96A	P3/MA.Berma	Berm	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1478	-7.557	4	0.00	100.00	0.00	1.428	0.215	0.244				After beach nourishment
+97	97A	P3/MM.Face_Praia	Beach face	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1475	-7.557	2	1.07	98.93	0.00	1.420	0.589	-1.439				After beach nourishment
+98	98A	P3/MB.Terraco	Low tide terrace	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1472	-7.557	1	0.09	99.91	0.00	1.471	0.289	0.124				After beach nourishment
+99	99A	P4/MA.Berma	Berm	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1497	-7.553	5	0.00	100.00	0.00	1.783	0.168	-0.269				After beach nourishment
+100	100A	P4/MM.Face_Praia	Beach face	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1493	-7.553	3	0.00	100.00	0.00	1.697	0.187	-0.455				After beach nourishment
+101	101A	P4/MB.Terraco	Low tide terrace	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1486	-7.553	1	0.64	99.36	0.00	1.716	0.447	-1.800				After beach nourishment
+102	102A	P5/MA.Berma	Berm	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1516	-7.547	4	0.09	99.91	0.00	0.776	0.471	0.418				After beach nourishment
+103	103A	P5/MM.Face_Praia	Beach face	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1514	-7.547	2	0.99	99.01	0.00	1.359	0.777	-1.095				After beach nourishment
+104	104A	P5/MB.Terraco	Low tide terrace	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1507	-7.547	1	0.00	100.00	0.00	1.923	0.161	-0.054				After beach nourishment
+105	105A	P6/D.Duna	Dune	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1534	-7.542	5	0.00	100.00	0.00	1.577	0.188	-0.444				After beach nourishment
+106	106A	P6/MA.Berma	Berm	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1531	-7.542	3	0.55	99.45	0.00	0.947	0.221	-0.664				After beach nourishment
+107	107A	P6/MM.Face_Praia	Beach face	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1529	-7.542	2	1.34	98.66	0.00	1.267	0.500	-1.625				After beach nourishment
+108	108A	P6/MB.Terraco	Low tide terrace	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1526	-7.542	1	0.00	100.00	0.00	1.634	0.137	0.399				After beach nourishment
+109	109A	P7/D.Duna	Dune	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1550	-7.538	7	0.00	100.00	0.00	1.618	0.233	-0.417				After beach nourishment
+110	110A	P7/MA.Berma	Berm	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1548	-7.538	4	0.09	99.91	0.00	1.680	0.199	-0.447				After beach nourishment
+111	111A	P7/MM.Face_Praia	Beach face	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1544	-7.538	3	0.09	99.91	0.00	0.197	0.126	1.408				After beach nourishment
+112	112A	P7/MB.Terraco	Low tide terrace	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1542	-7.538	2	0.00	100.00	0.00	1.733	0.180	0.186				After beach nourishment
+113	113A	P8/D.Duna	Dune	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1571	-7.533	5	0.00	100.00	0.00	1.564	0.232	-0.347				After beach nourishment
+114	114A	P8/MA.Berma	Berm	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1567	-7.533	3	0.00	100.00	0.00	0.714	0.099	0.163				After beach nourishment
+115	115A	P8/MM.Face_Praia	Beach face	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1566	-7.533	2	2.77	97.23	0.00	1.168	0.837	-1.420				After beach nourishment
+116	116A	P8/MB.Terraco	Low tide terrace	1997-04-23	Coastal Monitoring	Hand-Collecting	37.1564	-7.533	2	0.18	99.82	0.00	0.782	0.262	0.386				After beach nourishment
+117	117A	P1/MA.Berma	Berm	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1451	-7.567	4	0.00	100.00	0.00	0.981	0.361	0.174				After beach nourishment
+118	118A	P1/MM.Face_Praia	Beach face	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1449	-7.567	3	0.36	99.64	0.00	1.293	0.341	-1.130				After beach nourishment
+119	119A	P1/MB.Terraco	Low tide terrace	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1443	-7.567	1	0.99	99.01	0.00	0.891	0.719	-0.157				After beach nourishment
+120	120A	P2/MA.Berma	Berm	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1464	-7.562	4	0.09	99.91	0.00	1.200	0.569	-0.211				After beach nourishment
+121	121A	P2/MM.Face_Praia	Beach face	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1462	-7.562	3	0.00	100.00	0.00	1.741	0.146	-0.434				After beach nourishment
+122	122A	P2/MB.Terraco	Low tide terrace	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1459	-7.562	1	0.09	99.91	0.00	1.477	0.352	-0.492				After beach nourishment
+123	123A	P3/MA.Berma	Berm	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1479	-7.557	4	0.18	99.82	0.00	1.695	0.199	-1.395				After beach nourishment
+124	124A	P3/MM.Face_Praia	Beach face	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1477	-7.557	3	1.30	98.70	0.00	0.884	0.300	-1.785				After beach nourishment
+125	125A	P3/MB.Terraco	Low tide terrace	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1474	-7.557	2	0.97	99.03	0.00	1.155	0.641	-0.742				After beach nourishment
+126	126A	P4/MA.Berma	Berm	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1495	-7.553	4	0.48	99.52	0.00	1.441	0.952	-0.862				After beach nourishment
+127	127A	P4/MM.Face_Praia	Beach face	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1493	-7.553	3	3.51	96.49	0.00	0.248	0.610	0.289				After beach nourishment
+128	128A	P4/MB.Terraco	Low tide terrace	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1488	-7.553	1	0.00	100.00	0.00	1.845	0.223	-0.177				After beach nourishment
+129	129A	P5/D.Duna	Dune	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1520	-7.547	6	0.18	99.82	0.00	1.446	0.363	-1.274				After beach nourishment
+130	130A	P5/MA.Berma	Berm	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1516	-7.547	4	0.35	99.65	0.00	1.205	0.759	-0.401				After beach nourishment
+131	131A	P5/MM.Face_Praia	Beach face	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1514	-7.547	3	0.12	99.88	0.00	1.077	0.351	0.222				After beach nourishment
+132	132A	P5/MB.Terraco	Low tide terrace	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1509	-7.547	2	0.31	99.69	0.00	1.167	0.367	-0.380				After beach nourishment
+133	133A	P6/D.Duna	Dune	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1534	-7.542	5	0.09	99.91	0.00	1.474	0.289	-0.770				After beach nourishment
+134	134A	P6/MA.Berma	Berm	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1533	-7.542	4	0.09	99.91	0.00	1.482	0.292	-0.747				After beach nourishment
+135	135A	P6/MM.Face_Praia	Beach face	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1531	-7.542	3	2.79	97.21	0.00	0.791	0.580	-1.228				After beach nourishment
+136	136A	P6/MB.Terraco	Low tide terrace	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1528	-7.542	2	1.64	98.36	0.00	1.167	0.724	-0.961				After beach nourishment
+137	137A	P7/D.Duna	Dune	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1549	-7.538	7	0.00	100.00	0.00	1.614	0.222	-0.338				After beach nourishment
+138	138A	P7/MA.Berma	Berm	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1546	-7.538	4	0.00	100.00	0.00	1.791	0.174	-0.021				After beach nourishment
+139	139A	P7/MM.Face_Praia	Beach face	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1546	-7.538	3	1.24	98.76	0.00	0.847	0.918	-0.145				After beach nourishment
+140	140A	P7/MB.Terraco	Low tide terrace	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1544	-7.538	2	3.78	96.22	0.00	0.336	0.716	0.223				After beach nourishment
+141	141A	P8/D.Duna	Dune	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1570	-7.533	6	0.00	100.00	0.00	1.628	0.200	-0.204				After beach nourishment
+142	142A	P8/MA.Berma	Berm	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1568	-7.533	4	0.00	100.00	0.00	1.426	0.278	-0.183				After beach nourishment
+143	143A	P8/MM.Face_Praia	Beach face	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1567	-7.533	3	1.05	98.95	0.00	1.127	0.503	-0.797				After beach nourishment
+144	144A	P8/MB.Terraco	Low tide terrace	1997-05-23	Coastal Monitoring	Hand-Collecting	37.1565	-7.533	2	1.04	98.96	0.00	1.341	0.484	-1.298				After beach nourishment
+145	145A	P1/MA.Berma	Berm	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1451	-7.567	4	0.27	99.73	0.00	1.245	0.342	-0.676				After beach nourishment
+146	146A	P1/MM.Face_Praia	Beach face	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1450	-7.567	3	2.33	97.67	0.00	0.985	1.233	-0.384				After beach nourishment
+147	147A	P1/MB.Terraco	Low tide terrace	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1448	-7.567	2	0.79	99.21	0.00	1.266	0.545	-1.026				After beach nourishment
+148	148A	P2/MA.Berma	Berm	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1464	-7.562	4	0.18	99.82	0.00	1.286	0.364	-0.542				After beach nourishment
+149	149A	P2/MM.Face_Praia	Beach face	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1461	-7.562	3	1.84	98.16	0.00	1.160	0.698	-1.066				After beach nourishment
+150	150A	P2/MB.Terraco	Low tide terrace	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1459	-7.562	1	0.80	99.20	0.00	1.513	0.595	-1.075				After beach nourishment
+151	151A	P3/MA.Berma	Berm	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1478	-7.557	4	0.00	100.00	0.00	1.767	0.143	-0.491				After beach nourishment
+152	152A	P3/MM.Face_Praia	Beach face	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1477	-7.557	3	1.10	98.90	0.00	0.694	0.433	-0.051				After beach nourishment
+153	153A	P3/MB.Terraco	Low tide terrace	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1474	-7.557	2	0.26	99.74	0.00	1.563	0.451	-1.178				After beach nourishment
+154	154A	P4/MA.Berma	Berm	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1495	-7.553	4	0.18	99.82	0.00	1.569	0.311	-0.871				After beach nourishment
+155	155A	P4/MM.Face_Praia	Beach face	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1493	-7.553	3	0.18	99.82	0.00	1.284	0.277	-0.293				After beach nourishment
+156	156A	P4/MB.Terraco	Low tide terrace	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1488	-7.553	2	1.47	98.53	0.00	1.241	0.662	-0.985				After beach nourishment
+157	157A	P5/D.Duna	Dune	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1520	-7.547	6	0.00	100.00	0.00	1.772	0.216	-0.557				After beach nourishment
+158	158A	P5/MA.Berma	Berm	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1517	-7.547	4	0.26	99.74	0.00	0.824	0.497	0.128				After beach nourishment
+159	159A	P5/MM.Face_Praia	Beach face	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1516	-7.547	4	0.00	100.00	0.00	0.712	0.187	0.989				After beach nourishment
+160	160A	P5/MB.Terraco	Low tide terrace	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1510	-7.547	2	0.00	100.00	0.00	1.376	0.323	-0.383				After beach nourishment
+161	161A	P6/D.Duna	Dune	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1534	-7.542	5	0.00	100.00	0.00	1.505	0.235	0.021				After beach nourishment
+162	162A	P6/MA.Berma	Berm	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1531	-7.542	4	0.70	99.30	0.00	1.791	0.293	-2.971				After beach nourishment
+163	163A	P6/MM.Face_Praia	Beach face	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1530	-7.542	2	1.15	98.85	0.00	1.136	0.688	-0.789				After beach nourishment
+164	164A	P6/MB.Terraco	Low tide terrace	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1527	-7.542	2	0.81	99.19	0.00	1.386	0.527	-1.053				After beach nourishment
+165	165A	P7/MA.Berma	Berm	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1548	-7.538	5	0.61	99.39	0.00	1.643	0.416	-1.340				After beach nourishment
+166	166A	P7/MM.Face_Praia	Beach face	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1547	-7.538	4	3.98	96.02	0.00	1.074	0.962	-1.114				After beach nourishment
+167	167A	P7/MB.Terraco	Low tide terrace	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1543	-7.538	2	0.53	99.47	0.00	1.831	0.373	-1.977				After beach nourishment
+168	168A	P8/MA.Berma	Berm	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1569	-7.533	5	0.09	99.91	0.00	1.417	0.318	-0.529				After beach nourishment
+169	169A	P8/MM.Face_Praia	Beach face	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1567	-7.533	3	1.58	98.42	0.00	1.037	0.594	-0.880				After beach nourishment
+170	170A	P8/MB.Terraco	Low tide terrace	1997-06-26	Coastal Monitoring	Hand-Collecting	37.1564	-7.533	2	4.80	95.20	0.00	0.062	0.501	0.097				After beach nourishment
+171	171A	P1/MA.Berma	Berm	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1451	-7.567	4	0.18	99.82	0.00	1.339	0.285	-0.500				After beach nourishment
+172	172A	P1/MM.Face_Praia	Beach face	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1450	-7.567	3	0.09	99.91	0.00	1.867	0.148	-1.163				After beach nourishment
+173	173A	P1/MB.Terraco	Low tide terrace	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1446	-7.567	1	0.64	99.36	0.00	1.114	0.564	-0.524				After beach nourishment
+174	174A	P2/MA.Berma	Berm	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1464	-7.562	4	0.00	100.00	0.00	1.529	0.244	-0.276				After beach nourishment
+175	175A	P2/MM.Face_Praia	Beach face	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1462	-7.562	3	1.16	98.84	0.00	1.742	0.506	-2.332				After beach nourishment
+176	176A	P2/MB.Terraco	Low tide terrace	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1460	-7.562	1	0.27	99.73	0.00	1.661	0.331	-1.468				After beach nourishment
+177	177A	P3/MA.Berma	Berm	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1479	-7.557	5	2.54	97.46	0.00	0.166	0.591	0.491				After beach nourishment
+178	178A	P3/MM.Face_Praia	Beach face	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1477	-7.557	3	0.44	99.56	0.00	1.533	0.389	-1.592				After beach nourishment
+179	179A	P3/MB.Terraco	Low tide terrace	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1479	-7.557	1	0.18	99.82	0.00	1.559	0.394	-0.748				After beach nourishment
+180	180A	P4/MA.Berma	Berm	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1495	-7.553	4	0.09	99.91	0.00	1.497	0.239	-0.329				After beach nourishment
+181	181A	P4/MM.Face_Praia	Beach face	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1493	-7.553	3	0.00	100.00	0.00	1.186	0.288	0.329				After beach nourishment
+182	182A	P4/MB.Terraco	Low tide terrace	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1486	-7.553	1	0.09	99.91	0.00	1.701	0.387	-1.085				After beach nourishment
+183	183A	P5/D.Duna	Dune	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1520	-7.547	6	0.00	100.00	0.00	1.485	0.277	-0.576				After beach nourishment
+184	184A	P5/MA.Berma	Berm	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1517	-7.547	5	0.00	100.00	0.00	1.493	0.325	-0.813				After beach nourishment
+185	185A	P5/MM.Face_Praia	Beach face	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1515	-7.547	3	0.70	99.30	0.00	1.072	0.456	-0.865				After beach nourishment
+186	186A	P5/MB.Terraco	Low tide terrace	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1508	-7.547	1	0.09	99.91	0.00	1.664	0.374	-0.873				After beach nourishment
+187	187A	P6/MA.Berma	Berm	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1532	-7.542	4	0.00	100.00	0.00	1.508	0.205	-0.264				After beach nourishment
+188	188A	P6/MM.Face_Praia	Beach face	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1531	-7.542	3	0.00	100.00	0.00	1.272	0.245	0.108				After beach nourishment
+189	189A	P6/MB.Terraco	Low tide terrace	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1526	-7.542	2	0.17	99.83	0.00	1.797	0.301	-1.168				After beach nourishment
+190	190A	P7/MA.Berma	Berm	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1547	-7.538	4	0.00	100.00	0.00	1.961	0.140	-0.302				After beach nourishment
+191	191A	P7/MM.Face_Praia	Beach face	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1545	-7.538	3	1.37	98.63	0.00	0.552	0.499	0.210				After beach nourishment
+192	192A	P7/MB.Terraco	Low tide terrace	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1543	-7.538	2	2.32	97.68	0.00	1.444	0.795	-1.571				After beach nourishment
+193	193A	P8/MA.Berma	Berm	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1569	-7.533	4	10.69	89.31	0.00	0.466	1.422	-0.205				After beach nourishment
+194	194A	P8/MM.Face_Praia	Beach face	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1567	-7.533	3	1.61	98.39	0.00	0.664	0.711	0.032				After beach nourishment
+195	195A	P8/MB.Terraco	Low tide terrace	1997-08-06	Coastal Monitoring	Hand-Collecting	37.1564	-7.533	2	0.62	99.38	0.00	1.476	0.490	-1.370				After beach nourishment
+196	196A	P1/MM.Face_Praia	Beach face	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1451	-7.567	3	1.16	98.84	0.00	1.232	0.637	-0.810				After beach nourishment
+197	197A	P2/MA.Berma	Berm	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1464	-7.562	5	0.00	100.00	0.00	1.657	0.210	-0.406				After beach nourishment
+198	198A	P2/MM.Face_Praia	Beach face	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1462	-7.562	0	100.00	99.82	0.00	1.769	0.274	-0.696				After beach nourishment
+199	199A	P2/MB.Terraco	Low tide terrace	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1457	-7.562	1	0.00	100.00	0.00	2.065	0.208	-0.723				After beach nourishment
+200	200A	P3/MA.Berma	Berm	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1479	-7.557	5	0.00	100.00	0.00	1.688	0.178	-0.469				After beach nourishment
+201	201A	P3/MM.Face_Praia	Beach face	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1477	-7.557	2	0.18	99.82	0.00	1.686	0.254	-1.632				After beach nourishment
+202	202A	P3/MB.Terraco	Low tide terrace	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1473	-7.557	0	100.00	99.82	0.00	1.863	0.173	0.072				After beach nourishment
+203	203A	P4/MA.Berma	Berm	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1496	-7.553	5	0.53	99.47	0.00	1.152	0.552	-0.562				After beach nourishment
+204	204A	P4/MM.Face_Praia	Beach face	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1493	-7.553	3	0.28	99.72	0.00	1.417	0.589	-1.049				After beach nourishment
+205	205A	P4/MB.Terraco	Low tide terrace	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1489	-7.553	2	0.09	99.91	0.00	1.670	0.285	-0.928				After beach nourishment
+206	206A	P5/MA.Berma	Berm	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1517	-7.547	5	0.09	99.91	0.00	1.086	0.452	-0.300				After beach nourishment
+207	207A	P5/MM.Face_Praia	Beach face	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1514	-7.547	3	0.00	100.00	0.00	1.814	0.139	-0.145				After beach nourishment
+208	208A	P5/MB.Terraco	Low tide terrace	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1512	-7.547	2	0.27	99.73	0.00	1.639	0.425	-1.007				After beach nourishment
+209	209A	P6/MA.Berma	Berm	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1533	-7.542	5	1.67	98.33	0.00	1.136	0.780	-0.890				After beach nourishment
+210	210A	P6/MM.Face_Praia	Beach face	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1531	-7.542	3	0.18	99.82	0.00	1.535	0.393	-1.224				After beach nourishment
+211	211A	P6/MB.Terraco	Low tide terrace	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1528	-7.542	2	0.27	99.73	0.00	1.719	0.406	-1.263				After beach nourishment
+212	212A	P7/MA.Berma	Berm	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1548	-7.538	5	0.62	99.38	0.00	1.041	0.498	-0.436				After beach nourishment
+213	213A	P7/MM.Face_Praia	Beach face	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1546	-7.538	4	0.00	100.00	0.00	1.778	0.153	-0.142				After beach nourishment
+214	214A	P7/MB.Terraco	Low tide terrace	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1545	-7.538	3	1.05	98.95	0.00	1.518	0.478	-1.761				After beach nourishment
+215	215A	P8/MA.Berma	Berm	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1569	-7.533	5	1.24	98.76	0.00	0.879	0.563	-0.286				After beach nourishment
+216	216A	P8/MM.Face_Praia	Beach face	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1568	-7.533	4	2.40	97.60	0.00	0.654	0.612	-0.516				After beach nourishment
+217	217A	P8/MB.Terraco	Low tide terrace	1997-10-16	Coastal Monitoring	Hand-Collecting	37.1567	-7.533	3	4.21	95.79	0.00	0.737	0.988	-0.535				After beach nourishment
+218	218A	P2/MA.Berma	Berm	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1464	-7.562	5	0.00	100.00	0.00	1.862	0.295	1.505				After beach nourishment
+219	219A	P2/MM.Face_Praia	Beach face	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1462	-7.562	3	0.00	100.00	0.00	1.476	0.263	-0.487				After beach nourishment
+220	220A	P2/MB.Terraco	Low tide terrace	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1457	-7.562	1	1.81	98.18	0.00	1.307	0.686	-1.626				After beach nourishment
+221	221A	P3/MA.Berma	Berm	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1479	-7.557	5	0.27	99.73	0.00	1.243	0.249	-0.843				After beach nourishment
+222	222A	P3/MM.Face_Praia	Beach face	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1477	-7.557	2	0.09	99.91	0.00	1.574	0.284	-0.852				After beach nourishment
+223	223A	P3/MB.Terraco	Low tide terrace	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1473	-7.557	1	0.27	99.73	0.00	1.578	0.352	-1.270				After beach nourishment
+224	224A	P4/MA.Berma	Berm	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1496	-7.553	5	0.35	99.65	0.00	0.517	0.300	0.067				After beach nourishment
+225	225A	P4/MM.Face_Praia	Beach face	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1493	-7.553	3	4.61	95.39	0.00	0.283	0.638	-0.391				After beach nourishment
+226	226A	P4/MB.Terraco	Low tide terrace	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1489	-7.553	2	5.28	94.72	0.00	1.347	1.131	-1.736				After beach nourishment
+227	227A	P5/MA.Berma	Berm	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1517	-7.547	5	0.27	99.73	0.00	1.547	0.299	-1.399				After beach nourishment
+228	228A	P5/MM.Face_Praia	Beach face	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1514	-7.547	3	0.00	100.00	0.00	1.184	0.232	-0.124				After beach nourishment
+229	229A	P5/MB.Terraco	Low tide terrace	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1512	-7.547	2	1.16	98.84	0.00	0.931	0.476	-0.754				After beach nourishment
+230	230A	P6/MA.Berma	Berm	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1533	-7.542	5	0.18	99.82	0.00	1.318	0.537	-0.606				After beach nourishment
+231	231A	P6/MM.Face_Praia	Beach face	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1531	-7.542	3	0.19	99.81	0.00	0.668	0.288	0.462				After beach nourishment
+232	232A	P6/MB.Terraco	Low tide terrace	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1528	-7.542	2	1.31	98.69	0.00	0.562	0.514	0.152				After beach nourishment
+233	233A	P7/MA.Berma	Berm	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1548	-7.538	5	0.00	100.00	0.00	1.628	0.234	-0.332				After beach nourishment
+234	234A	P7/MM.Face_Praia	Beach face	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1546	-7.538	4	0.00	100.00	0.00	0.755	0.152	0.187				After beach nourishment
+235	235A	P7/MB.Terraco	Low tide terrace	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1545	-7.538	3	0.45	99.55	0.00	1.681	0.282	-1.897				After beach nourishment
+236	236A	P8/MA.Berma	Berm	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1569	-7.533	5	0.00	100.00	0.00	1.597	0.244	-0.717				After beach nourishment
+237	237A	P8/MM.Face_Praia	Beach face	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1568	-7.533	4	0.00	100.00	0.00	1.362	0.247	0.110				After beach nourishment
+238	238A	P8/MB.Terraco	Low tide terrace	1997-11-15	Coastal Monitoring	Hand-Collecting	37.1567	-7.533	3	0.97	99.03	0.00	1.187	0.379	-1.627				After beach nourishment
+239	239A	P2/MA.Berma	Berm	1998-01-07	Coastal Monitoring	Hand-Collecting	37.1465	-7.562	5	0.35	99.65	0.00	1.714	0.952	7.944				After beach nourishment
+240	240A	P2/MM.Face_Praia	Beach face	1998-01-07	Coastal Monitoring	Hand-Collecting	37.1463	-7.562	3	0.18	99.82	0.00	0.896	0.253	0.170				After beach nourishment
+241	241A	P2/MB.Terraco	Low tide terrace	1998-01-07	Coastal Monitoring	Hand-Collecting	37.1459	-7.562	2	0.00	100.00	0.00	1.344	0.430	3.214				After beach nourishment
+242	242A	P3/MA.Berma	Berm	1998-01-07	Coastal Monitoring	Hand-Collecting	37.1479	-7.557	4	0.00	100.00	0.00	1.698	0.232	-0.474				After beach nourishment
+243	243A	P3/MM.Face_Praia	Beach face	1998-01-07	Coastal Monitoring	Hand-Collecting	37.1478	-7.557	4	0.00	100.00	0.00	1.663	0.163	-0.253				After beach nourishment
+244	244A	P3/MB.Terraco	Low tide terrace	1998-01-07	Coastal Monitoring	Hand-Collecting	37.1476	-7.557	2	0.61	99.39	0.00	1.214	0.469	-0.592				After beach nourishment
+245	245A	P4/MA.Berma	Berm	1998-01-07	Coastal Monitoring	Hand-Collecting	37.1496	-7.553	5	0.00	100.00	0.00	1.875	0.178	-0.933				After beach nourishment
+246	246A	P4/MM.Face_Praia	Beach face	1998-01-07	Coastal Monitoring	Hand-Collecting	37.1494	-7.553	3	0.00	100.00	0.00	2.079	0.132	-0.077				After beach nourishment
+247	247A	P4/MB.Terraco	Low tide terrace	1998-01-07	Coastal Monitoring	Hand-Collecting	37.1491	-7.553	2	0.18	99.82	0.00	1.441	0.474	-0.570				After beach nourishment
+248	248A	P5/MA.Berma	Berm	1998-01-07	Coastal Monitoring	Hand-Collecting	37.1517	-7.547	5	0.35	99.65	0.00	1.123	0.304	-0.657				After beach nourishment
+249	249A	P5/MM.Face_Praia	Beach face	1998-01-07	Coastal Monitoring	Hand-Collecting	37.1516	-7.547	4	0.18	99.82	0.00	1.410	0.359	-0.608				After beach nourishment
+250	250A	P5/MB.Terraco	Low tide terrace	1998-01-07	Coastal Monitoring	Hand-Collecting	37.1514	-7.547	2	2.60	97.40	0.00	0.941	0.940	-0.395				After beach nourishment
+251	251A	P6/MA.Berma	Berm	1998-01-07	Coastal Monitoring	Hand-Collecting	37.1534	-7.542	5	0.53	99.47	0.00	1.890	0.255	-3.074				After beach nourishment
+252	252A	P6/MM.Face_Praia	Beach face	1998-01-07	Coastal Monitoring	Hand-Collecting	37.1532	-7.542	4	0.00	100.00	0.00	1.735	0.207	-0.364				After beach nourishment
+253	253A	P6/MB.Terraco	Low tide terrace	1998-01-07	Coastal Monitoring	Hand-Collecting	37.1530	-7.542	2	0.00	100.00	0.00	1.543	0.281	0.149				After beach nourishment
+254	254A	P7/MA.Berma	Berm	1998-01-07	Coastal Monitoring	Hand-Collecting	37.1549	-7.538	5	0.17	99.83	0.00	1.252	0.307	-0.188				After beach nourishment
+255	255A	P7/MM.Face_Praia	Beach face	1998-01-07	Coastal Monitoring	Hand-Collecting	37.1548	-7.538	5	0.00	100.00	0.00	1.852	0.107	0.208				After beach nourishment
+256	256A	P7/MB.Terraco	Low tide terrace	1998-01-07	Coastal Monitoring	Hand-Collecting	37.1547	-7.538	3	0.00	100.00	0.00	1.786	0.189	-0.196				After beach nourishment
+257	257A	P1/MM.Face_Praia	Beach face	1998-04-07	Coastal Monitoring	Hand-Collecting	37.1456	-7.565	3	0.07	99.93	0.00	1.415	1.590	1.209				After beach nourishment
+258	258A	P1/MB.Terraco	Low tide terrace	1998-04-07	Coastal Monitoring	Hand-Collecting	37.1442	-7.565	1	0.34	99.66	0.00	1.435	1.564	1.076				After beach nourishment
+259	259A	P2/MM.Face_Praia	Beach face	1998-04-07	Coastal Monitoring	Hand-Collecting	37.1462	-7.562	3	0.55	99.45	0.00	1.451	1.579	1.075				After beach nourishment
+260	260A	P2/MB.Terraco	Low tide terrace	1998-04-07	Coastal Monitoring	Hand-Collecting	37.1458	-7.562	2	0.00	100.00	0.00	1.657	1.742	1.478				After beach nourishment
+261	261A	P3/MM.Face_Praia	Beach face	1998-04-07	Coastal Monitoring	Hand-Collecting	37.1477	-7.557	3	0.33	99.67	0.00	1.261	1.432	0.880				After beach nourishment
+262	262A	P3/MB.Terraco	Low tide terrace	1998-04-07	Coastal Monitoring	Hand-Collecting	37.1471	-7.557	1	0.00	100.00	0.00	1.816	1.871	1.766				After beach nourishment
+263	263A	P4/MA.Berma	Berm	1998-04-07	Coastal Monitoring	Hand-Collecting	37.1477	-7.557	3	0.08	9.92	0.00	1.310	1.470	0.945				After beach nourishment
+264	264A	P4/MM.Face_Praia	Beach face	1998-04-07	Coastal Monitoring	Hand-Collecting	37.1471	-7.557	1	0.00	100.00	0.00	1.298	1.391	0.790				After beach nourishment
+265	265A	P4/MB.Terraco	Low tide terrace	1998-04-07	Coastal Monitoring	Hand-Collecting	37.1487	-7.553	1	0.00	100.00	0.00	2.114	2.173	2.699				After beach nourishment
+266	266A	P5/MA.Berma	Berm	1998-04-07	Coastal Monitoring	Hand-Collecting	37.1517	-7.547	5	0.00	100.00	0.00	1.560	1.616	1.146				After beach nourishment
+267	267A	P5/MM.Face_Praia	Beach face	1998-04-07	Coastal Monitoring	Hand-Collecting	37.1516	-7.547	3	0.15	99.85	0.00	0.638	0.923	0.314				After beach nourishment
+268	268A	P5/MB.Terraco	Low tide terrace	1998-04-07	Coastal Monitoring	Hand-Collecting	37.1514	-7.547	2	0.00	100.00	0.00	1.973	2.014	2.136				After beach nourishment
+269	269A	P6/MM.Face_Praia	Beach face	1998-04-07	Coastal Monitoring	Hand-Collecting	37.1532	-7.542	4	0.00	100.00	0.00	1.867	1.931	1.971				After beach nourishment
+270	270A	P6/MB.Terraco	Low tide terrace	1998-04-07	Coastal Monitoring	Hand-Collecting	37.1530	-7.542	3	0.02	99.98	0.00	1.860	1.930	1.951				After beach nourishment
+271	271A	P7/MA.Berma	Berm	1998-04-07	Coastal Monitoring	Hand-Collecting	37.1549	-7.538	4	0.00	100.00	0.00	1.390	1.463	0.886				After beach nourishment
+272	272A	P7/MM.Face_Praia	Beach face	1998-04-07	Coastal Monitoring	Hand-Collecting	37.1548	-7.538	3	2.09	97.91	0.00	0.874	1.214	0.542				After beach nourishment
+273	273A	P7/MB.Terraco	Low tide terrace	1998-04-07	Coastal Monitoring	Hand-Collecting	37.1547	-7.538	2	0.07	99.93	0.00	1.987	2.036	2.220				After beach nourishment
+274	274A	P8/MM.Face_Praia	Beach face	1998-04-07	Coastal Monitoring	Hand-Collecting	37.1569	-7.533	3	0.31	99.69	0.00	0.995	1.261	0.665				After beach nourishment
+275	275A	P8/MB.Terraco	Low tide terrace	1998-04-07	Coastal Monitoring	Hand-Collecting	37.1566	-7.533	1	0.76	99.24	0.00	1.636	1.763	1.508				After beach nourishment
+276	276A	P2/MA.Berma	Berm	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1465	-7.562	5	0.48	99.52	0.00	1.659	1.736	1.060				After beach nourishment
+277	277A	P2/MM.Face_Praia	Beach face	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1463	-7.562	3	0.00	100.00	0.00	1.041	1.096	0.289				After beach nourishment
+278	278A	P2/MB.Terraco	Low tide terrace	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1459	-7.562	2	0.02	99.98	0.00	1.835	1.905	1.430				After beach nourishment
+279	279A	P3/MA.Berma	Berm	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1479	-7.557	4	3.11	96.89	0.00	0.913	1.303	0.471				After beach nourishment
+280	280A	P3/MM.Face_Praia	Beach face	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1478	-7.557	4	0.00	100.00	0.00	1.595	1.635	0.894				After beach nourishment
+281	281A	P3/MB.Terraco	Low tide terrace	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1476	-7.557	2	0.55	99.45	0.00	1.549	1.637	0.908				After beach nourishment
+282	282A	P4/MA.Berma	Berm	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1496	-7.553	5	0.04	99.96	0.00	1.151	1.318	0.549				After beach nourishment
+283	283A	P4/MM.Face_Praia	Beach face	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1494	-7.553	3	0.01	99.99	0.00	1.417	1.468	0.667				After beach nourishment
+284	284A	P4/MB.Terraco	Low tide terrace	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1491	-7.553	2	0.24	99.76	0.00	1.439	1.544	0.794				After beach nourishment
+285	285A	P5/D.Duna	Dune	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1520	-7.547	6	0.00	100.00	0.00	1.943	1.975	1.538				After beach nourishment
+286	286A	P5/MA.Berma	Berm	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1517	-7.547	5	0.67	99.33	0.00	0.981	1.232	0.459				After beach nourishment
+287	287A	P5/MM.Face_Praia	Beach face	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1516	-7.547	4	0.06	99.94	0.00	1.260	1.362	0.559				After beach nourishment
+288	288A	P5/MB.Terraco	Low tide terrace	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1514	-7.547	2	0.62	99.38	0.00	1.567	1.680	0.984				After beach nourishment
+289	289A	P6/D.Duna	Dune	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1534	-7.542	6	3.89	96.11	0.00	1.278	1.613	0.857				After beach nourishment
+290	290A	P6/MA.Berma	Berm	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1534	-7.542	5	0.32	99.68	0.00	1.410	1.509	0.745				After beach nourishment
+291	291A	P6/MM.Face_Praia	Beach face	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1532	-7.542	4	0.00	100.00	0.00	1.100	1.142	0.314				After beach nourishment
+292	292A	P6/MB.Terraco	Low tide terrace	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1530	-7.542	2	0.00	100.00	0.00	1.484	1.543	0.771				After beach nourishment
+293	293A	P7/D.Duna	Dune	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1550	-7.538	7	0.00	100.00	0.00	1.810	1.862	1.328				After beach nourishment
+294	294A	P7/MA.Berma	Berm	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1549	-7.538	5	0.24	99.76	0.00	1.466	1.581	0.862				After beach nourishment
+295	295A	P7/MM.Face_Praia	Beach face	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1548	-7.538	5	0.00	100.00	0.00	1.391	1.442	0.634				After beach nourishment
+296	296A	P7/MB.Terraco	Low tide terrace	1998-07-28	Coastal Monitoring	Hand-Collecting	37.1547	-7.538	3	0.48	99.52	0.00	1.736	1.827	1.240				After beach nourishment
+297	297A	P2/1		1996-06-04	Coastal Monitoring	Hand-Collecting	37.0109	-8.000		0.71	99.29	0.00	1.033	0.458	-0.589				
+298	298A	P2/2		1996-06-04	Coastal Monitoring	Hand-Collecting	37.0109	-8.000		2.72	97.28	0.00	0.701	0.592	-0.908				
+299	299A	P2/3		1996-06-04	Coastal Monitoring	Hand-Collecting	37.0109	-8.000		0.80	99.20	0.00	0.452	0.226	-0.707				
+300	300A	P2/4		1996-06-04	Coastal Monitoring	Hand-Collecting	37.0107	-8.001		0.08	99.92	0.00	1.244	0.175	-0.232				
+301	301A	P2/5		1996-06-04	Coastal Monitoring	Hand-Collecting	37.0107	-8.001		2.07	97.93	0.00	-0.138	0.140	-0.902				
+302	302A	P3/1		1996-06-04	Coastal Monitoring	Hand-Collecting	37.0077	-7.995		0.10	99.90	0.00	0.931	0.342	-0.073				
+303	303A	P3/2		1996-06-04	Coastal Monitoring	Hand-Collecting	37.0077	-7.995		0.00	100.00	0.00	1.003	0.320	-0.072				
+304	304A	P3/3		1996-06-04	Coastal Monitoring	Hand-Collecting	37.0077	-7.995		0.00	100.00	0.00	0.484	0.096	-0.195				
+305	305A	P3/4		1996-06-04	Coastal Monitoring	Hand-Collecting	37.0076	-7.995		0.00	100.00	0.00	0.287	0.085	-0.039				
+306	306A	P3/5		1996-06-04	Coastal Monitoring	Hand-Collecting	37.0076	-7.996		15.20	84.80	0.00	-0.529	0.359	-1.182				
+307	307A	P4/1		1996-06-04	Coastal Monitoring	Hand-Collecting	37.0024	-7.987		0.60	99.40	0.00	1.045	0.364	-0.802				
+308	308A	P4/2		1996-06-04	Coastal Monitoring	Hand-Collecting	37.0024	-7.987		0.00	100.00	0.00	0.825	0.382	0.243				
+309	309A	P4/3		1996-06-04	Coastal Monitoring	Hand-Collecting	37.0023	-7.987		0.00	100.00	0.00	0.830	0.313	0.953				
+310	310A	P4/4		1996-06-04	Coastal Monitoring	Hand-Collecting	37.0022	-7.987		5.20	94.80	0.00	-0.411	0.136	-0.819				
+311	311A	P5/0		1996-06-04	Coastal Monitoring	Hand-Collecting	36.9968	-7.978		0.10	99.90	0.00	0.734	0.364	0.076				
+312	312A	P5/1		1996-06-04	Coastal Monitoring	Hand-Collecting	36.9968	-7.978		0.29	99.71	0.00	0.808	0.330	-0.124				
+313	313A	P5/2		1996-06-04	Coastal Monitoring	Hand-Collecting	36.9967	-7.978		1.10	98.90	0.00	0.718	0.452	-0.615				
+314	314A	P5/3		1996-06-04	Coastal Monitoring	Hand-Collecting	36.9966	-7.979		0.26	99.74	0.00	1.258	0.324	-0.630				
+315	315A	P5/4		1996-06-04	Coastal Monitoring	Hand-Collecting	36.9965	-7.979		0.89	99.11	0.00	-0.133	0.126	0.245				
+316	316A	P6/0		1996-06-04	Coastal Monitoring	Hand-Collecting	36.9920	-7.971		0.00	100.00	0.00	0.804	0.317	-0.031				
+317	317A	P6/1		1996-06-04	Coastal Monitoring	Hand-Collecting	36.9920	-7.971		0.00	100.00	0.00	1.120	0.269	-0.043				
+318	318A	P6/2		1996-06-04	Coastal Monitoring	Hand-Collecting	36.9920	-7.971		0.00	100.00	0.00	0.964	0.240	0.219				
+319	319A	P6/3		1996-06-04	Coastal Monitoring	Hand-Collecting	36.9918	-7.971		0.00	100.00	0.00	1.485	0.294	-0.123				
+320	320A	P6/4		1996-06-04	Coastal Monitoring	Hand-Collecting	36.9917	-7.971		1.10	98.90	0.00	1.294	0.688	-0.848				
+321	321A	P6/5		1996-06-04	Coastal Monitoring	Hand-Collecting	36.9916	-7.971		3.92	96.08	0.00	-0.070	0.382	0.016				
+322	322A	P2/1		1996-11-13	Coastal Monitoring	Hand-Collecting	37.0109	-8.000		0.10	99.90	0.00	0.824	0.232	-0.018				
+323	323A	P2/2		1996-11-13	Coastal Monitoring	Hand-Collecting	37.0107	-8.001		0.00	100.00	0.00	1.003	0.183	0.218				
+324	324A	P2/3		1996-11-13	Coastal Monitoring	Hand-Collecting	37.0107	-8.001		0.00	100.00	0.00	1.048	0.138	0.713				
+325	325A	P3/1		1996-11-13	Coastal Monitoring	Hand-Collecting	37.0077	-7.995		0.39	99.61	0.00	0.722	0.259	-0.207				
+326	326A	P3/2		1996-11-13	Coastal Monitoring	Hand-Collecting	37.0076	-7.995		0.00	100.00	0.00	0.760	0.164	0.306				
+327	327A	P3/3		1996-11-13	Coastal Monitoring	Hand-Collecting	37.0076	-7.996		0.00	100.00	0.00	1.271	0.209	-0.036				
+328	328A	P4/1		1996-11-13	Coastal Monitoring	Hand-Collecting	37.0024	-7.987		0.10	99.90	0.00	0.885	0.339	0.216				
+329	329A	P4/2		1996-11-13	Coastal Monitoring	Hand-Collecting	37.0023	-7.987		0.45	99.55	0.00	0.731	0.232	-0.808				
+330	330A	P4/3		1996-11-13	Coastal Monitoring	Hand-Collecting	37.0022	-7.987		0.09	99.91	0.00	0.744	0.218	-0.061				
+331	331A	P5/1		1996-11-13	Coastal Monitoring	Hand-Collecting	36.9968	-7.978		0.00	100.00	0.00	0.800	0.278	0.124				
+332	332A	P5/2		1996-11-13	Coastal Monitoring	Hand-Collecting	36.9967	-7.978		0.18	99.82	0.00	0.528	0.240	0.273				
+333	333A	P5/3		1996-11-13	Coastal Monitoring	Hand-Collecting	36.9966	-7.979		0.00	100.00	0.00	0.521	0.224	0.306				
+334	334A	P5/4		1996-11-13	Coastal Monitoring	Hand-Collecting	36.9965	-7.979		1.26	98.74	0.00	0.243	0.350	-0.076				
+335	335A	P6/0		1996-11-13	Coastal Monitoring	Hand-Collecting	36.9920	-7.971		0.00	100.00	0.00	1.060	0.246	0.065				
+336	336A	P6/1		1996-11-13	Coastal Monitoring	Hand-Collecting	36.9920	-7.971		0.26	99.74	0.00	0.534	0.329	0.341				
+337	337A	P6/2		1996-11-13	Coastal Monitoring	Hand-Collecting	36.9920	-7.971		0.00	100.00	0.00	0.997	0.198	0.032				
+338	338A	P6/3		1996-11-13	Coastal Monitoring	Hand-Collecting	36.9917	-7.971		0.00	100.00	0.00	0.651	0.259	0.212				
+339	339A	P2/0		1997-01-12	Coastal Monitoring	Hand-Collecting	37.0110	-8.000		0.00	100.00	0.00	1.043	0.234	0.285				
+340	340A	P2/1		1997-01-12	Coastal Monitoring	Hand-Collecting	37.0109	-8.000		0.09	99.91	0.00	0.636	0.429	0.028				
+341	341A	P2/2		1997-01-12	Coastal Monitoring	Hand-Collecting	37.0109	-8.000		0.30	99.70	0.00	1.087	0.315	-0.506				
+342	342A	P2/3		1997-01-12	Coastal Monitoring	Hand-Collecting	37.0109	-8.000		0.37	99.63	0.00	1.183	0.338	-0.900				
+343	343A	P2/4		1997-01-12	Coastal Monitoring	Hand-Collecting	37.0107	-8.001		0.18	99.82	0.00	1.325	0.285	-0.626				
+344	344A	P3/1		1997-01-12	Coastal Monitoring	Hand-Collecting	37.0077	-7.995		0.00	100.00	0.00	1.013	0.217	0.100				
+345	345A	P3/2		1997-01-12	Coastal Monitoring	Hand-Collecting	37.0077	-7.995		0.99	99.01	0.00	0.582	0.440	-0.208				
+346	346A	P3/3		1997-01-12	Coastal Monitoring	Hand-Collecting	37.0076	-7.995		0.09	99.91	0.00	1.273	0.392	-0.496				
+347	347A	P4/1		1997-01-12	Coastal Monitoring	Hand-Collecting	37.0024	-7.987		0.74	99.26	0.00	0.718	0.441	-0.047				
+348	348A	P4/2		1997-01-12	Coastal Monitoring	Hand-Collecting	37.0024	-7.987		0.61	99.39	0.00	0.841	0.620	0.003				
+349	349A	P4/3		1997-01-12	Coastal Monitoring	Hand-Collecting	37.0023	-7.987		0.18	99.82	0.00	1.488	0.433	-0.814				
+350	350A	P5/1		1997-01-12	Coastal Monitoring	Hand-Collecting	36.9968	-7.978		0.00	100.00	0.00	0.380	0.223	0.462				
+351	351A	P5/2		1997-01-12	Coastal Monitoring	Hand-Collecting	36.9967	-7.978		0.62	99.38	0.00	0.520	0.381	0.258				
+352	352A	P5/3		1997-01-12	Coastal Monitoring	Hand-Collecting	36.9966	-7.979		0.09	99.91	0.00	0.425	0.234	0.656				
+353	353A	P5/4		1997-01-12	Coastal Monitoring	Hand-Collecting	36.9965	-7.979		0.92	99.08	0.00	0.826	0.403	-0.766				
+354	354A	P6/1		1997-01-12	Coastal Monitoring	Hand-Collecting	36.9920	-7.971		0.00	100.00	0.00	0.733	0.340	0.298				
+355	355A	P6/2		1997-01-12	Coastal Monitoring	Hand-Collecting	36.9920	-7.971		1.78	98.22	0.00	0.650	0.542	-0.423				
+356	356A	P6/3		1997-01-12	Coastal Monitoring	Hand-Collecting	36.9917	-7.971		1.94	98.06	0.00	0.526	0.459	-0.355				
+357	357A	P6/4		1997-01-12	Coastal Monitoring	Hand-Collecting	36.9916	-7.971		0.61	99.39	0.00	1.609	0.411	-1.565				
+358	358A	P2/1		1997-03-25	Coastal Monitoring	Hand-Collecting	37.0109	-8.000		0.84	99.16	0.00	0.824	0.414	-0.470				
+359	359A	P2/2		1997-03-25	Coastal Monitoring	Hand-Collecting	37.0109	-8.000		0.00	100.00	0.00	0.723	0.346	0.418				
+360	360A	P2/3		1997-03-25	Coastal Monitoring	Hand-Collecting	37.0107	-8.001		1.29	98.71	0.00	0.539	0.478	-0.189				
+361	361A	P3/1		1997-03-25	Coastal Monitoring	Hand-Collecting	37.0077	-7.995		0.09	99.91	0.00	0.937	0.296	0.039				
+362	362A	P3/2		1997-03-25	Coastal Monitoring	Hand-Collecting	37.0076	-7.995		0.84	99.16	0.00	0.477	0.388	0.008				
+363	363A	P3/3		1997-03-25	Coastal Monitoring	Hand-Collecting	37.0076	-7.996		0.20	99.80	0.00	0.556	0.217	-0.095				
+364	364A	P4/1		1997-03-25	Coastal Monitoring	Hand-Collecting	37.0024	-7.987		0.19	99.81	0.00	1.032	0.353	-0.053				
+365	365A	P4/2		1997-03-25	Coastal Monitoring	Hand-Collecting	37.0023	-7.987		2.31	97.69	0.00	0.514	0.586	-0.140				
+366	366A	P4/3		1997-03-25	Coastal Monitoring	Hand-Collecting	37.0022	-7.987		0.37	99.63	0.00	0.675	0.291	-0.342				
+367	367A	P5/1		1997-03-25	Coastal Monitoring	Hand-Collecting	36.9968	-7.978		0.09	99.91	0.00	0.381	0.322	0.518				
+368	368A	P5/2		1997-03-25	Coastal Monitoring	Hand-Collecting	36.9967	-7.978		0.76	99.24	0.00	0.642	0.378	-0.333				
+369	369A	P5/3		1997-03-25	Coastal Monitoring	Hand-Collecting	36.9966	-7.979		0.00	100.00	0.00	1.417	0.341	-0.259				
+370	370A	P6/1		1997-03-25	Coastal Monitoring	Hand-Collecting	36.9920	-7.971		0.00	100.00	0.00	0.981	0.358	0.098				
+371	371A	P6/2		1997-03-25	Coastal Monitoring	Hand-Collecting	36.9920	-7.971		0.17	99.83	0.00	0.443	0.264	0.403				
+372	372A	P6/3		1997-03-25	Coastal Monitoring	Hand-Collecting	36.9917	-7.971		0.00	100.00	0.00	1.127	0.442	0.015				
+373	373A	P2/1		1997-05-08	Coastal Monitoring	Hand-Collecting	37.0109	-8.000		0.90	99.10	0.00	0.955	0.470	-0.681				
+374	374A	P2/2		1997-05-08	Coastal Monitoring	Hand-Collecting	37.0107	-8.001		0.56	99.44	0.00	0.423	0.279	-0.170				
+375	375A	P2/3		1997-05-08	Coastal Monitoring	Hand-Collecting	37.0107	-8.001		0.00	100.00	0.00	1.350	0.292	-0.120				
+376	376A	P3/1		1997-05-08	Coastal Monitoring	Hand-Collecting	37.0077	-7.995		0.27	99.73	0.00	0.748	0.476	0.004				
+377	377A	P3/2		1997-05-08	Coastal Monitoring	Hand-Collecting	37.0076	-7.995		0.17	99.83	0.00	0.412	0.157	0.566				
+378	378A	P3/3		1997-05-08	Coastal Monitoring	Hand-Collecting	37.0076	-7.996		0.00	100.00	0.00	1.058	0.371	0.278				
+379	379A	P4/1		1997-05-08	Coastal Monitoring	Hand-Collecting	37.0024	-7.987		0.35	99.65	0.00	0.929	0.428	-0.097				
+380	380A	P4/2		1997-05-08	Coastal Monitoring	Hand-Collecting	37.0023	-7.987		0.00	100.00	0.00	0.891	0.345	0.430				
+381	381A	P4/3		1997-05-08	Coastal Monitoring	Hand-Collecting	37.0022	-7.987		1.10	98.90	0.00	0.289	0.250	-0.103				
+382	382A	P5/1		1997-05-08	Coastal Monitoring	Hand-Collecting	36.9967	-7.978		0.19	99.81	0.00	1.007	0.374	-0.019				
+383	383A	P5/2		1997-05-08	Coastal Monitoring	Hand-Collecting	36.9966	-7.979		0.65	99.35	0.00	0.476	0.334	-0.013				
+384	384A	P5/3		1997-05-08	Coastal Monitoring	Hand-Collecting	36.9965	-7.979		0.34	99.66	0.00	0.725	0.244	-0.055				
+385	385A	P6/1		1997-05-08	Coastal Monitoring	Hand-Collecting	36.9920	-7.971		0.61	99.39	0.00	0.986	0.593	-0.457				
+386	386A	P6/2		1997-05-08	Coastal Monitoring	Hand-Collecting	36.9917	-7.971		0.09	99.91	0.00	0.487	0.204	0.898				
+387	387A	P6/3		1997-05-08	Coastal Monitoring	Hand-Collecting	36.9916	-7.971		0.00	100.00	0.00	1.127	0.227	-0.023				
+388	388A	AN1/A		1997-10-18	Coastal Monitoring	Hand-Collecting	37.0365	-8.045	5	0.00	100.00	0.00	1.347	0.633	-0.022	0.949	1.247		
+389	389A	AN1/B		1997-10-18	Coastal Monitoring	Hand-Collecting	37.0361	-8.045	1	0.30	99.70	0.00	1.113	0.791	-0.037	0.844	1.747	0.747	After beach nourishment
+390	390A	AN1/A		1998-01-06	Coastal Monitoring	Hand-Collecting	37.0366	-8.045	7	0.00	100.00	0.00	1.345	0.429	0.004	0.993	1.247		After beach nourishment
+391	391A	AN1/B		1998-01-06	Coastal Monitoring	Hand-Collecting	37.0364	-8.045	2	0.00	100.00	0.00	1.547	0.472	-0.069	1.054	1.747		After beach nourishment
+392	392A	AN1/A		1998-02-12	Coastal Monitoring	Hand-Collecting	37.0366	-8.045	5	4.10	95.90	0.00	-0.331	0.417	-0.055	1.130	-0.243		After beach nourishment
+393	393A	AN1/B		1998-02-12	Coastal Monitoring	Hand-Collecting	37.0363	-8.045	2	0.40	99.60	0.00	1.228	0.559	-0.117	0.937	1.247		After beach nourishment
+394	394A	G1/A		1997-10-18	Coastal Monitoring	Hand-Collecting	37.0407	-8.052	4	0.00	100.00	0.00	1.297	0.484	-0.059	0.975	1.247		After beach nourishment
+395	395A	G1/B		1997-10-18	Coastal Monitoring	Hand-Collecting	37.0405	-8.052	2	0.10	99.90	0.00	1.148	0.621	-0.076	0.975	1.247		After beach nourishment
+396	396A	G2/A		1997-10-18	Coastal Monitoring	Hand-Collecting	37.0397	-8.050	5	0.30	99.70	0.00	1.256	0.574	-0.068	1.048	1.247		After beach nourishment
+397	397A	G2/B		1997-10-18	Coastal Monitoring	Hand-Collecting	37.0394	-8.051	2	0.40	99.60	0.00	0.978	0.857	0.040	0.838	0.247		After beach nourishment
+398	398A	G1/A		1998-01-06	Coastal Monitoring	Hand-Collecting	37.0408	-8.052	6	0.00	86.50	13.50	1.970	1.105	0.247	1.784	1.747	4.477	After beach nourishment
+399	399A	G1/B		1998-01-06	Coastal Monitoring	Hand-Collecting	37.0404	-8.052	2	0.00	100.00	0.00	1.760	0.476	-0.004	0.983	1.747		After beach nourishment
+400	400A	G2/A		1998-01-06	Coastal Monitoring	Hand-Collecting	37.0398	-8.050	6	6.90	87.70	5.40	1.036	1.379	-0.088	2.209	1.247	-2.243	After beach nourishment
+401	401A	G2/B		1998-01-06	Coastal Monitoring	Hand-Collecting	37.0395	-8.050	2	0.00	100.00	0.00	1.738	0.432	-0.010	1.176	1.747		After beach nourishment
+402	402A	G1/A		1998-02-12	Coastal Monitoring	Hand-Collecting	37.0407	-8.052	5	0.00	99.00	1.00	1.284	0.445	0.057	1.215	1.247		After beach nourishment
+403	403A	G1/B		1998-02-12	Coastal Monitoring	Hand-Collecting	37.0403	-8.052	1	0.00	100.00	0.00	0.293	0.458	0.074	1.008	0.247		After beach nourishment
+404	404A	G2/A		1998-02-12	Coastal Monitoring	Hand-Collecting	37.0398	-8.050	6	0.00	100.00	0.00	1.046	0.436	-0.068		1.247		After beach nourishment
+405	405A	G2/B		1998-02-12	Coastal Monitoring	Hand-Collecting	37.0394	-8.050	2	0.00	100.00	0.00	1.264	0.439	0.053	1.116	1.247		After beach nourishment
+406	406A	T1/A		1997-10-19	Coastal Monitoring	Hand-Collecting	37.0574	-8.081	3	0.00	100.00	0.00	1.517	0.453	-0.097	1.018	1.747		After beach nourishment
+407	407A	T1/B		1997-10-19	Coastal Monitoring	Hand-Collecting	37.0572	-8.081	2	0.00	100.00	0.00	1.250	0.476	0.032	0.851	1.247		After beach nourishment
+408	408A	T2/A		1997-10-19	Coastal Monitoring	Hand-Collecting	37.0568	-8.080	4	0.00	100.00	0.00	1.200	0.451	0.002	1.017	1.247		After beach nourishment
+409	409A	T2/B		1997-10-19	Coastal Monitoring	Hand-Collecting	37.0565	-8.080	2	0.00	100.00	0.00	1.254	0.480	0.007	0.911	1.247		After beach nourishment
+410	410A	T3/A		1997-10-19	Coastal Monitoring	Hand-Collecting	37.0558	-8.078	5	0.00	100.00	0.00	1.465	0.578	-0.042	0.957	1.747		After beach nourishment
+411	411A	T3/B		1997-10-19	Coastal Monitoring	Hand-Collecting	37.0555	-8.078	1	0.20	99.70	0.10	1.375	0.435	0.131	1.211	1.247		After beach nourishment
+412	412A	T1/A		1997-12-16	Coastal Monitoring	Hand-Collecting	37.0575	-8.081	4	0.00	100.00	0.00	0.738	0.494	0.030	0.897	0.747		After beach nourishment
+413	413A	T1/B		1997-12-16	Coastal Monitoring	Hand-Collecting	37.0573	-8.081	2	0.90	99.10	0.00	1.209	0.634	0.039	0.979	1.247		After beach nourishment
+414	414A	T2/A		1997-12-16	Coastal Monitoring	Hand-Collecting	37.0568	-8.080	4	0.20	99.80	0.00	0.648	0.546	-0.008	0.998	0.747		After beach nourishment
+415	415A	T2/B		1997-12-16	Coastal Monitoring	Hand-Collecting	37.0564	-8.080	1	2.60	96.10	1.40	1.518	0.838	-0.187	0.968	1.747		After beach nourishment
+416	416A	T3/A		1997-12-16	Coastal Monitoring	Hand-Collecting	37.0558	-8.078	4	0.00	100.00	0.00	0.470	0.672	-0.057	1.102	0.747		After beach nourishment
+417	417A	T3/B		1997-12-16	Coastal Monitoring	Hand-Collecting	37.0555	-8.078	1	0.60	99.40	0.00	1.109	0.738	0.033	0.844	0.747	1.747	After beach nourishment
+418	418A	T1/A		1998-01-06	Coastal Monitoring	Hand-Collecting	37.0575	-8.081	5	0.00	100.00	0.00	0.730	0.654	0.023	0.951	0.747		After beach nourishment
+419	419A	T1/B		1998-01-06	Coastal Monitoring	Hand-Collecting	37.0573	-8.081	2	1.00	99.00	0.00	1.421	0.868	-0.040	0.862	1.747		After beach nourishment
+420	420A	T2/A		1998-01-06	Coastal Monitoring	Hand-Collecting	37.0568	-8.080	5	0.00	100.00	0.00	0.656	0.628	0.027	1.016	0.747		After beach nourishment
+421	421A	T2/B		1998-01-06	Coastal Monitoring	Hand-Collecting	37.0566	-8.080	1	1.60	98.40	0.00	2.054	0.543	-0.026	0.980	2.237		After beach nourishment
+422	422A	T3/A		1998-01-06	Coastal Monitoring	Hand-Collecting	37.0558	-8.078	6	0.00	100.00	0.00	0.830	0.617	-0.030	1.054	0.747		After beach nourishment
+423	423A	T3/B		1998-01-06	Coastal Monitoring	Hand-Collecting	37.0556	-8.078	2	0.00	99.90	0.10	1.699	0.589	-0.145	1.007	1.747		After beach nourishment
+424	424A	T1/A		1998-02-12	Coastal Monitoring	Hand-Collecting	37.0574	-8.081	4	0.00	100.00	0.00	1.329	0.559	-0.119	1.037	1.247		After beach nourishment
+425	425A	T1/B		1998-02-12	Coastal Monitoring	Hand-Collecting	37.0569	-8.082	1	0.00	100.00	0.00	1.449	0.464	-0.050	1.000	1.747		After beach nourishment
+426	426A	T2/A		1998-02-12	Coastal Monitoring	Hand-Collecting	37.0568	-8.080	4	0.00	100.00	0.00	1.457	0.416	0.006	0.954	1.247		After beach nourishment
+427	427A	T2/B		1998-02-12	Coastal Monitoring	Hand-Collecting	37.0564	-8.080	1	0.00	100.00	0.00	1.384	0.513	0.038	1.019	1.247		After beach nourishment
+428	428A	T3/A		1998-02-12	Coastal Monitoring	Hand-Collecting	37.0558	-8.078	4	0.00	100.00	0.00	1.316	0.447	-0.019	0.989	1.247		After beach nourishment
+429	429A	T3/B		1998-02-12	Coastal Monitoring	Hand-Collecting	37.0555	-8.078	2	0.00	100.00	0.00	1.133	0.450	0.103	0.925	1.247		After beach nourishment
+430	430A	FN1/A		1997-10-19	Coastal Monitoring	Hand-Collecting	37.0607	-8.087	6	0.30	99.40	0.30	1.202	0.659	-0.081	1.048	1.247		After beach nourishment
+431	431A	FN1/B		1997-10-19	Coastal Monitoring	Hand-Collecting	37.0603	-8.087	2	0.00	100.00	0.00	1.746	0.676	-0.086	0.905	1.747		After beach nourishment
+432	432A	FN2/A		1997-10-19	Coastal Monitoring	Hand-Collecting	37.0600	-8.086	6	0.50	99.00	0.50	1.136	0.644	-0.046	1.048	1.247		After beach nourishment
+433	433A	FN2/B		1997-10-19	Coastal Monitoring	Hand-Collecting	37.0597	-8.086	2	0.00	100.00	0.00	1.106	0.520	0.259	1.005	0.747		After beach nourishment
+434	434A	FN3/A		1997-10-19	Coastal Monitoring	Hand-Collecting	37.0594	-8.085	6	1.00	97.60	1.50	1.159	0.784	-0.083	1.111	1.247		After beach nourishment
+435	435A	FN3/B		1997-10-19	Coastal Monitoring	Hand-Collecting	37.0591	-8.085	1	0.00	100.00	0.00	1.195	0.595	-0.046	1.095	1.247		After beach nourishment
+436	436A	FN1/A		1997-12-16	Coastal Monitoring	Hand-Collecting	37.0606	-8.087	4	0.70	98.30	1.00	1.019	0.765	-0.123	1.056	1.247		After beach nourishment
+437	437A	FN1/B		1997-12-16	Coastal Monitoring	Hand-Collecting	37.0603	-8.087	2	0.00	100.00	0.00	1.221	0.542	0.052	1.015	1.247		After beach nourishment
+438	438A	FN2/A		1997-12-16	Coastal Monitoring	Hand-Collecting	37.0600	-8.086	5	0.10	99.90	0.00	1.210	0.597	-0.031	1.039	1.247		After beach nourishment
+439	439A	FN2/B		1997-12-16	Coastal Monitoring	Hand-Collecting	37.0596	-8.086	2	0.00	100.00	0.00	1.450	0.554	-0.086	0.987	1.747		After beach nourishment
+440	440A	FN3/A		1997-12-16	Coastal Monitoring	Hand-Collecting	37.0594	-8.085	5	1.00	98.50	0.50	0.943	0.898	0.036	1.041	1.247		After beach nourishment
+441	441A	FN3/B		1997-12-16	Coastal Monitoring	Hand-Collecting	37.0590	-8.085	2	0.00	97.80	2.20	1.252	0.639	-0.013	1.044	1.247		After beach nourishment
+442	442A	FN1/A		1997-12-21	Coastal Monitoring	Hand-Collecting	37.0607	-8.087	6	0.20	99.30	0.50	1.184	0.651	-0.030	1.084	1.247		After beach nourishment
+443	443A	FN1/B		1997-12-21	Coastal Monitoring	Hand-Collecting	37.0603	-8.087	2	0.00	100.00	0.00	1.013	0.758	-0.027	0.823	1.247	0.247	After beach nourishment
+444	444A	FN1/A		1998-01-06	Coastal Monitoring	Hand-Collecting	37.0607	-8.087	6	0.70	96.90	2.40	0.956	0.886	-0.066	0.888	1.247	0.247	After beach nourishment
+445	445A	FN1/B		1998-01-06	Coastal Monitoring	Hand-Collecting	37.0605	-8.087	3	16.80	83.20	0.00	0.650	1.492	-0.381	0.950	1.747	-2.243	After beach nourishment
+446	446A	FN2/A		1998-01-06	Coastal Monitoring	Hand-Collecting	37.0600	-8.086	5	0.30	96.40	3.30	1.351	0.790	0.014	1.258	1.247		After beach nourishment
+447	447A	FN2/B		1998-01-06	Coastal Monitoring	Hand-Collecting	37.0598	-8.086	2	0.10	99.90	0.00	1.469	0.583	-0.104	1.124	1.747		After beach nourishment
+448	448A	FN3/A		1998-01-06	Coastal Monitoring	Hand-Collecting	37.0595	-8.085	5	0.00	100.00	0.00	1.673	0.549	-0.044	1.087	1.747		After beach nourishment
+449	449A	FN3/B		1998-01-06	Coastal Monitoring	Hand-Collecting	37.0592	-8.085	2	0.10	99.90	0.00	1.574	0.793	-0.054	0.984	1.747		After beach nourishment
+450	450A	FN1/A		1998-02-12	Coastal Monitoring	Hand-Collecting	37.0607	-8.087	4	0.10	99.50	0.40	1.303	0.587	-0.083	1.079	1.247		After beach nourishment
+451	451A	FN1/B		1998-02-12	Coastal Monitoring	Hand-Collecting	37.0603	-8.087	2	0.10	99.90	0.00	0.733	0.576	0.058	1.168	0.747		After beach nourishment
+452	452A	FN2/A		1998-02-12	Coastal Monitoring	Hand-Collecting	37.0600	-8.086	5	0.00	99.90	0.10	2.020	0.467	-0.083	1.045	2.237		After beach nourishment
+453	453A	FN2/B		1998-02-12	Coastal Monitoring	Hand-Collecting	37.0596	-8.086	2	0.00	100.00	0.00	1.129	0.492	0.127	0.904	0.747		After beach nourishment
+454	454A	FN3/A		1998-02-12	Coastal Monitoring	Hand-Collecting	37.0595	-8.085	4	0.00	99.80	0.20	1.519	0.476	-0.062	1.017	1.747		After beach nourishment
+455	455A	FN3/B		1998-02-12	Coastal Monitoring	Hand-Collecting	37.0591	-8.085	1	0.10	99.90	0.00	1.066	0.629	-0.072	0.880	1.247		After beach nourishment

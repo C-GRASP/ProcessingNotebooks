@@ -1,0 +1,39 @@
+/* DATA DESCRIPTION:
+Citation:	GRADBENTHICRF Project Members (2015): Sediment analysis of the Ancão inlet and adjacent areas. PANGAEA, https://doi.org/10.1594/PANGAEA.883077, 
+	In supplement to: Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Surficial sediment texture database for the south-western Iberian Atlantic margin. Earth System Science Data, 10(2), 1185-1195, https://doi.org/10.5194/essd-10-1185-2018
+Original version:	Original data of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed) (URI: https://store.pangaea.de/Publications/Coasta-etal_2017/PLOSscripts.zip)
+Further details:	Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Shape files of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed). PANGAEA, https://doi.org/10.1594/PANGAEA.890946
+Coverage:	MEDIAN LATITUDE: 36.988376 * MEDIAN LONGITUDE: -7.962260 * SOUTH-BOUND LATITUDE: 36.984530 * WEST-BOUND LONGITUDE: -7.968307 * NORTH-BOUND LATITUDE: 36.991613 * EAST-BOUND LONGITUDE: -7.955000
+	DATE/TIME START: 2015-11-16T00:00:00 * DATE/TIME END: 2015-11-16T00:00:00
+Event(s):	IBAM-Sed_GRADBENTHICRF * LATITUDE: 36.986000 * LONGITUDE: -7.957000 * DATE/TIME START: 2015-11-16T00:00:00 * DATE/TIME END: 2015-11-16T00:00:00 * METHOD/DEVICE: Dredge (DRG)
+Comment:	GRADBENTHICRF (2015). Study of benthic community of Ria Formosa
+Parameter(s):	Sample ID (Sample ID) * PI: GRADBENTHICRF Project Members * COMMENT: Sample number
+	Sample ID (Sample ID) * PI: GRADBENTHICRF Project Members * COMMENT: Acess number from laboratory
+	Sample ID (Sample ID) * PI: GRADBENTHICRF Project Members * COMMENT: Reference sample in the collect
+	DATE/TIME (Date/Time) * GEOCODE * PI: GRADBENTHICRF Project Members * COMMENT: of collecting
+	Project (Project) * PI: GRADBENTHICRF Project Members
+	LATITUDE (Latitude) * GEOCODE * PI: GRADBENTHICRF Project Members * COMMENT: WGS1984
+	LONGITUDE (Longitude) * GEOCODE * PI: GRADBENTHICRF Project Members * COMMENT: WGS1984
+	Gravel [%] (Gravel) * PI: GRADBENTHICRF Project Members * METHOD/DEVICE: Grain size, sieving
+	Sandstone [%] (Sdst) * PI: GRADBENTHICRF Project Members * METHOD/DEVICE: Grain size, sieving
+	Mudstone [%] (Mudstone) * PI: GRADBENTHICRF Project Members * METHOD/DEVICE: Grain size, sieving/pipette
+	Grain size, mean [phi] (Grain size mean) * PI: GRADBENTHICRF Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Standard deviation [±] (Std dev) * PI: GRADBENTHICRF Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: Of sample value
+	Skewness (Skew) * PI: GRADBENTHICRF Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Kurtosis (Kurt) * PI: GRADBENTHICRF Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Mode, grain size [phi] (Mode) * PI: GRADBENTHICRF Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 1st Mode sample value
+	Mode, grain size [phi] (Mode) * PI: GRADBENTHICRF Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 2nd Mode sample value
+	Mode, grain size [phi] (Mode) * PI: GRADBENTHICRF Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 3rd Mode sample value
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	112 data points
+*/
+Sample ID (Sample number)	Sample ID (Acess number from laboratory)	Sample ID (Reference sample in the collect)	Date/Time (of collecting)	Project	Latitude (WGS1984)	Longitude (WGS1984)	Gravel [%] (Grain size, sieving)	Sdst [%] (Grain size, sieving)	Mudstone [%] (Grain size, sieving/pipette)	Grain size mean [phi] (Grain size, sieving/pipette, ...)	Std dev [±] (Of sample value, Grain size, ...)	Skew (Grain size, sieving/pipette, ...)	Kurt (Grain size, sieving/pipette, ...)	Mode [phi] (1st Mode sample value, Grain ...)	Mode [phi] (2nd Mode sample value, Grain ...)	Mode [phi] (3rd Mode sample value, Grain ...)
+1	2903	AIs	2015-11-16	Graduation_Study of benthic community of Ria Formosa	36.991613	-7.968307	6.0	94.0	0.0	0.736	0.925	-0.226	1.108	1.247		
+2	2904	AIIs	2015-11-16	Graduation_Study of benthic community of Ria Formosa	36.991447	-7.968196	1.5	97.3	1.1	1.062	0.657	-0.076	1.212	1.247		
+3	2905	AIIIs	2015-11-16	Graduation_Study of benthic community of Ria Formosa	36.991308	-7.968168	1.1	96.9	2.0	1.042	0.636	0.021	1.154	1.247		
+4	2906	BIs	2015-11-16	Graduation_Study of benthic community of Ria Formosa	36.989113	-7.963501	3.3	95.0	1.7	1.016	0.906	-0.172	1.091	1.247		
+5	2907	BIIs	2015-11-16	Graduation_Study of benthic community of Ria Formosa	36.989058	-7.963473	1.9	97.3	0.8	1.040	0.767	-0.123	1.084	1.247		
+6	2908	BIIIs	2015-11-16	Graduation_Study of benthic community of Ria Formosa	36.988974	-7.963418	1.4	95.8	2.8	1.176	0.762	-0.010	1.186	1.247		
+7	2909	CIs	2015-11-16	Graduation_Study of benthic community of Ria Formosa	36.984530	-7.955000	0.9	97.3	1.8	1.282	1.113	0.335	1.201	0.747	2.737	
+8	2910	CIIs	2015-11-16	Graduation_Study of benthic community of Ria Formosa	36.984613	-7.955111	8.9	83.0	8.1	1.350	2.206	0.162	1.338	0.747	3.237	-3.743
+9	2911	CIIIs	2015-11-16	Graduation_Study of benthic community of Ria Formosa	36.984724	-7.955167	2.3	96.8	0.9	0.977	1.080	0.253	1.342	0.747	2.737	

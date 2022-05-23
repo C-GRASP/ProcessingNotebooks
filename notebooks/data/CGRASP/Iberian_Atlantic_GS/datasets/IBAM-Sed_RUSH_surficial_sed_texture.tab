@@ -1,0 +1,46 @@
+/* DATA DESCRIPTION:
+Citation:	RUSH Project Members (2015): Sediment sample analysis to determine variations after overwash at Ancao peninsula within the frame of the RUSH project. PANGAEA, https://doi.org/10.1594/PANGAEA.883078, 
+	In supplement to: Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Surficial sediment texture database for the south-western Iberian Atlantic margin. Earth System Science Data, 10(2), 1185-1195, https://doi.org/10.5194/essd-10-1185-2018
+Original version:	Original data of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed) (URI: https://store.pangaea.de/Publications/Coasta-etal_2017/PLOSscripts.zip)
+Further details:	Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Shape files of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed). PANGAEA, https://doi.org/10.1594/PANGAEA.890946
+Coverage:	MEDIAN LATITUDE: 36.972295 * MEDIAN LONGITUDE: -7.934119 * SOUTH-BOUND LATITUDE: 36.972190 * WEST-BOUND LONGITUDE: -7.934199 * NORTH-BOUND LATITUDE: 36.972410 * EAST-BOUND LONGITUDE: -7.934035
+	DATE/TIME START: 2012-09-15T00:00:00 * DATE/TIME END: 2013-12-12T00:00:00
+Event(s):	IBAM-Sed_RUSH * LATITUDE: 36.970100 * LONGITUDE: -7.933800 * DATE/TIME START: 2012-09-15T00:00:00 * DATE/TIME END: 2013-12-12T00:00:00 * METHOD/DEVICE: Sampling by hand (HAND)
+Comment:	RUSH (2015). From Runup to Overwash
+Parameter(s):	Sample ID (Sample ID) * PI: RUSH Project Members * COMMENT: Sample number
+	Sample ID (Sample ID) * PI: RUSH Project Members * COMMENT: Acess number from laboratory
+	Sample ID (Sample ID) * PI: RUSH Project Members * COMMENT: Reference sample in the collect
+	Sample comment (Sample comment) * PI: RUSH Project Members
+	DATE/TIME (Date/Time) * GEOCODE * PI: RUSH Project Members * COMMENT: of collecting
+	Project (Project) * PI: RUSH Project Members
+	Sample method (Sample method) * PI: RUSH Project Members
+	LATITUDE (Latitude) * GEOCODE * PI: RUSH Project Members
+	LONGITUDE (Longitude) * GEOCODE * PI: RUSH Project Members
+	Gravel [%] (Gravel) * PI: RUSH Project Members * METHOD/DEVICE: Grain size, sieving
+	Sandstone [%] (Sdst) * PI: RUSH Project Members * METHOD/DEVICE: Grain size, sieving
+	Mudstone [%] (Mudstone) * PI: RUSH Project Members * METHOD/DEVICE: Grain size, sieving
+	Grain size, mean [phi] (Grain size mean) * PI: RUSH Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Standard deviation [±] (Std dev) * PI: RUSH Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: Of sample value
+	Skewness (Skew) * PI: RUSH Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Kurtosis (Kurt) * PI: RUSH Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Mode, grain size [phi] (Mode) * PI: RUSH Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: 1st Mode sample value
+	Mode, grain size [phi] (Mode) * PI: RUSH Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: 2nd Mode sample value
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	212 data points
+*/
+Sample ID (Sample number)	Sample ID (Acess number from laboratory)	Sample ID (Reference sample in the collect)	Sample comment	Date/Time (of collecting)	Project	Sample method	Latitude	Longitude	Gravel [%] (Grain size, sieving)	Sdst [%] (Grain size, sieving)	Mudstone [%] (Grain size, sieving)	Grain size mean [phi] (Grain size, sieving, Folk and...)	Std dev [±] (Of sample value, Grain size, ...)	Skew (Grain size, sieving, Folk and...)	Kurt (Grain size, sieving, Folk and...)	Mode [phi] (1st Mode sample value, Grain ...)	Mode [phi] (2nd Mode sample value, Grain ...)
+1	2603	ST2	Low tide terrace	2012-09-15	RUSH	Hand-Collecting	36.9722	-7.9342	1.80	98.20	0.00	1.231	1.187	0.075	0.674	2.737	0.247
+2	2604	ST3	Lower Beach	2012-09-15	RUSH	Hand-Collecting	36.9722	-7.9342	0.10	99.90	0.00	1.526	0.595	0.005	0.924	1.247	
+3	2605	ST4	Upper Beach	2012-09-15	RUSH	Hand-Collecting	36.9723	-7.9341	0.40	99.60	0.00	0.849	0.710	0.033	0.927	0.747	
+4	2623	ST2	Low tide terrace	2013-02-22	RUSH	Hand-Collecting	36.9722	-7.9342	25.80	74.20	0.00	-0.312	1.548	-0.178	1.278	-0.243	-3.743
+5	2624	ST3	Lower Beach	2013-02-22	RUSH	Hand-Collecting	36.9722	-7.9342	1.60	98.40	0.00	1.009	0.769	-0.209	0.988	1.247	
+6	2625	ST4	Upper Beach	2013-02-22	RUSH	Hand-Collecting	36.9723	-7.9341	0.00	100.00	0.00	1.561	0.431	-0.132	1.042	1.747	
+7	2627	ST6	Estuarine Beach	2013-02-22	RUSH	Hand-Collecting	36.9724	-7.9341	4.60	95.40	0.00	0.395	0.746	-0.100	1.036	0.247	
+8	2628	ST7	Estuarine Beach	2013-02-22	RUSH	Hand-Collecting	36.9724	-7.9341	2.30	97.70	0.00	0.987	0.725	-0.047	0.949	0.747	
+9	2629	ST8	Estuarine Beach	2013-02-22	RUSH	Hand-Collecting	36.9724	-7.9340	2.90	97.10	0.00	0.807	0.732	-0.104	1.013	0.747	
+10	2673	ST2	Low tide terrace	2013-12-12	RUSH	Hand-Collecting	36.9722	-7.9342	0.20	99.80	0.00	0.529	0.475	-0.007	1.041	0.747	
+11	2674	ST3	Lower Beach	2013-12-12	RUSH	Hand-Collecting	36.9722	-7.9342	0.00	100.00	0.00	0.756	0.458	0.057	1.215	0.747	
+12	2675	ST4	Upper Beach	2013-12-12	RUSH	Hand-Collecting	36.9723	-7.9341	0.00	100.00	0.00	0.870	0.524	0.060	1.046	0.747	
+13	2677	ST6	Estuarine Beach	2013-12-12	RUSH	Hand-Collecting	36.9724	-7.9341	0.00	100.00	0.00	0.954	0.453	0.058	1.038	0.747	
+14	2678	ST7	Estuarine Beach	2013-12-12	RUSH	Hand-Collecting	36.9724	-7.9341	0.00	100.00	0.00	0.721	0.454	0.045	1.032	0.747	
+15	2679	ST8	Estuarine Beach	2013-12-12	RUSH	Hand-Collecting	36.9724	-7.9340	0.30	99.70	0.00	0.468	0.705	0.099	0.871	0.247	

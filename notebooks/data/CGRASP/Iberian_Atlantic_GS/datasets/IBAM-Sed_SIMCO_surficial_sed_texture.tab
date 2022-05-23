@@ -1,0 +1,55 @@
+/* DATA DESCRIPTION:
+Citation:	SIMCO Project Members (2015): Sampling at Arade river and adjacent coast as part of experimental student training on Oceanography. PANGAEA, https://doi.org/10.1594/PANGAEA.883079, 
+	In supplement to: Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Surficial sediment texture database for the south-western Iberian Atlantic margin. Earth System Science Data, 10(2), 1185-1195, https://doi.org/10.5194/essd-10-1185-2018
+Original version:	Original data of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed) (URI: https://store.pangaea.de/Publications/Coasta-etal_2017/PLOSscripts.zip)
+Further details:	Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Shape files of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed). PANGAEA, https://doi.org/10.1594/PANGAEA.890946
+Coverage:	MEDIAN LATITUDE: 37.103448 * MEDIAN LONGITUDE: -8.542073 * SOUTH-BOUND LATITUDE: 37.080911 * WEST-BOUND LONGITUDE: -8.619190 * NORTH-BOUND LATITUDE: 37.143052 * EAST-BOUND LONGITUDE: -8.515974
+	DATE/TIME START: 2015-03-27T10:30:00 * DATE/TIME END: 2015-10-30T14:57:00
+	MINIMUM DEPTH, water: 3.00 m * MAXIMUM DEPTH, water: 30.40 m
+Event(s):	IBAM-Sed_SIMCO * LATITUDE: 37.135100 * LONGITUDE: -8.667700 * DATE/TIME START: 2015-03-27T10:30:00 * DATE/TIME END: 2015-10-30T14:57:00 * METHOD/DEVICE: Dredge (DRG)
+Comment:	SIMCO (2015). SIMCO_Oceanographic Cruise
+Parameter(s):	Sample ID (Sample ID) * PI: SIMCO Project Members * COMMENT: Sample number
+	Sample ID (Sample ID) * PI: SIMCO Project Members * COMMENT: Acess number from laboratory
+	Sample ID (Sample ID) * PI: SIMCO Project Members * COMMENT: Reference sample in the collect
+	DATE/TIME (Date/Time) * GEOCODE * PI: SIMCO Project Members * COMMENT: of collecting
+	Project (Project) * PI: SIMCO Project Members
+	Sample method (Sample method) * PI: SIMCO Project Members
+	LATITUDE (Latitude) * GEOCODE * PI: SIMCO Project Members * COMMENT: Coordinate System-WGS1984
+	LONGITUDE (Longitude) * GEOCODE * PI: SIMCO Project Members * COMMENT: Coordinate System-WGS1984
+	DEPTH, water [m] (Depth water) * GEOCODE * PI: SIMCO Project Members
+	Gravel [%] (Gravel) * PI: SIMCO Project Members * METHOD/DEVICE: Grain size, sieving
+	Sandstone [%] (Sdst) * PI: SIMCO Project Members * METHOD/DEVICE: Grain size, sieving
+	Mudstone [%] (Mudstone) * PI: SIMCO Project Members * METHOD/DEVICE: Grain size, sieving
+	Grain size, mean [phi] (Grain size mean) * PI: SIMCO Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Standard deviation [±] (Std dev) * PI: SIMCO Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: Of sample value
+	Skewness (Skew) * PI: SIMCO Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Kurtosis (Kurt) * PI: SIMCO Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Mode, grain size [phi] (Mode) * PI: SIMCO Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: 1st Mode sample value
+	Mode, grain size [phi] (Mode) * PI: SIMCO Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: 2nd Mode sample value
+	Mode, grain size [phi] (Mode) * PI: SIMCO Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: 3rd Mode sample value
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	297 data points
+*/
+Sample ID (Sample number)	Sample ID (Acess number from laboratory)	Sample ID (Reference sample in the collect)	Date/Time (of collecting)	Project	Sample method	Latitude (Coordinate System-WGS1984)	Longitude (Coordinate System-WGS1984)	Depth water [m]	Gravel [%] (Grain size, sieving)	Sdst [%] (Grain size, sieving)	Mudstone [%] (Grain size, sieving)	Grain size mean [phi] (Grain size, sieving, Folk and...)	Std dev [±] (Of sample value, Grain size, ...)	Skew (Grain size, sieving, Folk and...)	Kurt (Grain size, sieving, Folk and...)	Mode [phi] (1st Mode sample value, Grain ...)	Mode [phi] (2nd Mode sample value, Grain ...)	Mode [phi] (3rd Mode sample value, Grain ...)
+1	2815	E1	2015-03-27	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.1054	-8.5279	11.40	0.20	99.70	0.10	2.503	0.414	-0.095	0.985	2.737		
+2	2816	E2	2015-03-27	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.0866	-8.5541	28.80	12.30	69.60	18.10	1.880	2.648	0.042	1.130	3.731	1.747	
+3	2817	E3	2015-03-27	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.0839	-8.5319	30.00	2.00	82.80	15.20	2.520	1.771	0.368	1.936	2.237	3.731	
+4	2818	E4	2015-03-27	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.0809	-8.5160	30.10	6.40	72.10	21.50	2.786	2.437	0.199	2.119	2.237	3.731	
+5	2819	E5	2015-03-27	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.0937	-8.5213	18.80	0.60	97.30	2.10	2.202	0.692	-0.023	1.385	2.237		
+6	2820	E6	2015-03-27	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.0976	-8.5419	20.00	0.80	92.30	6.90	2.818	0.862	0.072	1.170	3.237	2.237	
+7	2821	E7	2015-03-27	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.1046	-8.5277	10.00	0.40	98.40	1.20	2.733	0.516	-0.079	1.422	2.737		
+8	2822	E8	2015-03-27	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.1185	-8.5253	8.00	0.40	78.40	21.20	3.604	1.774	0.718	2.876	2.737		
+9	2823	E9	2015-03-27	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.1240	-8.5259	9.00	0.30	74.70	25.00	3.822	1.834	0.707	2.042	2.737		
+10	2824	E10	2015-03-27	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.1311	-8.5279	5.50	3.80	18.00	78.30	5.924	2.092	-0.260	0.805	7.466	3.237	4.477
+11	2825	E11	2015-03-27	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.1407	-8.5295	4.00	29.90	62.00	8.10	0.534	3.190	-0.456	0.894	2.237	-3.743	
+12	2526	E12	2015-03-27	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.1431	-8.5189	3.00	84.50	15.40	0.10	-2.860	1.684	0.611	1.800	-3.743	1.747	
+13	2892	St1	2015-10-30	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.1032	-8.5296	11.50	0.20	98.80	1.00	2.514	0.529	-0.281	1.332	2.737		
+14	2893	St2	2015-10-30	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.0969	-8.5430	20.50	1.60	90.30	8.10	2.810	0.916	0.102	1.346	3.237	2.237	
+15	2894	St3	2015-10-30	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.0936	-8.5218	20.40	0.50	93.00	6.50	2.548	0.891	0.153	1.485	2.237		
+16	2895	St4	2015-10-30	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.0823	-8.5168	30.00	1.10	80.60	18.30	2.760	1.822	0.470	1.699	2.237	3.731	
+17	2896	St5	2015-10-30	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.0843	-8.5384	30.40	13.10	69.50	17.40	1.350	3.006	0.509	2.954	0.247		
+18	2897	St6	2015-10-30	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.0874	-8.5533	30.20	0.60	81.80	17.60	2.247	1.993	0.579	1.313	1.247	3.731	
+19	2898	St7	2015-10-30	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.0907	-8.6086	29.80	1.60	69.40	28.90	3.898	1.468	0.399	3.500	3.731		
+20	2899	St8	2015-10-30	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.1041	-8.6156	18.70	3.30	90.10	6.70	2.588	1.347	-0.366	1.455	3.237		
+21	2900	St9	2015-10-30	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.1159	-8.6192	10.90	0.00	99.90	0.10	1.940	0.430	-0.084	1.005	2.237		
+22	2901	St10	2015-10-30	SIMCO_Oceanographic Cruise	Dredge Petit Ponar	37.1073	-8.5309	10.90	8.90	90.40	0.70	2.530	1.411	-0.527	3.615	2.737		

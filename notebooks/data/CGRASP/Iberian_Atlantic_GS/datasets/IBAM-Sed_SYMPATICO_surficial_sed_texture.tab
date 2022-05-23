@@ -1,0 +1,30 @@
+/* DATA DESCRIPTION:
+Citation:	SIMPATICO Project Members (2008): Sediment samples collected in the context of the work developed to test the autonomous system for water quality and current monitoring (SIMPATICO) installed at the Guadiana estuary. PANGAEA, https://doi.org/10.1594/PANGAEA.883088, 
+	In supplement to: Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Surficial sediment texture database for the south-western Iberian Atlantic margin. Earth System Science Data, 10(2), 1185-1195, https://doi.org/10.5194/essd-10-1185-2018
+Original version:	Original data of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed) (URI: https://store.pangaea.de/Publications/Coasta-etal_2017/PLOSscripts.zip)
+Further details:	Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Shape files of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed). PANGAEA, https://doi.org/10.1594/PANGAEA.890946
+Coverage:	MEDIAN LATITUDE: 37.189908 * MEDIAN LONGITUDE: -7.408794 * SOUTH-BOUND LATITUDE: 37.189605 * WEST-BOUND LONGITUDE: -7.411372 * NORTH-BOUND LATITUDE: 37.190222 * EAST-BOUND LONGITUDE: -7.406256
+	DATE/TIME START: 2008-03-11T00:00:00 * DATE/TIME END: 2008-03-11T00:00:00
+Event(s):	IBAM-Sed_SYMPATICO * LATITUDE: 37.190300 * LONGITUDE: -7.404600 * DATE/TIME START: 2008-03-11T00:00:00 * DATE/TIME END: 2008-03-11T00:00:00 * METHOD/DEVICE: Dredge (DRG)
+Comment:	SiMPATICO (2008). Environmental Monitoring at the Mouth of the Guadiana Estuary
+Parameter(s):	Sample ID (Sample ID) * PI: SIMPATICO Project Members * COMMENT: Sample number
+	Sample ID (Sample ID) * PI: SIMPATICO Project Members * COMMENT: Acess number from laboratory
+	Sample ID (Sample ID) * PI: SIMPATICO Project Members * COMMENT: Reference sample in the collect
+	DATE/TIME (Date/Time) * GEOCODE * PI: SIMPATICO Project Members * COMMENT: of collecting
+	Project (Project) * PI: SIMPATICO Project Members
+	Sample method (Sample method) * PI: SIMPATICO Project Members
+	LATITUDE (Latitude) * GEOCODE * PI: SIMPATICO Project Members
+	LONGITUDE (Longitude) * GEOCODE * PI: SIMPATICO Project Members
+	Gravel [%] (Gravel) * PI: SIMPATICO Project Members * METHOD/DEVICE: Grain size, sieving
+	Sandstone [%] (Sdst) * PI: SIMPATICO Project Members * METHOD/DEVICE: Grain size, sieving
+	Mudstone [%] (Mudstone) * PI: SIMPATICO Project Members * METHOD/DEVICE: Grain size, sieving
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	48 data points
+*/
+Sample ID (Sample number)	Sample ID (Acess number from laboratory)	Sample ID (Reference sample in the collect)	Date/Time (of collecting)	Project	Sample method	Latitude	Longitude	Gravel [%]	Sdst [%]	Mudstone [%]
+1	1793	s1	2008-03-11	SYMPATICO	Dredge Petit Ponar	37.1896	-7.4114	12.29	87.53	0.19
+2	1796	s2	2008-03-11	SYMPATICO	Dredge Petit Ponar	37.1897	-7.4103	0.74	98.74	0.52
+3	1799	s3	2008-03-11	SYMPATICO	Dredge Petit Ponar	37.1898	-7.4093	0.65	99.15	0.20
+4	1803	s4	2008-03-11	SYMPATICO	Dredge Petit Ponar	37.1900	-7.4082	0.90	98.75	0.35
+5	1806	s5	2008-03-11	SYMPATICO	Dredge Petit Ponar	37.1901	-7.4072	5.84	91.01	3.15
+6	1809	s6	2008-03-11	SYMPATICO	Dredge Petit Ponar	37.1902	-7.4063	10.26	87.23	3.84

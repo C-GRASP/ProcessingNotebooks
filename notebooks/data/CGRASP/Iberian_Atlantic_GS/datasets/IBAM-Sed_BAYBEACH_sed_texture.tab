@@ -1,0 +1,438 @@
+/* DATA DESCRIPTION:
+Citation:	BAYBEACH Project Members (2012): Sediment characterization of embayed beaches along the south and west coast of Portugal within the frame of the BAYBEACH project. PANGAEA, https://doi.org/10.1594/PANGAEA.883092, 
+	In supplement to: Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Surficial sediment texture database for the south-western Iberian Atlantic margin. Earth System Science Data, 10(2), 1185-1195, https://doi.org/10.5194/essd-10-1185-2018
+Related to:	Loureiro, Carlos (2012): Geomorphology and morphodynamics of embayed beaches in contrasting environments. Faculty of Science and Technology, University of Algarve, https://sapientia.ualg.pt/handle/10400.1/3470
+Original version:	Original data of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed) (URI: https://store.pangaea.de/Publications/Coasta-etal_2017/PLOSscripts.zip)
+Further details:	Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Shape files of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed). PANGAEA, https://doi.org/10.1594/PANGAEA.890946
+Coverage:	MEDIAN LATITUDE: 37.223312 * MEDIAN LONGITUDE: -8.836156 * SOUTH-BOUND LATITUDE: 37.055005 * WEST-BOUND LONGITUDE: -8.875492 * NORTH-BOUND LATITUDE: 37.355320 * EAST-BOUND LONGITUDE: -8.792811
+	DATE/TIME START: 2007-09-26T00:00:00 * DATE/TIME END: 2012-10-11T00:00:00
+	MINIMUM ELEVATION: -21.37 m a.s.l. * MAXIMUM ELEVATION: 9.04 m a.s.l.
+Event(s):	IBAM-Sed_BAYBEACH * LATITUDE: 37.221000 * LONGITUDE: -8.821000 * DATE/TIME START: 2007-09-26T00:00:00 * DATE/TIME END: 2012-10-11T00:00:00 * METHOD/DEVICE: Sampling by hand (HAND)
+Comment:	BAYBEACH (2012). Evolution and Managment of Embayed Beaches in Contrasting Environments
+Parameter(s):	Sample ID (Sample ID) * PI: BAYBEACH Project Members * COMMENT: Sample number
+	Sample ID (Sample ID) * PI: BAYBEACH Project Members * COMMENT: Acess number from laboratory
+	Sample ID (Sample ID) * PI: BAYBEACH Project Members * COMMENT: Reference sample in the collect
+	Sample comment (Sample comment) * PI: BAYBEACH Project Members
+	DATE/TIME (Date/Time) * GEOCODE * PI: BAYBEACH Project Members * COMMENT: of collecting
+	Project (Project) * PI: BAYBEACH Project Members
+	Sample method (Sample method) * PI: BAYBEACH Project Members
+	LATITUDE (Latitude) * GEOCODE * PI: BAYBEACH Project Members * COMMENT: WGS1984
+	LONGITUDE (Longitude) * GEOCODE * PI: BAYBEACH Project Members * COMMENT: WGS1984
+	ELEVATION [m a.s.l.] (Elevation) * GEOCODE * PI: BAYBEACH Project Members * COMMENT: Relative to mean sea level (m)
+	Gravel [%] (Gravel) * PI: BAYBEACH Project Members * METHOD/DEVICE: Grain size, sieving
+	Sandstone [%] (Sdst) * PI: BAYBEACH Project Members * METHOD/DEVICE: Grain size, sieving
+	Mudstone [%] (Mudstone) * PI: BAYBEACH Project Members * METHOD/DEVICE: Grain size, sieving
+	Grain size, mean [phi] (Grain size mean) * PI: BAYBEACH Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Standard deviation [±] (Std dev) * PI: BAYBEACH Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: Of sample value
+	Skewness (Skew) * PI: BAYBEACH Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Kurtosis (Kurt) * PI: BAYBEACH Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Mode, grain size [phi] (Mode) * PI: BAYBEACH Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: 1st Mode sample value
+	Mode, grain size [phi] (Mode) * PI: BAYBEACH Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: 2nd Mode sample value
+	Mode, grain size [phi] (Mode) * PI: BAYBEACH Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: 3rd Mode sample value
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	5647 data points
+*/
+Sample ID (Sample number)	Sample ID (Acess number from laboratory)	Sample ID (Reference sample in the collect)	Sample comment	Date/Time (of collecting)	Project	Sample method	Latitude (WGS1984)	Longitude (WGS1984)	Elevation [m a.s.l.] (Relative to mean sea level (m))	Gravel [%] (Grain size, sieving)	Sdst [%] (Grain size, sieving)	Mudstone [%] (Grain size, sieving)	Grain size mean [phi] (Grain size, sieving, Folk and...)	Std dev [±] (Of sample value, Grain size, ...)	Skew (Grain size, sieving, Folk and...)	Kurt (Grain size, sieving, Folk and...)	Mode [phi] (1st Mode sample value, Grain ...)	Mode [phi] (2nd Mode sample value, Grain ...)	Mode [phi] (3rd Mode sample value, Grain ...)
+1	1508	CVWberma	Berm	2007-09-26	BayBeach	Hand-Collecting	37.065842	-8.796725	4.43	0.00	100.00	0.00	1.672	0.424	-0.046	1.044	308.300		
+2	1510	CVWfacepraia	Beach face	2007-09-26	BayBeach	Hand-Collecting	37.065738	-8.796720	3.63	0.00	100.00	0.00	1.706	0.457	-0.065	1.100	302.800		
+3	1512	CVWbasefacepraia	Beach face toe	2007-09-26	BayBeach	Hand-Collecting	37.065615	-8.796718	2.14	0.00	100.00	0.00	1.987	0.416	-0.019	0.988	251.500		
+4	1509	CVCberma	Berm	2007-09-26	BayBeach	Hand-Collecting	37.065614	-8.794667	4.85	0.00	100.00	0.00	1.434	0.491	-0.051	1.001	1.747		
+5	1516	CVCfacepraia	Beach face	2007-09-26	BayBeach	Hand-Collecting	37.065471	-8.794708	3.42	0.00	100.00	0.00	1.961	0.375	-0.034	0.878	1.747		
+6	1513	CVCbasefacepraia	Beach face toe	2007-09-26	BayBeach	Hand-Collecting	37.065359	-8.794733	2.06	0.00	100.00	0.00	2.036	0.370	-0.022	0.887	2.237		
+7	1515	CVEaltapraia	Upper Beach	2007-09-26	BayBeach	Hand-Collecting	37.065105	-8.792824	5.71	0.00	100.00	0.00	1.799	0.369	0.042	1.241	1.747		
+8	1514	CVEberma	Berm	2007-09-26	BayBeach	Hand-Collecting	37.065011	-8.792917	4.96	0.20	99.80	0.00	1.344	0.538	-0.044	0.947	1.247		
+9	1517	CVEfacepraia	Beach face	2007-09-26	BayBeach	Hand-Collecting	37.064905	-8.793052	4.13	0.00	100.00	0.00	1.618	0.377	-0.081	1.020	1.747		
+10	1511	CVEbasefacepraia	Beach face toe	2007-09-26	BayBeach	Hand-Collecting	37.064773	-8.793177	1.90	0.00	100.00	0.00	1.927	0.377	0.005	0.915	1.747		
+11	1696	CVWterraco	low tide terrace	2008-03-11	BayBeach	Hand-Collecting	37.065649	-8.796706	1.12	0.40	99.60	0.00	1.610	0.487	-0.144	1.116	1.750		
+12	1694	CVCfacepraia	Beach face	2008-03-11	BayBeach	Hand-Collecting	37.065460	-8.794707	1.71	0.10	99.90	0.00	1.921	0.425	-0.028	0.984	1.747		
+13	1695	CVCterraco	Low tide terrace	2008-03-11	BayBeach	Hand-Collecting	37.065319	-8.794749	0.91	0.00	100.00	0.00	1.523	0.469	0.016	1.002	1.247		
+14	1691	CVEfacepraiaalta	Upper Beach face	2008-03-11	BayBeach	Hand-Collecting	37.065097	-8.792837	5.00	0.00	100.00	0.00	1.589	0.335	-0.152	0.891	1.747		
+15	1692	CVEfacepraia	Beach face	2008-03-11	BayBeach	Hand-Collecting	37.064874	-8.793081	1.78	0.00	100.00	0.00	1.956	0.355	0.161	0.839	1.747		
+16	1693	CVEterraco	Low tide terrace	2008-03-11	BayBeach	Hand-Collecting	37.064799	-8.793156	1.23	0.00	100.00	0.00	1.924	0.401	0.060	0.976	1.747		
+17	1790	cvwfacepraia_afastada	Beach face	2008-09-03	BayBeach	Hand-Collecting	37.065746	-8.796597	2.39	0.30	99.70	0.00	1.620	0.354	-0.113	1.052	1.747		
+18	1791	cvcfacepraia	Beach face	2008-09-03	BayBeach	Hand-Collecting	37.065576	-8.794674	2.82	0.00	100.00	0.00	1.568	0.426	-0.083	1.001	1.750		
+19	1792	cvefacepraia	Beach face	2008-09-03	BayBeach	Hand-Collecting	37.064925	-8.793022	2.20	0.00	100.00	0.00	1.623	0.393	-0.056	1.004	1.750		
+20	1888	CVWfacepraia	Beach face	2009-03-12	BayBeach	Hand-Collecting	37.065649	-8.796720	1.34	0.00	100.00	0.00	1.920	0.377	-0.015	0.910	1.750		
+21	1886	CVCfacepraia	Beach face	2009-03-12	BayBeach	Hand-Collecting	37.065605	-8.794664	2.94	0.00	100.00	0.00	1.575	0.458	-0.103	1.027	1.747		
+22	1887	CVCterraco	Low tide terrace	2009-03-12	BayBeach	Hand-Collecting	37.065335	-8.794732	0.73	0.70	99.30	0.00	2.000	0.452	-0.132	1.055	2.237		
+23	1883	CVEberma	Berm	2009-03-12	BayBeach	Hand-Collecting	37.065063	-8.792872	4.80	0.00	100.00	0.00	1.718	0.400	-0.033	1.153	1.747		
+24	1884	CVEfacepraia	Beach face	2009-03-12	BayBeach	Hand-Collecting	37.064906	-8.793046	2.05	0.00	100.00	0.00	1.933	0.420	-0.074	0.928	2.237		
+25	1885	CVEterraco	Low tide terrace	2009-03-12	BayBeach	Hand-Collecting	37.064714	-8.793255	0.56	0.00	100.00	0.00	1.821	0.489	-0.016	0.966	1.747		
+26	2174	CVWfacealta	Upper Beach face	2009-07-23	BayBeach	Hand-Collecting	37.065797	-8.796708	3.24	0.00	100.00	0.00	1.918	0.398	-0.081	0.920	1.747		
+27	2175	CVWfacebaixa	Lower Beach face	2009-07-23	BayBeach	Hand-Collecting	37.065654	-8.796725	1.77	0.10	99.90	0.00	1.739	0.390	-0.021	1.190	1.747		
+28	2176	CVCfacealta	Upper Beach face	2009-07-23	BayBeach	Hand-Collecting	37.065626	-8.794657	3.36	0.00	100.00	0.00	1.768	0.450	-0.015	0.848	1.747		
+29	2177	CVCfacebaixa	Lower Beach face	2009-07-23	BayBeach	Hand-Collecting	37.065456	-8.794711	1.58	0.00	100.00	0.00	2.051	0.401	-0.083	0.984	2.237		
+30	2178	CVEaltapraia	Upper Beach face	2009-07-23	BayBeach	Hand-Collecting	37.065088	-8.792822	5.14	0.00	100.00	0.00	1.740	0.439	-0.030	1.003	1.747		
+31	2179	CVEberma	Berm	2009-07-23	BayBeach	Hand-Collecting	37.065029	-8.792882	4.25	0.00	100.00	0.00	1.829	0.409	-0.006	0.984	1.747		
+32	2180	CVEfacealta	Upper Beach face	2009-07-23	BayBeach	Hand-Collecting	37.064983	-8.792958	3.61	0.00	100.00	0.00	1.908	0.405	-0.059	0.922	1.747		
+33	2181	CVEfacebaixa	Lower Beach face	2009-07-23	BayBeach	Hand-Collecting	37.064846	-8.793107	1.45	0.00	100.00	0.00	2.083	0.499	-0.079	1.025	2.240		
+34	2206	CVWberma	Berm	2009-09-04	BayBeach	Hand-Collecting	37.065862	-8.796715	4.21	0.00	100.00	0.00	1.816	0.421	-0.033	0.989	1.747		
+35	2207	CVWfacepraia	Beach face	2009-09-04	BayBeach	Hand-Collecting	37.065674	-8.796716	2.10	0.10	99.90	0.00	1.873	0.395	0.008	0.954	1.747		
+36	2208	CVCberma	Berm	2009-09-04	BayBeach	Hand-Collecting	37.065664	-8.794643	4.28	0.00	100.00	0.00	1.797	0.407	-0.008	1.047	1.747		
+37	2209	CVCfacepraia	Beach face	2009-09-04	BayBeach	Hand-Collecting	37.065526	-8.794692	2.51	0.00	100.00	0.00	2.092	0.405	-0.134	1.087	2.237		
+38	2210	CVEaltapraia	Upper Beach	2009-09-04	BayBeach	Hand-Collecting	37.065112	-8.792811	5.28	0.00	100.00	0.00	2.043	0.379	-0.068	0.924	2.237		
+39	2211	CVEberma	Berm	2009-09-04	BayBeach	Hand-Collecting	37.065056	-8.792868	4.84	0.00	100.00	0.00	1.711	0.419	-0.020	1.074	1.747		
+40	2212	CVEfacepraia	Beach face	2009-09-04	BayBeach	Hand-Collecting	37.064911	-8.793035	2.32	0.00	100.00	0.00	2.030	0.405	-0.090	0.983	2.237		
+41	2620	Alta Praia	Upper Beach	2012-10-11	BayBeach	Hand-Collecting	37.065112	-8.792811	5.28	0.00	100.00	0.00	1.905	0.382	0.035	0.947	1.747		
+42	2621	Berma	Berm	2012-10-11	BayBeach	Hand-Collecting	37.065056	-8.792868	4.84	0.00	100.00	0.00	1.762	0.369	0.003	1.238	1.747		
+43	2622	Face Praia	Beach face	2012-10-11	BayBeach	Hand-Collecting	37.064911	-8.793035	2.32	0.00	100.00	0.00	1.988	0.343	-0.055	0.776	2.237		
+44	1528	BRWaltapraia	Upper Beach	2007-09-26	BayBeach	Hand-Collecting	37.066197	-8.809658	4.77	1.30	98.50	0.20	1.209	0.601	-0.159	1.032	1.247		
+45	1518	BRWberma	Berm	2007-09-26	BayBeach	Hand-Collecting	37.066045	-8.809609	4.51	0.00	100.00	0.00	1.577	0.367	-0.046	0.913	1.747		
+46	1519	BRWfacepraia	Beach face	2007-09-26	BayBeach	Hand-Collecting	37.065892	-8.809538	3.54	0.20	99.80	0.00	1.590	0.500	-0.159	1.103	1.747		
+47	1524	BRWbasefacepraia	Beach face toe	2007-09-26	BayBeach	Hand-Collecting	37.065739	-8.809488	1.68	0.00	100.00	0.00	1.805	0.392	0.025	1.194	1.747		
+48	1527	BRCaltapraia	Upper Beach	2007-09-26	BayBeach	Hand-Collecting	37.066344	-8.809012	5.10	2.10	97.90	0.00	1.245	0.617	-0.221	1.132	1.247		
+49	1520	BRCberma	Berm	2007-09-26	BayBeach	Hand-Collecting	37.066165	-8.808951	4.24	0.90	99.10	0.00	1.502	0.692	-0.330	1.230	1.747		
+50	1526	BRCfacepraia	Beach face	2007-09-26	BayBeach	Hand-Collecting	37.066057	-8.808917	3.27	1.00	99.00	0.00	1.683	0.525	-0.181	1.328	1.747		
+51	1525	BRCbasefacepraia	Beach face toe	2007-09-26	BayBeach	Hand-Collecting	37.065918	-8.808872	1.55	0.00	100.00	0.00	1.764	0.413	-0.002	1.177	1.747		
+52	1529	BREaltapraia	Upper Beach	2007-09-26	BayBeach	Hand-Collecting	37.066447	-8.808505	4.79	1.10	98.90	0.00	1.271	0.589	-0.167	1.136	1.247		
+53	1521	BREberma	Berm	2007-09-26	BayBeach	Hand-Collecting	37.066304	-8.808457	4.57	0.00	100.00	0.00	1.668	0.387	-0.058	1.113	1.747		
+54	1530	BREfacepraia	Beach face	2007-09-26	BayBeach	Hand-Collecting	37.066182	-8.808423	3.65	0.00	100.00	0.00	1.591	0.457	-0.059	0.996	1.747		
+55	1522	BREbasefacepraia	Beach face toe	2007-09-26	BayBeach	Hand-Collecting	37.066035	-8.808374	1.77	0.00	100.00	0.00	1.929	0.420	0.084	1.029	1.747		
+56	1523	BREterraco	Low tide terrace	2007-09-26	BayBeach	Hand-Collecting	37.065964	-8.808355	1.23	0.00	100.00	0.00	1.888	0.421	0.035	0.999	1.747		
+57	1684	BRWfacepraia	Beach face	2008-03-10	BayBeach	Hand-Collecting	37.066226	-8.809656	4.64	0.10	99.90	0.00	1.500	0.393	-0.158	0.896	1.750		
+58	1685	BRCfacepraia	Beach face	2008-03-10	BayBeach	Hand-Collecting	37.066353	-8.809013	4.52	3.90	96.10	0.00	1.158	0.803	-0.344	1.254	1.247		
+59	1686	BRCfacepraiabaixa	Lower Beach face	2008-03-10	BayBeach	Hand-Collecting	37.066179	-8.808962	2.38	0.00	100.00	0.00	1.488	0.382	-0.133	0.875	1.747		
+60	1687	BRCterraco	Low tide terrace	2008-03-10	BayBeach	Hand-Collecting	37.066031	-8.808904	1.15	0.60	99.40	0.00	1.614	0.433	-0.221	1.302	1.747		
+61	1688	BREfacepraia	Beach face	2008-03-10	BayBeach	Hand-Collecting	37.066383	-8.808478	3.31	2.10	97.90	0.00	1.421	0.519	-0.281	1.112	1.747		
+62	1689	BREterracoalto	Low tide terrace	2008-03-10	BayBeach	Hand-Collecting	37.066206	-8.808426	1.98	0.00	100.00	0.00	1.623	0.349	-0.108	1.058	1.747		
+63	1690	BREterraco	Low tide terrace	2008-03-10	BayBeach	Hand-Collecting	37.066035	-8.808369	1.22	2.90	97.10	0.00	1.046	0.745	-0.237	1.200	1.247		
+64	1783	BRWaltapraia	Upper Beach	2008-09-03	BayBeach	Hand-Collecting	37.066213	-8.809655	4.37	0.50	99.50	0.00	1.112	0.523	-0.097	1.051	1.250		
+65	1784	BRCfacepraia	Beach face	2008-09-03	BayBeach	Hand-Collecting	37.066228	-8.808977	2.20	16.10	83.90	0.00	0.297	1.332	-0.501	1.625	0.750		
+66	1788	BREfacepraia	Beach face	2008-09-03	BayBeach	Hand-Collecting	37.066287	-8.808452	2.06	8.90	91.10	0.00	0.567	0.879	-0.384	1.580	0.750		
+67	1787	BREfacepraiaalta	Upper Beach face	2008-09-03	BayBeach	Hand-Collecting	37.066372	-8.808477	2.88	0.50	99.50	0.00	1.199	0.533	-0.098	0.972	1.250		
+68	1789	BREfacepraiabaixa	Lower Beach face	2008-09-03	BayBeach	Hand-Collecting	37.066270	-8.808447	1.81	55.90	44.10	0.00	-1.269	1.160	-0.289	1.395	-0.740	-4.243	
+69	1785	BRaltapraiaRibeira	Upper Beach	2008-09-03	BayBeach	Hand-Collecting	37.066561	-8.808327	4.51	10.60	89.40	0.00	0.747	1.130	-0.503	1.719	1.250		
+70	1881	BRWfacepraia	Beach face	2009-03-12	BayBeach	Hand-Collecting	37.065922	-8.809554	1.48	0.00	100.00	0.00	1.615	0.387	-0.072	0.988	1.747		
+71	1882	BRWterraco	Low tide terrace	2009-03-12	BayBeach	Hand-Collecting	37.065768	-8.809482	0.92	0.00	100.00	0.00	1.693	0.387	-0.027	1.090	1.747		
+72	1879	BRCfacepraia	Beach face	2009-03-12	BayBeach	Hand-Collecting	37.066246	-8.808984	2.65	0.00	100.00	0.00	1.453	0.395	0.036	0.925	1.247		
+73	1880	BRCterraco	Low tide terrace	2009-03-12	BayBeach	Hand-Collecting	37.065836	-8.808871	0.92	0.10	99.90	0.00	1.536	0.413	-0.066	0.966	1.747		
+74	1877	BREfacepraia	Beach face	2009-03-12	BayBeach	Hand-Collecting	37.066342	-8.808464	2.46	0.20	99.80	0.00	1.434	0.419	0.016	0.973	1.247		
+75	1878	BREterraco	Low tide terrace	2009-03-12	BayBeach	Hand-Collecting	37.065875	-8.808326	0.87	0.00	100.00	0.00	1.709	0.399	-0.018	1.096	1.747		
+76	2182	BRWberma	Berm	2009-07-23	BayBeach	Hand-Collecting	37.066226	-8.809636	4.44	0.10	99.90	0.00	1.344	0.414	0.030	1.041	1.247		
+77	2183	BRWfacealta	Upper Beach face	2009-07-23	BayBeach	Hand-Collecting	37.066156	-8.809632	3.81	0.10	99.90	0.00	1.532	0.402	0.004	0.921	1.747		
+78	2184	BRWfacebaixa	Lower Beach face	2009-07-23	BayBeach	Hand-Collecting	37.066077	-8.809563	2.63	0.50	99.50	0.00	1.339	0.450	-0.037	1.015	1.247		
+79	2185	BRCfacealta	Upper Beach face	2009-07-23	BayBeach	Hand-Collecting	37.066320	-8.809017	3.77	0.00	100.00	0.00	1.470	0.356	0.043	0.808	1.247		
+80	2186	BRCfacebaixa	Lower Beach face	2009-07-23	BayBeach	Hand-Collecting	37.066202	-8.808970	1.98	5.40	94.50	0.00	0.569	0.657	-0.297	1.455	0.747		
+81	2187	BREfacealta	Upper Beach face	2009-07-23	BayBeach	Hand-Collecting	37.066373	-8.808476	3.05	0.10	99.90	0.00	1.453	0.440	0.022	1.002	1.247		
+82	2188	BREfacebaixa	Lower Beach face	2009-07-23	BayBeach	Hand-Collecting	37.066269	-8.808446	1.93	3.80	96.10	0.00	0.737	0.601	-0.215	1.798	0.747		
+83	2611	BRWBerma	Berm	2012-10-11	BayBeach	Hand-Collecting	37.065922	-8.809554	1.48	0.00	100.00	0.00	1.654	0.394	-0.083	1.090	1.750		
+84	2612	BRWFace Praia	Beach face	2012-10-11	BayBeach	Hand-Collecting	37.065768	-8.809482	0.92	0.00	100.00	0.00	1.858	0.389	0.042	1.026	1.750		
+85	2615	BRCFace Praia	Beach face	2012-10-11	BayBeach	Hand-Collecting	37.066246	-8.808984	2.65	0.00	100.00	0.00	1.696	0.401	-0.024	1.110	1.747		
+86	2613	BRCTerraÃ§o	Low tide terrace	2012-10-11	BayBeach	Hand-Collecting	37.065836	-8.808871	0.92	0.40	99.60	0.00	1.680	0.496	-0.087	1.126	1.747		
+87	2618	BREFace Praia	Beach face	2012-10-11	BayBeach	Hand-Collecting	37.066342	-8.808464	2.46	0.00	100.00	0.00	1.762	0.407	0.004	1.146	1.747		
+88	2616	BRETerraÃ§o	Low tide terrace	2012-10-11	BayBeach	Hand-Collecting	37.065875	-8.808326	0.87	0.50	99.50	0.00	1.545	0.470	-0.077	1.057	1.747		
+89	1542	SLWaltapraia	Upper Beach	2007-09-27	BayBeach	Hand-Collecting	37.064760	-8.825965	4.42	0.00	100.00	0.00	1.744	0.390	-0.013	1.181	1.747		
+90	1540	SLWberma	Berm	2007-09-27	BayBeach	Hand-Collecting	37.064575	-8.825871	4.55	0.00	100.00	0.00	1.872	0.376	0.025	0.983	1.747		
+91	1541	SLWfacepraia	Beach face	2007-09-27	BayBeach	Hand-Collecting	37.064391	-8.825787	2.83	0.00	100.00	0.00	1.651	0.443	-0.033	0.961	1.747		
+92	1539	SLWterraco	Low tide terrace	2007-09-27	BayBeach	Hand-Collecting	37.064182	-8.825568	0.92	0.00	100.00	0.00	1.670	0.401	-0.019	1.024	1.747		
+93	1538	SLCaltapraia	Upper Beach	2007-09-27	BayBeach	Hand-Collecting	37.065364	-8.823973	5.04	0.40	99.60	0.00	1.440	0.467	-0.037	1.005	1.247		
+94	1537	SLCberma	Berm	2007-09-27	BayBeach	Hand-Collecting	37.065174	-8.823908	4.50	0.00	100.00	0.00	1.830	0.371	0.046	1.108	1.747		
+95	1536	SLCfacepraia	Beach face	2007-09-27	BayBeach	Hand-Collecting	37.065038	-8.823861	3.28	0.00	100.00	0.00	1.739	0.405	-0.021	1.146	1.747		
+96	1535	SLCterraco	Low tide terrace	2007-09-27	BayBeach	Hand-Collecting	37.064835	-8.823790	1.22	0.10	99.90	0.00	1.814	0.430	-0.031	1.007	1.747		
+97	1531	SLEacumulacaoeolica	Aeolian accretion	2007-09-27	BayBeach	Hand-Collecting	37.065682	-8.821720	6.16	0.00	99.90	0.10	1.526	0.437	-0.076	1.000	1.747		
+98	1532	SLEfacepraiaalta	Upper Beach face	2007-09-27	BayBeach	Hand-Collecting	37.065557	-8.821650	4.23	0.00	100.00	0.00	1.976	0.365	-0.134	0.852	2.237		
+99	1533	SLEfacepraiabaixa	Lower Beach face	2007-09-27	BayBeach	Hand-Collecting	37.065330	-8.821616	2.45	0.50	99.50	0.00	1.589	0.574	-0.118	0.997	1.747		
+100	1534	SLEterraco	Low tide terrace	2007-09-27	BayBeach	Hand-Collecting	37.065143	-8.821568	1.13	0.40	99.60	0.00	1.567	0.561	-0.028	0.938	1.747		
+101	1680	SLWfacepraia	Beach face	2008-03-10	BayBeach	Hand-Collecting	37.064601	-8.825887	2.99	0.00	100.00	0.00	1.514	0.348	-0.087	0.773	1.747		
+102	1679	SLWberma	Berm	2008-03-10	BayBeach	Hand-Collecting	37.064745	-8.825969	4.74	0.00	100.00	0.00	1.807	0.354	0.058	1.250	1.747		
+103	1681	SLWrunnel	Runnel	2008-03-10	BayBeach	Hand-Collecting	37.064511	-8.825834	2.08	0.10	99.90	0.00	1.503	0.447	-0.095	1.017	1.747		
+104	1682	SLWridge	Ridge	2008-03-10	BayBeach	Hand-Collecting	37.064430	-8.825795	2.22	0.00	100.00	0.00	1.504	0.449	-0.072	1.003	1.747		
+105	1683	SLWterraco	Low tide terrace	2008-03-10	BayBeach	Hand-Collecting	37.064263	-8.825701	1.18	0.00	100.00	0.00	1.854	0.376	0.043	1.031	1.747		
+106	1674	SLCberma	Berm	2008-03-10	BayBeach	Hand-Collecting	37.065371	-8.823962	4.72	0.00	100.00	0.00	1.538	0.350	-0.018	0.815	1.747		
+107	1675	SLCfacepraia	Beach face	2008-03-10	BayBeach	Hand-Collecting	37.065262	-8.823946	3.62	0.00	100.00	0.00	1.680	0.337	-0.094	1.289	1.747		
+108	1676	SLCrunnel	Runnel	2008-03-10	BayBeach	Hand-Collecting	37.065140	-8.823904	2.46	0.00	100.00	0.00	1.617	0.396	-0.061	0.981	1.747		
+109	1677	SLCridge	Ridge	2008-03-10	BayBeach	Hand-Collecting	37.065091	-8.823894	2.37	0.00	100.00	0.00	1.607	0.409	-0.042	0.952	1.747		
+110	1678	SLCterraco	Low tide terrace	2008-03-10	BayBeach	Hand-Collecting	37.064816	-8.823814	1.28	0.00	100.00	0.00	1.833	0.351	0.074	1.187	1.747		
+111	1672	SLEfacepraia	Beach face	2008-03-10	BayBeach	Hand-Collecting	37.065484	-8.821693	2.48	0.00	100.00	0.00	1.675	0.403	-0.032	1.059	1.750		
+112	1673	SLEterraco	Low tide terrace	2008-03-10	BayBeach	Hand-Collecting	37.065317	-8.821674	1.21	0.00	100.00	0.00	1.828	0.404	0.044	1.102	1.750		
+113	1780	SLWaltapraia	Upper Beach	2008-09-03	BayBeach	Hand-Collecting	37.064709	-8.825945	4.45	0.00	100.00	0.00	1.536	0.409	-0.132	0.978	1.747		
+114	1781	SLWberma	Berm	2008-09-03	BayBeach	Hand-Collecting	37.064593	-8.825882	4.33	0.00	100.00	0.00	1.794	0.382	0.022	1.198	1.747		
+115	1782	SLWfacepraia	Beach face	2008-09-03	BayBeach	Hand-Collecting	37.064463	-8.825824	2.83	0.00	100.00	0.00	1.701	0.354	-0.059	1.255	1.747		
+116	1777	SLCaltapraia	Upper Beach	2008-09-03	BayBeach	Hand-Collecting	37.065351	-8.823962	4.31	0.80	99.20	0.00	1.380	0.448	-0.075	0.937	1.247		
+117	1778	SLCberma	Berm	2008-09-03	BayBeach	Hand-Collecting	37.065135	-8.823898	4.08	0.00	100.00	0.00	1.896	0.365	0.048	0.958	1.747		
+118	1779	SLCfacepraia	Beach face	2008-09-03	BayBeach	Hand-Collecting	37.065000	-8.823855	2.71	0.00	100.00	0.00	1.847	0.366	0.065	1.109	1.747		
+119	1773	AcumulaÃ§Ã£o EÃ³lica	Aeolian accretion	2008-09-03	BayBeach	Hand-Collecting	37.065676	-8.821724	5.58	0.00	100.00	0.00	1.623	0.355	-0.109	1.066	1.747		
+120	1774	Alta Praia	Upper Beach	2008-09-03	BayBeach	Hand-Collecting	37.065622	-8.821715	4.22	1.00	99.90	0.00	1.684	0.356	-0.091	1.269	1.747		
+121	1775	Berma	Berm	2008-09-03	BayBeach	Hand-Collecting	37.065575	-8.821706	4.07	0.00	100.00	0.00	1.758	0.367	0.001	1.247	1.747		
+122	1776	Face Praia	Beach face	2008-09-03	BayBeach	Hand-Collecting	37.065443	-8.821686	2.82	0.00	100.00	0.00	1.830	0.355	0.072	1.249	1.747		
+123	1874	SLWberma	Berm	2009-03-12	BayBeach	Hand-Collecting	37.064736	-8.825957	3.72	0.00	100.00	0.00	1.578	0.368	-0.045	0.909	1.747		
+124	1875	SLWfacepraia	Beach face	2009-03-12	BayBeach	Hand-Collecting	37.064591	-8.825886	2.60	0.00	100.00	0.00	1.618	0.384	-0.074	0.994	1.747		
+125	1876	SLWfacepraiabaixa	Lower Beach face	2009-03-12	BayBeach	Hand-Collecting	37.064506	-8.825845	1.82	0.00	100.00	0.00	1.833	0.363	0.056	1.118	1.747		
+126	1871	SLCberma	Berm	2009-03-12	BayBeach	Hand-Collecting	37.065385	-8.823974	4.71	0.00	100.00	0.00	1.627	0.353	-0.080	1.034	1.750		
+127	1872	SLCfacepraia	Beach face	2009-03-12	BayBeach	Hand-Collecting	37.065166	-8.823910	3.02	0.00	100.00	0.00	1.633	0.339	-0.105	1.082	1.750		
+128	1873	SLCfacepraiabaixa	Lower Beach face	2009-03-12	BayBeach	Hand-Collecting	37.064982	-8.823861	1.57	0.00	100.00	0.00	1.729	0.385	-0.020	1.162	1.750		
+129	1867	SLEacumulacaoeolica	Aeolian accretion	2009-03-12	BayBeach	Hand-Collecting	37.065690	-8.821714	6.25	0.10	99.90	0.00	1.805	0.329	0.066	1.277	1.750		
+130	1868	SLEberma	Berm	2009-03-12	BayBeach	Hand-Collecting	37.065655	-8.821713	4.72	0.00	100.00	0.00	1.794	0.357	0.042	1.218	1.750		
+131	1869	SLEfacepraia	Beach face	2009-03-12	BayBeach	Hand-Collecting	37.065450	-8.821689	2.83	0.00	100.00	0.00	1.635	0.362	-0.071	1.044	1.750		
+132	1870	SLEfacepraiabaixa	Lower Beach face	2009-03-12	BayBeach	Hand-Collecting	37.065249	-8.821661	1.33	0.00	100.00	0.00	1.888	0.350	0.061	0.962	1.750		
+133	2189	SLWaltapraia	Upper Beach	2009-07-23	BayBeach	Hand-Collecting	37.064726	-8.825940	4.18	0.00	100.00	0.00	1.443	0.366	0.050	0.877	1.247		
+134	2190	SLWberma	Berm	2009-07-23	BayBeach	Hand-Collecting	37.064628	-8.825909	4.32	0.00	100.00	0.00	1.518	0.361	0.004	0.811	1.747		
+135	2191	SLWfacepraia	Beach face	2009-07-23	BayBeach	Hand-Collecting	37.064486	-8.825829	2.61	0.00	100.00	0.00	1.541	0.349	0.002	0.823	1.747		
+136	2192	SLCaltapraia	Upper Beach	2009-07-23	BayBeach	Hand-Collecting	37.065362	-8.823958	4.30	0.30	99.70	0.00	1.573	0.382	-0.047	0.915	1.750		
+137	2193	SLCberma	Berm	2009-07-23	BayBeach	Hand-Collecting	37.065281	-8.823937	4.08	0.00	100.00	0.00	1.486	0.397	-0.014	0.919	1.750		
+138	2194	SLCfacepraia	Beach face	2009-07-23	BayBeach	Hand-Collecting	37.065139	-8.823905	2.50	0.00	100.00	0.00	1.713	0.356	-0.039	1.234	1.750		
+139	2195	SLWaltapraia	Upper Beach	2009-09-04	BayBeach	Hand-Collecting	37.064726	-8.825940	4.36	0.40	99.60	0.00	1.456	0.429	-0.025	0.993	1.750		
+140	2196	SLWberma	Berm	2009-09-04	BayBeach	Hand-Collecting	37.064628	-8.825909	4.59	0.20	99.80	0.00	1.516	0.432	-0.111	1.011	1.750		
+141	2197	SLWfacepraia	Beach face	2009-09-04	BayBeach	Hand-Collecting	37.064486	-8.825829	2.76	0.90	99.10	0.00	1.730	0.465	-0.068	1.010	1.750		
+142	2198	SLCaltapraia	Upper Beach	2009-09-04	BayBeach	Hand-Collecting	37.065362	-8.823958	4.37	0.20	99.80	0.00	1.547	0.431	-0.097	1.012	1.750		
+143	2199	SLCberma	Berm	2009-09-04	BayBeach	Hand-Collecting	37.065281	-8.823937	4.26	0.00	100.00	0.00	1.734	0.409	-0.013	1.136	1.750		
+144	2200	SLCfacepraia	Beach face	2009-09-04	BayBeach	Hand-Collecting	37.065139	-8.823905	2.62	0.00	100.00	0.00	1.660	0.368	-0.077	1.167	1.750		
+145	2606	SLWBerma	Berm	2012-10-11	BayBeach	Hand-Collecting	37.064736	-8.825957	3.72	0.50	99.50	0.00	1.548	0.427	-0.120	1.020	1.750		
+146	2607	SLWFace Praia	Beach face	2012-10-11	BayBeach	Hand-Collecting	37.064591	-8.825886	2.60	0.00	100.00	0.00	1.834	0.374	0.039	1.146	1.750		
+147	2608	SLCBerma	Berm	2012-10-11	BayBeach	Hand-Collecting	37.065385	-8.823974	4.71	0.00	100.00	0.00	1.831	0.357	0.065	1.187	1.750		
+148	2609	SLCFace Praia	Beach face	2012-10-11	BayBeach	Hand-Collecting	37.065166	-8.823910	3.02	0.00	100.00	0.00	1.671	0.326	-0.108	1.270	1.750		
+149	2610	SLEFace Praia	Beach face	2012-10-11	BayBeach	Hand-Collecting	37.065450	-8.821689	2.83	0.00	100.00	0.00	1.591	0.336	-0.121	0.899	1.750		
+150	1554	ARNaltapraia	Upper Beach	2007-09-28	BayBeach	Hand-Collecting	37.294523	-8.865812	5.03	0.00	99.80	0.00	1.814	0.365	0.034	1.282	1.747		
+151	1553	ARNberma	Berm	2007-09-28	BayBeach	Hand-Collecting	37.294470	-8.865935	4.66	0.00	100.00	0.00	1.899	0.374	-0.016	0.963	1.747		
+152	1552	ARNfacepraia	Beach face	2007-09-28	BayBeach	Hand-Collecting	37.294384	-8.866156	2.79	0.00	100.00	0.00	2.020	0.357	-0.213	0.851	2.237		
+153	1551	ARNterraco	Low tide terrace	2007-09-28	BayBeach	Hand-Collecting	37.294253	-8.866523	1.84	0.50	99.50	0.00	1.773	0.545	-0.213	1.271	1.747		
+154	1550	ARCberma	Berm	2007-09-28	BayBeach	Hand-Collecting	37.292609	-8.864856	4.23	0.00	100.00	0.00	1.822	0.337	0.070	1.246	1.747		
+155	1549	ARCfacepraia	Beach face	2007-09-28	BayBeach	Hand-Collecting	37.292573	-8.865046	3.29	0.00	100.00	0.00	1.848	0.386	0.027	1.035	1.747		
+156	1548	ARCterraco	Low tide terrace	2007-09-28	BayBeach	Hand-Collecting	37.292462	-8.865578	1.77	0.00	100.00	0.00	1.904	0.370	0.015	0.966	1.747		
+157	1547	ARSacumulacaoeolica	Aeolian accretion	2007-09-28	BayBeach	Hand-Collecting	37.291020	-8.864056	8.68	0.00	100.00	0.00	1.879	0.364	0.041	1.007	1.747		
+158	1546	ARSberma	Berm	2007-09-28	BayBeach	Hand-Collecting	37.291005	-8.864174	5.39	0.00	100.00	0.00	1.964	0.307	0.069	0.744	1.747		
+159	1545	ARSfacepraia	Beach face	2007-09-28	BayBeach	Hand-Collecting	37.290969	-8.864710	2.30	0.00	100.00	0.00	1.964	0.358	-0.049	0.838	1.747		
+160	1544	ARSrunnel	Runnel	2007-09-28	BayBeach	Hand-Collecting	37.290956	-8.864883	1.78	0.00	100.00	0.00	1.891	0.387	0.002	0.986	1.747		
+161	1543	ARSridge	Ridge	2007-09-28	BayBeach	Hand-Collecting	37.290992	-8.865120	1.61	0.00	100.00	0.00	1.978	0.338	-0.033	0.770	2.237		
+162	1634	ARNfacepraia	Beach face	2008-03-08	BayBeach	Hand-Collecting	37.294445	-8.866003	3.68	0.00	100.00	0.00	1.943	0.313	0.103	0.753	1.747		
+163	1633	ARNberma	Berm	2008-03-08	BayBeach	Hand-Collecting	37.294515	-8.865832	4.80	0.00	100.00	0.00	2.007	0.314	-0.077	0.741	2.237		
+164	1635	ARNterraco	Low tide terrace	2008-03-08	BayBeach	Hand-Collecting	37.294062	-8.866954	0.92	0.00	100.00	0.00	1.922	0.363	0.027	0.905	1.747		
+165	1637	ARCfacepraia	Beach face	2008-03-08	BayBeach	Hand-Collecting	37.292599	-8.864902	3.20	0.00	100.00	0.00	1.933	0.316	0.146	0.769	1.747		
+166	1636	ARCberma	Berm	2008-03-08	BayBeach	Hand-Collecting	37.292639	-8.864690	5.22	0.00	100.00	0.00	1.926	0.321	0.101	0.791	1.747		
+167	1638	ARCterraco	Low tide terrace	2008-03-08	BayBeach	Hand-Collecting	37.292439	-8.865696	0.84	0.50	99.50	0.00	1.711	0.437	-0.081	1.256	1.747		
+168	1639	ARSacumulacaoeolica	Aeolian accretion	2008-03-08	BayBeach	Hand-Collecting	37.291031	-8.864036	6.94	0.00	100.00	0.00	1.822	0.313	0.091	1.250	1.747		
+169	1640	ARSfacepraia	Beach face	2008-03-08	BayBeach	Hand-Collecting	37.291004	-8.864340	3.41	0.00	100.00	0.00	1.956	0.312	0.072	0.745	1.747		
+170	1641	ARSterraco	Low tide terrace	2008-03-08	BayBeach	Hand-Collecting	37.290910	-8.865261	1.07	0.00	100.00	0.00	1.894	0.407	-0.050	0.998	1.747		
+171	1742	arnaltapraia	Upper Beach	2008-09-01	BayBeach	Hand-Collecting	37.294518	-8.865838	4.96	0.00	100.00	0.00	1.809	0.315	0.072	1.298	1.747		
+172	1743	arnberma	Berm	2008-09-01	BayBeach	Hand-Collecting	37.294429	-8.866062	4.21	0.00	100.00	0.00	1.788	0.419	-0.046	1.116	1.747		
+173	1744	arnfacepraia	Beach face	2008-09-01	BayBeach	Hand-Collecting	37.294373	-8.866198	2.96	0.00	100.00	0.00	1.935	0.321	0.101	0.768	1.747		
+174	1745	arnfacepraiabaixa	Lower Beach face	2008-09-01	BayBeach	Hand-Collecting	37.294234	-8.866542	1.00	0.00	100.00	0.00	1.934	0.357	0.014	0.875	1.750		
+175	1746	arcaltapraia	Upper Beach	2008-09-01	BayBeach	Hand-Collecting	37.292640	-8.864718	4.98	0.00	100.00	0.00	1.825	0.331	0.074	1.282	1.747		
+176	1747	arcberma	Berm	2008-09-01	BayBeach	Hand-Collecting	37.292604	-8.864900	4.05	0.00	100.00	0.00	1.767	0.341	0.019	1.280	1.747		
+177	1748	arcfacepraia	Beach face	2008-09-01	BayBeach	Hand-Collecting	37.292563	-8.865046	2.95	0.00	100.00	0.00	1.711	0.329	-0.058	1.296	1.747		
+178	1749	arcterraco	Low tide terrace	2008-09-01	BayBeach	Hand-Collecting	37.292429	-8.865733	0.92	0.00	100.00	0.00	1.816	0.355	0.071	1.228	1.747		
+179	1750	arsacumulacaoeolica	Aeolian accretion	2008-09-01	BayBeach	Hand-Collecting	37.291027	-8.864045	6.59	0.00	100.00	0.00	1.866	0.325	0.126	1.065	1.750		
+180	1752	arsberma	Berm	2008-09-01	BayBeach	Hand-Collecting	37.291006	-8.864294	3.97	0.00	100.00	0.00	2.011	0.309	-0.082	0.742	2.237		
+181	1753	arsfacepraia	Beach face	2008-09-01	BayBeach	Hand-Collecting	37.290990	-8.864458	2.93	0.00	100.00	0.00	1.908	0.322	0.139	0.842	1.747		
+182	1754	arsterraco	Low tide terrace	2008-09-01	BayBeach	Hand-Collecting	37.290913	-8.865223	0.95	0.00	100.00	0.00	1.920	0.329	0.121	0.826	1.747		
+183	1889	ARNfacepraia	Beach face	2009-03-13	BayBeach	Hand-Collecting	37.294465	-8.865961	3.25	0.00	100.00	0.00	1.877	0.297	0.204	0.891	1.747		
+184	1890	ARNfacepraiabaixa	Lower Beach face	2009-03-13	BayBeach	Hand-Collecting	37.294362	-8.866224	1.43	0.00	100.00	0.00	1.910	0.345	0.054	0.902	1.747		
+185	1891	ARNrunnel-formafundo	Runnel	2009-03-13	BayBeach	Hand-Collecting	37.294284	-8.866404	0.81	0.10	99.90	0.00	1.948	0.386	-0.113	0.937	2.237		
+186	1892	ARNterraco	Low tide terrace	2009-03-13	BayBeach	Hand-Collecting	37.294186	-8.866658	0.70	0.50	99.50	0.00	1.909	0.384	-0.035	0.979	1.747		
+187	1893	ARCberma	Berm	2009-03-13	BayBeach	Hand-Collecting	37.292635	-8.864707	4.72	0.00	100.00	0.00	1.864	0.386	0.057	1.085	1.747		
+188	1894	ARCfacepraia	Beach face	2009-03-13	BayBeach	Hand-Collecting	37.292592	-8.864938	3.03	0.00	100.00	0.00	1.907	0.353	0.026	0.921	1.747		
+189	1895	ARCfacepraiabaixa	Lower Beach face	2009-03-13	BayBeach	Hand-Collecting	37.292540	-8.865193	1.58	0.00	100.00	0.00	1.993	0.326	-0.078	0.739	2.237		
+190	1896	ARCrunnel-forma fundo	Runnel	2009-03-13	BayBeach	Hand-Collecting	37.292504	-8.865379	0.94	0.10	99.90	0.00	1.852	0.368	0.050	1.112	1.747		
+191	1897	ARCterraco	Low tide terrace	2009-03-13	BayBeach	Hand-Collecting	37.292444	-8.865693	0.90	0.10	99.90	0.00	1.905	0.362	0.018	0.957	1.747		
+192	1898	ARSacumulacaoeolica	Aeolian accretion	2009-03-13	BayBeach	Hand-Collecting	37.291005	-8.864004	6.85	0.10	99.90	0.00	1.950	0.357	-0.026	0.852	1.747		
+193	1899	ARSfacepraia	Beach face	2009-03-13	BayBeach	Hand-Collecting	37.291025	-8.864223	3.27	0.00	100.00	0.00	1.835	0.329	0.088	1.227	1.747		
+194	1900	ARSfacepraiabaixa	Lower Beach face	2009-03-13	BayBeach	Hand-Collecting	37.290988	-8.864437	1.80	0.00	100.00	0.00	1.892	0.319	0.136	0.891	1.747		
+195	2141	ARNaltapraia	Upper Beach	2009-07-22	BayBeach	Hand-Collecting	37.294515	-8.865861	4.53	0.40	99.60	0.00	1.792	0.363	0.012	1.307	1.747		
+196	2142	ARNberma	Berm	2009-07-22	BayBeach	Hand-Collecting	37.294466	-8.865960	4.31	0.00	100.00	0.00	1.862	0.359	0.045	1.055	1.747		
+197	2143	ARNface	Beach face	2009-07-22	BayBeach	Hand-Collecting	37.294412	-8.866071	2.99	0.00	100.00	0.00	1.901	0.360	0.014	0.939	1.747		
+198	2144	ARNrunnel	Runnel	2009-07-22	BayBeach	Hand-Collecting	37.294341	-8.866251	1.83	0.10	99.90	0.00	1.909	0.393	-0.030	0.976	1.747		
+199	2145	ARNterraco	Low tide terrace	2009-07-22	BayBeach	Hand-Collecting	37.294117	-8.866818	1.26	0.00	100.00	0.00	1.884	0.403	-0.004	0.946	1.747		
+200	2146	ARCaltapraia	Upper Beach	2009-07-22	BayBeach	Hand-Collecting	37.292637	-8.864734	4.53	0.00	100.00	0.00	1.948	0.324	0.055	0.758	1.747		
+201	2147	ARCberma	Berm	2009-07-22	BayBeach	Hand-Collecting	37.292597	-8.864900	4.20	0.00	100.00	0.00	1.896	0.344	0.061	0.939	1.747		
+202	2148	ARCface	Beach face	2009-07-22	BayBeach	Hand-Collecting	37.292567	-8.865012	3.14	0.00	100.00	0.00	1.887	0.368	0.021	0.972	1.747		
+203	2149	ARCrunnel	Runnel	2009-07-22	BayBeach	Hand-Collecting	37.292529	-8.865243	1.95	0.20	99.80	0.00	1.772	0.436	-0.064	1.171	1.747		
+204	2150	ARCterraco	Low tide terrace	2009-07-22	BayBeach	Hand-Collecting	37.292422	-8.865768	1.40	0.00	100.00	0.00	1.884	0.348	0.090	0.990	1.747		
+205	2151	ARSacumulaca	Aeolian accretion	2009-07-22	BayBeach	Hand-Collecting	37.291027	-8.864020	6.56	0.10	99.90	0.00	1.897	0.307	0.196	0.830	1.747		
+206	2152	ARSaltapraia	Upper Beach	2009-07-22	BayBeach	Hand-Collecting	37.290984	-8.864083	4.75	0.00	100.00	0.00	1.899	0.352	0.049	0.946	1.747		
+207	2153	ARSberma	Berm	2009-07-22	BayBeach	Hand-Collecting	37.291009	-8.864181	4.25	0.00	100.00	0.00	1.897	0.365	0.014	0.957	1.747		
+208	2154	ARSfacepraia	Beach face	2009-07-22	BayBeach	Hand-Collecting	37.290997	-8.864423	2.92	0.00	100.00	0.00	2.066	0.313	-0.195	0.806	2.237		
+209	2155	ARSrunnel	Runnel	2009-07-22	BayBeach	Hand-Collecting	37.290977	-8.864702	1.62	0.10	99.90	0.00	1.755	0.504	-0.146	1.241	1.747		
+210	2156	ARSterraco	Low tide terrace	2009-07-22	BayBeach	Hand-Collecting	37.290926	-8.865107	1.14	0.10	99.90	0.00	1.641	0.608	-0.223	1.178	1.747		
+211	1557	MCNaltapraia	Upper Beach	2007-09-28	BayBeach	Hand-Collecting	37.343303	-8.850940	5.94	0.40	99.60	0.00	1.825	0.366	0.051	1.139	1.747		
+212	1556	MCNfacepraia	Beach face	2007-09-28	BayBeach	Hand-Collecting	37.343544	-8.851295	4.23	0.00	100.00	0.00	1.878	0.290	0.217	0.902	1.747		
+213	1555	MCNterraco	Low tide terrace	2007-09-28	BayBeach	Hand-Collecting	37.344011	-8.852007	1.78	0.00	100.00	0.00	1.640	0.337	-0.104	1.118	1.747		
+214	1563	MCCduna	Dune	2007-09-28	BayBeach	Hand-Collecting	37.342133	-8.851705	8.72	0.00	100.00	0.00	1.940	0.315	0.082	0.749	1.747		
+215	1562	MCCaltapraia	Upper Beach	2007-09-28	BayBeach	Hand-Collecting	37.342282	-8.851934	6.34	0.00	100.00	0.00	1.838	0.313	0.123	1.191	1.747		
+216	1561	MCCberma	Berm	2007-09-28	BayBeach	Hand-Collecting	37.342524	-8.852287	4.99	0.00	100.00	0.00	1.813	0.324	0.074	1.253	1.747		
+217	1560	MCCfacepraia	Beach face	2007-09-28	BayBeach	Hand-Collecting	37.342727	-8.852604	3.12	0.00	100.00	0.00	1.730	0.275	-0.029	1.302	1.747		
+218	1558	MCCterraco1	Low tide terrace	2007-09-28	BayBeach	Hand-Collecting	37.343156	-8.853245	1.42	0.00	100.00	0.00	1.591	0.335	-0.137	0.898	1.747		
+219	1559	MCCterraco2	Low tide terrace	2007-09-28	BayBeach	Hand-Collecting	37.343039	-8.853061	1.32	0.00	100.00	0.00	1.662	0.351	-0.086	1.210	1.747		
+220	1569	MCSduna	Dune	2007-09-28	BayBeach	Hand-Collecting	37.341094	-8.852620	8.35	0.00	100.00	0.00	1.971	0.312	0.017	0.739	1.747		
+221	1568	MCSaltapraia	Upper Beach	2007-09-28	BayBeach	Hand-Collecting	37.341353	-8.853004	5.80	0.00	100.00	0.00	1.775	0.309	0.034	1.303	1.747		
+222	1567	MCSberma	Berm	2007-09-28	BayBeach	Hand-Collecting	37.341696	-8.853521	4.91	0.00	100.00	0.00	1.732	0.300	-0.023	1.308	1.747		
+223	1566	MCSfacepraia	Beach face	2007-09-28	BayBeach	Hand-Collecting	37.341802	-8.853672	3.46	0.00	100.00	0.00	1.602	0.324	-0.144	0.910	1.747		
+224	1564	MCSterraco1	Low tide terrace	2007-09-28	BayBeach	Hand-Collecting	37.342120	-8.854140	1.77	0.00	100.00	0.00	1.531	0.329	-0.048	0.745	1.747		
+225	1565	MCSterraco2	Low tide terrace	2007-09-28	BayBeach	Hand-Collecting	37.342256	-8.854344	1.51	0.00	100.00	0.00	1.638	0.364	-0.084	1.078	1.747		
+226	1642	MCNaltapraia	Upper Beach	2008-03-07	BayBeach	Hand-Collecting	37.343370	-8.851036	5.59	0.00	100.00	0.00	1.788	0.317	0.050	1.283	1.747		
+227	1643	MCNfacepraia	Beach face	2008-03-07	BayBeach	Hand-Collecting	37.343817	-8.851699	2.56	0.00	100.00	0.00	1.765	0.298	0.017	1.307	1.747		
+228	1644	MCNterraco	Low tide terrace	2008-03-07	BayBeach	Hand-Collecting	37.344015	-8.851993	1.67	0.00	100.00	0.00	1.577	0.337	-0.106	0.856	1.747		
+229	1645	MCCduna	Dune	2008-03-07	BayBeach	Hand-Collecting	37.342167	-8.851759	7.93	0.00	100.00	0.00	1.995	0.316	-0.062	0.739	2.237		
+230	1646	MCCaltapraia	Upper Beach	2008-03-07	BayBeach	Hand-Collecting	37.342286	-8.851938	6.43	0.00	100.00	0.00	1.868	0.323	0.133	1.035	1.747		
+231	1647	MCCfacepraia	Beach face	2008-03-07	BayBeach	Hand-Collecting	37.342657	-8.852488	3.17	0.00	100.00	0.00	1.738	0.265	-0.023	1.300	1.747		
+232	1648	MCCterraco	Low tide terrace	2008-03-07	BayBeach	Hand-Collecting	37.342979	-8.852970	1.63	0.00	100.00	0.00	1.579	0.348	-0.118	0.888	1.747		
+233	1649	MCSduna	Dune	2008-03-07	BayBeach	Hand-Collecting	37.341120	-8.852649	7.61	0.00	100.00	0.00	1.868	0.342	0.086	1.040	1.747		
+234	1650	MCSaltapraia	Upper Beach	2008-03-07	BayBeach	Hand-Collecting	37.341302	-8.852924	5.99	0.00	100.00	0.00	1.823	0.321	0.104	1.263	1.747		
+235	1651	MCSberma	Berm	2008-03-07	BayBeach	Hand-Collecting	37.341488	-8.853205	5.14	0.00	100.00	0.00	1.830	0.310	0.118	1.208	1.747		
+236	1652	MCSfacepraia	Beach face	2008-03-07	BayBeach	Hand-Collecting	37.341765	-8.853614	2.81	0.00	100.00	0.00	1.703	0.286	-0.082	1.265	1.747		
+237	1653	MCSterraco	Low tide terrace	2008-03-07	BayBeach	Hand-Collecting	37.342038	-8.854024	1.70	0.00	100.00	0.00	1.675	0.324	-0.097	1.255	1.747		
+238	1728	mcnaltapraia	Upper Beach	2008-08-31	BayBeach	Hand-Collecting	37.343316	-8.850956	5.83	0.00	100.00	0.00	1.832	0.309	0.121	1.203	1.747		
+239	1729	mcnberma	Berm	2008-08-31	BayBeach	Hand-Collecting	37.343696	-8.851507	4.08	0.00	100.00	0.00	1.861	0.277	0.236	1.030	1.747		
+240	1730	mcnfacepraia	Beach face	2008-08-31	BayBeach	Hand-Collecting	37.343828	-8.851718	2.95	0.00	100.00	0.00	1.612	0.297	-0.224	0.899	1.747		
+241	1731	mcnterraco	Low tide terrace	2008-08-31	BayBeach	Hand-Collecting	37.344428	-8.852606	1.28	0.00	100.00	0.00	1.677	0.325	-0.093	1.263	1.747		
+242	1732	mccduna	Dune	2008-08-31	BayBeach	Hand-Collecting	37.342173	-8.851765	7.83	0.00	100.00	0.00	2.001	0.311	-0.063	0.739	2.237		
+243	1733	mccaltapraia	Upper Beach	2008-08-31	BayBeach	Hand-Collecting	37.342287	-8.851943	6.44	0.00	100.00	0.00	1.834	0.301	0.145	1.173	1.747		
+244	1734	mccberma	Berm	2008-08-31	BayBeach	Hand-Collecting	37.342589	-8.852400	4.12	0.00	100.00	0.00	2.001	0.305	-0.044	0.738	2.237		
+245	1735	mccfacepraia	Beach face	2008-08-31	BayBeach	Hand-Collecting	37.342904	-8.852849	2.36	0.00	100.00	0.00	1.712	0.260	-0.092	1.208	1.747		
+246	1736	mccterraco	Low tide terrace	2008-08-31	BayBeach	Hand-Collecting	37.343372	-8.853564	1.17	0.00	100.00	0.00	1.657	0.354	-0.097	1.221	1.747		
+247	1737	mcsduna	Dune	2008-08-31	BayBeach	Hand-Collecting	37.341130	-8.852665	7.43	0.00	100.00	0.00	1.891	0.307	0.180	0.854	1.747		
+248	1738	mcsaltapraia	Upper Beach	2008-08-31	BayBeach	Hand-Collecting	37.341201	-8.852775	6.39	0.00	100.00	0.00	1.836	0.313	0.121	1.197	1.747		
+249	1739	mcsberma	Berm	2008-08-31	BayBeach	Hand-Collecting	37.341586	-8.853344	4.13	0.00	100.00	0.00	1.880	0.288	0.225	0.914	1.747		
+250	1740	mcsfacepraia	Beach face	2008-08-31	BayBeach	Hand-Collecting	37.341758	-8.853606	2.85	0.00	100.00	0.00	1.645	0.275	-0.241	1.055	1.747		
+251	1741	mcsterraco	Low tide terrace	2008-08-31	BayBeach	Hand-Collecting	37.342008	-8.853982	1.94	0.00	100.00	0.00	1.687	0.314	-0.094	1.282	1.747		
+252	1901	MCNberma	Berm	2009-03-13	BayBeach	Hand-Collecting	37.343356	-8.851006	5.11	0.00	100.00	0.00	1.931	0.310	0.147	0.771	1.747		
+253	1902	MCNfacepraiaalta	Beach face	2009-03-13	BayBeach	Hand-Collecting	37.343416	-8.851094	4.15	0.00	100.00	0.00	1.924	0.300	0.169	0.787	1.747		
+254	1903	MCNfacepraia	Beach face	2009-03-13	BayBeach	Hand-Collecting	37.343568	-8.851321	2.71	0.00	100.00	0.00	1.851	0.274	0.232	1.035	1.747		
+255	1904	MCNterraco	Low tide terrace	2009-03-13	BayBeach	Hand-Collecting	37.343978	-8.851943	0.93	0.00	100.00	0.00	1.446	0.324	0.201	0.781	1.247		
+256	1905	MCCduna	Dune	2009-03-13	BayBeach	Hand-Collecting	37.342174	-8.851773	8.12	0.00	100.00	0.00	1.918	0.319	0.131	0.800	1.747		
+257	1906	MCCaltapraia	Upper Beach	2009-03-13	BayBeach	Hand-Collecting	37.342266	-8.851902	6.82	0.00	100.00	0.00	1.813	0.321	0.083	1.267	1.747		
+258	1907	MCCberma	Berm	2009-03-13	BayBeach	Hand-Collecting	37.342319	-8.851986	5.66	0.00	100.00	0.00	1.939	0.323	0.089	0.766	1.747		
+259	1908	MCCfacepraia	Beach face	2009-03-13	BayBeach	Hand-Collecting	37.342390	-8.852092	3.68	0.00	100.00	0.00	1.770	0.308	0.026	1.298	1.747		
+260	1909	MCCterraco	Low tide terrace	2009-03-13	BayBeach	Hand-Collecting	37.342649	-8.852477	1.79	0.00	100.00	0.00	1.680	0.330	-0.086	1.252	1.747		
+261	1910	MCSduna	Dune	2009-03-13	BayBeach	Hand-Collecting	37.341116	-8.852648	8.34	0.00	100.00	0.00	1.828	0.343	0.073	1.221	1.747		
+262	1911	MCSaltapraia	Upper Beach	2009-03-13	BayBeach	Hand-Collecting	37.341282	-8.852895	5.88	0.00	100.00	0.00	1.792	0.347	0.048	1.235	1.747		
+263	1912	MCSberma	Berm	2009-03-13	BayBeach	Hand-Collecting	37.341409	-8.853068	4.75	0.00	100.00	0.00	1.870	0.288	0.222	0.940	1.747		
+264	1913	MCSfacepraia	Beach face	2009-03-13	BayBeach	Hand-Collecting	37.341493	-8.853209	3.65	0.00	100.00	0.00	1.827	0.267	0.218	1.044	1.747		
+265	1914	MCSterraco	Low tide terrace	2009-03-13	BayBeach	Hand-Collecting	37.341843	-8.853733	1.84	0.00	100.00	0.00	1.643	0.344	-0.096	1.127	1.747		
+266	2157	MCNaltapraia	Upper Beach	2009-07-22	BayBeach	Hand-Collecting	37.343338	-8.850986	5.28	0.00	100.00	0.00	1.881	0.331	0.129	0.985	1.747		
+267	2159	MCNfacepraia	Beach face	2009-07-22	BayBeach	Hand-Collecting	37.343668	-8.851473	2.59	0.00	100.00	0.00	1.435	0.307	0.205	0.793	1.247		
+268	2160	MCNtrunnel	Runnel	2009-07-22	BayBeach	Hand-Collecting	37.343944	-8.851895	1.27	0.00	100.00	0.00	1.445	0.352	0.043	0.849	1.247		
+269	2161	MCNterraco	Low tide terrace	2009-07-22	BayBeach	Hand-Collecting	37.344154	-8.852185	1.08	0.00	100.00	0.00	1.632	0.355	-0.108	1.100	1.747		
+270	2162	MCCduna	Dune	2009-07-22	BayBeach	Hand-Collecting	37.342229	-8.851853	7.71	0.00	100.00	0.00	1.886	0.304	0.184	0.867	1.747		
+271	2163	MCCaltapraia	Upper Beach	2009-07-22	BayBeach	Hand-Collecting	37.342328	-8.851971	4.99	0.00	100.00	0.00	1.848	0.295	0.178	1.088	1.747		
+272	2164	MCCberma	Berm	2009-07-22	BayBeach	Hand-Collecting	37.342408	-8.852130	4.03	0.00	100.00	0.00	1.742	0.307	-0.014	1.294	1.747		
+273	2165	MCCfacepraia	Beach face	2009-07-22	BayBeach	Hand-Collecting	37.342545	-8.852311	2.76	0.00	100.00	0.00	1.602	0.304	-0.206	0.848	1.747		
+274	2166	MCCrunnel	Runnel	2009-07-22	BayBeach	Hand-Collecting	37.342732	-8.852606	1.55	0.00	100.00	0.00	1.556	0.336	-0.108	0.797	1.747		
+275	2167	MCCterraco	Low tide terrace	2009-07-22	BayBeach	Hand-Collecting	37.342895	-8.852848	1.42	0.00	100.00	0.00	1.546	0.355	-0.059	0.830	1.747		
+276	2168	MCSduna	Dune	2009-07-22	BayBeach	Hand-Collecting	37.341118	-8.852635	9.00	0.00	100.00	0.00	1.903	0.319	0.124	0.845	1.747		
+277	2169	MCSaltapraia	Upper Beach	2009-07-22	BayBeach	Hand-Collecting	37.341199	-8.852768	6.79	0.00	100.00	0.00	1.835	0.332	0.091	1.221	1.747		
+278	2170	MCSberma	Berm	2009-07-22	BayBeach	Hand-Collecting	37.341486	-8.853195	3.97	0.00	100.00	0.00	1.853	0.273	0.234	1.037	1.747		
+279	2171	MCSface	Beach face	2009-07-22	BayBeach	Hand-Collecting	37.341614	-8.853375	2.95	0.00	100.00	0.00	1.648	0.290	-0.205	1.078	1.747		
+280	2172	MCSrunnel	Runnel	2009-07-22	BayBeach	Hand-Collecting	37.341899	-8.853825	1.59	0.20	99.80	0.00	1.418	0.348	0.092	0.906	1.247		
+281	2173	MCSterraco	Low tide terrace	2009-07-22	BayBeach	Hand-Collecting	37.342198	-8.854277	0.78	0.00	100.00	0.00	1.522	0.324	-0.061	0.742	1.747		
+282	1576	AMNduna	Dune	2007-09-28	BayBeach	Hand-Collecting	37.351555	-8.843970	7.22	0.00	100.00	0.00	1.787	0.334	0.049	1.266	1.747		
+283	1575	AMNaltapraia	Upper Beach	2007-09-28	BayBeach	Hand-Collecting	37.351653	-8.844225	5.69	0.00	100.00	0.00	1.716	0.323	-0.049	1.298	1.747		
+284	1574	AMNberma	Berm	2007-09-28	BayBeach	Hand-Collecting	37.351802	-8.844635	4.83	0.00	100.00	0.00	1.710	0.329	-0.062	1.277	1.747		
+285	1573	AMNfacepraia	Beach face	2007-09-28	BayBeach	Hand-Collecting	37.351852	-8.844769	3.55	0.00	100.00	0.00	1.860	0.361	0.048	1.038	1.747		
+286	1572	AMNrunnel	Runnel	2007-09-28	BayBeach	Hand-Collecting	37.351935	-8.844985	2.29	0.00	100.00	0.00	1.644	0.355	-0.096	1.133	1.747		
+287	1571	AMNridge	Ridge	2007-09-28	BayBeach	Hand-Collecting	37.352073	-8.845362	2.35	0.00	100.00	0.00	1.655	0.349	-0.095	1.198	1.747		
+288	1570	AMNterraco	Low tide terrace	2007-09-28	BayBeach	Hand-Collecting	37.352405	-8.846288	0.81	0.00	100.00	0.00	1.542	0.366	-0.115	0.861	1.747		
+289	1583	AMCduna	Dune	2007-09-28	BayBeach	Hand-Collecting	37.350727	-8.844417	7.50	0.00	100.00	0.00	1.734	0.346	-0.028	1.267	1.747		
+290	1582	AMCaltapraia	Upper Beach	2007-09-28	BayBeach	Hand-Collecting	37.350885	-8.844863	5.45	0.00	100.00	0.00	1.676	0.343	-0.092	1.263	1.747		
+291	1581	AMCberma	Berm	2007-09-28	BayBeach	Hand-Collecting	37.350993	-8.845147	5.40	0.00	100.00	0.00	1.696	0.337	-0.072	1.263	1.747		
+292	1580	AMCfacepraia	Beach face	2007-09-28	BayBeach	Hand-Collecting	37.351038	-8.845264	3.66	0.00	100.00	0.00	1.762	0.329	0.017	1.274	1.747		
+293	1579	AMCrunnel	Runnel	2007-09-28	BayBeach	Hand-Collecting	37.351199	-8.845651	1.89	0.00	100.00	0.00	1.656	0.358	-0.097	1.194	1.747		
+294	1578	AMCridge	Ridge	2007-09-28	BayBeach	Hand-Collecting	37.351356	-8.846136	1.96	0.00	100.00	0.00	1.654	0.348	-0.098	1.204	1.747		
+295	1577	AMCterraco	Low tide terrace	2007-09-28	BayBeach	Hand-Collecting	37.351588	-8.846772	1.20	0.00	100.00	0.00	1.719	0.329	-0.054	1.280	1.747		
+296	1589	AMSduna	Dune	2007-09-28	BayBeach	Hand-Collecting	37.349612	-8.844742	9.04	0.00	100.00	0.00	1.898	0.324	0.122	0.885	1.747		
+297	1588	AMSaltapraia	Upper Beach	2007-09-28	BayBeach	Hand-Collecting	37.349695	-8.844972	5.04	0.00	100.00	0.00	1.733	0.318	-0.030	1.301	1.747		
+298	1587	AMSberma	Berm	2007-09-28	BayBeach	Hand-Collecting	37.349950	-8.845640	5.26	0.00	100.00	0.00	1.736	0.314	-0.024	1.298	1.747		
+299	1586	AMSfacepraia	Beach face	2007-09-28	BayBeach	Hand-Collecting	37.350025	-8.845864	3.37	0.00	100.00	0.00	1.812	0.346	0.062	1.223	1.747		
+300	1585	AMScanal	Channel	2007-09-28	BayBeach	Hand-Collecting	37.350146	-8.846187	1.93	0.00	100.00	0.00	1.634	0.364	-0.095	1.085	1.747		
+301	1584	AMSterraco	Low tide terrace	2007-09-28	BayBeach	Hand-Collecting	37.350738	-8.847832	1.12	0.00	100.00	0.00	1.820	0.346	0.070	1.227	1.747		
+302	1654	AMNduna	Dune	2008-03-03	BayBeach	Hand-Collecting	37.351550	-8.843934	8.23	0.00	100.00	0.00	1.825	0.331	0.086	1.248	1.747		
+303	1655	AMNaltapraia	Upper Beach	2008-03-03	BayBeach	Hand-Collecting	37.351665	-8.844240	5.76	0.00	100.00	0.00	1.723	0.318	-0.040	1.312	1.747		
+304	1656	AMNberma	Berm	2008-03-03	BayBeach	Hand-Collecting	37.351796	-8.844603	5.24	0.00	100.00	0.00	1.647	0.345	-0.099	1.161	1.747		
+305	1657	AMNfacepraia	Beach face	2008-03-03	BayBeach	Hand-Collecting	37.351848	-8.844747	2.93	0.00	100.00	0.00	1.701	0.323	-0.071	1.295	1.747		
+306	1658	AMNrunnel	Runnel	2008-03-03	BayBeach	Hand-Collecting	37.351952	-8.845026	1.13	0.00	100.00	0.00	1.748	0.381	-0.012	1.221	1.747		
+307	1659	AMNterraco	Low tide terrace	2008-03-03	BayBeach	Hand-Collecting	37.352375	-8.846187	1.06	0.00	100.00	0.00	1.623	0.369	-0.079	1.025	1.747		
+308	1660	AMCduna	Dune	2008-03-03	BayBeach	Hand-Collecting	37.350716	-8.844388	8.36	0.00	100.00	0.00	1.835	0.329	0.100	1.232	1.747		
+309	1661	AMCaltapraia	Upper Beach	2008-03-03	BayBeach	Hand-Collecting	37.350819	-8.844668	5.74	0.00	100.00	0.00	1.761	0.314	0.019	1.315	1.747		
+310	1662	AMCberma	Berm	2008-03-03	BayBeach	Hand-Collecting	37.351000	-8.845152	5.20	0.00	100.00	0.00	1.741	0.348	-0.014	1.257	1.747		
+311	1663	AMCfacepraia	Beach face	2008-03-03	BayBeach	Hand-Collecting	37.351060	-8.845328	3.42	0.00	100.00	0.00	1.782	0.299	0.044	1.298	1.747		
+312	1664	AMCrunnel	Runnel	2008-03-03	BayBeach	Hand-Collecting	37.351170	-8.845633	1.64	0.00	100.00	0.00	1.723	0.316	-0.043	1.307	1.747		
+313	1665	AMCterraco	Low tide terrace	2008-03-03	BayBeach	Hand-Collecting	37.351614	-8.846844	0.87	0.00	100.00	0.00	1.635	0.367	-0.102	1.099	1.747		
+314	1666	AMSduna	Dune	2008-03-03	BayBeach	Hand-Collecting	37.349623	-8.844790	7.55	0.00	100.00	0.00	1.760	0.252	0.044	1.252	1.747		
+315	1667	AMSaltapraia	Upper Beach	2008-03-03	BayBeach	Hand-Collecting	37.349743	-8.845109	5.21	0.00	100.00	0.00	1.816	0.331	0.078	1.262	1.747		
+316	1668	AMSberma	Berm	2008-03-03	BayBeach	Hand-Collecting	37.349932	-8.845622	4.86	0.00	100.00	0.00	1.852	0.329	0.109	1.143	1.747		
+317	1669	AMSfacepraia	Beach face	2008-03-03	BayBeach	Hand-Collecting	37.350027	-8.845880	3.08	0.00	100.00	0.00	1.816	0.340	0.066	1.233	1.747		
+318	1670	AMSrunnel	Runnel	2008-03-03	BayBeach	Hand-Collecting	37.350082	-8.846031	1.72	0.00	100.00	0.00	1.703	0.396	-0.051	1.207	1.747		
+319	1671	AMSterraco	Low tide terrace	2008-03-03	BayBeach	Hand-Collecting	37.350650	-8.847653	1.01	0.00	100.00	0.00	1.688	0.353	-0.096	1.277	1.747		
+320	1755	amnduna	Dune	2008-09-02	BayBeach	Hand-Collecting	37.351551	-8.843939	8.17	0.00	100.00	0.00	1.768	0.311	0.023	1.312	1.747		
+321	1756	amnaltapraia	Upper Beach	2008-09-02	BayBeach	Hand-Collecting	37.351644	-8.844202	5.82	0.00	100.00	0.00	1.716	0.316	-0.050	1.312	1.747		
+322	1757	amnberma	Berm	2008-09-02	BayBeach	Hand-Collecting	37.351795	-8.844625	4.42	0.00	100.00	0.00	1.674	0.311	-0.113	1.243	1.747		
+323	1758	amnfacepraia	Beach face	2008-09-02	BayBeach	Hand-Collecting	37.351859	-8.844775	3.11	0.00	100.00	0.00	1.678	0.328	-0.092	1.260	1.747		
+324	1759	amncanal	Channel	2008-09-02	BayBeach	Hand-Collecting	37.351982	-8.845092	1.98	0.10	99.90	0.00	1.623	0.350	-0.126	1.075	1.747		
+325	1760	amnterraco	Low tide terrace	2008-09-02	BayBeach	Hand-Collecting	37.352238	-8.845816	1.46	0.00	100.00	0.00	1.657	0.328	-0.112	1.227	1.747		
+326	1761	amcduna	Dune	2008-09-02	BayBeach	Hand-Collecting	37.350728	-8.844417	7.80	0.00	100.00	0.00	1.837	0.334	0.087	1.223	1.747		
+327	1762	amcaltapraia	Upper Beach	2008-09-02	BayBeach	Hand-Collecting	37.350857	-8.844780	5.78	0.00	100.00	0.00	1.718	0.311	-0.045	1.314	1.747		
+328	1763	amcberma	Berm	2008-09-02	BayBeach	Hand-Collecting	37.351000	-8.845174	4.53	0.00	100.00	0.00	1.681	0.325	-0.093	1.269	1.747		
+329	1764	amcfacepraia	Beach face	2008-09-02	BayBeach	Hand-Collecting	37.351043	-8.845284	3.30	0.00	100.00	0.00	1.710	0.327	-0.063	1.297	1.747		
+330	1765	amccanal	Channel	2008-09-02	BayBeach	Hand-Collecting	37.351115	-8.845470	2.25	0.00	100.00	0.00	1.651	0.326	-0.140	1.229	1.747		
+331	1766	amcterraco	Low tide terrace	2008-09-02	BayBeach	Hand-Collecting	37.351501	-8.846542	1.47	0.00	100.00	0.00	1.484	0.323	0.047	0.739	1.747		
+332	1767	amsduna	Dune	2008-09-02	BayBeach	Hand-Collecting	37.349635	-8.844806	6.94	0.00	100.00	0.00	1.896	0.328	0.111	0.901	1.747		
+333	1768	amsaltapraia	Upper Beach	2008-09-02	BayBeach	Hand-Collecting	37.349746	-8.845120	5.18	0.00	100.00	0.00	1.770	0.308	0.026	1.310	1.747		
+334	1769	amsberma	Berm	2008-09-02	BayBeach	Hand-Collecting	37.349920	-8.845591	4.32	0.00	100.00	0.00	1.759	0.295	0.003	1.316	1.747		
+335	1770	amsfacepraia	Beach face	2008-09-02	BayBeach	Hand-Collecting	37.349969	-8.845711	3.37	0.00	100.00	0.00	1.717	0.339	-0.057	1.281	1.747		
+336	1771	amscanal	Channel	2008-09-02	BayBeach	Hand-Collecting	37.350047	-8.845944	2.42	0.00	100.00	0.00	1.674	0.335	-0.103	1.275	1.747		
+337	1772	amsterraco	Low tide terrace	2008-09-02	BayBeach	Hand-Collecting	37.350547	-8.847307	1.53	0.00	100.00	0.00	1.711	0.324	-0.063	1.303	1.747		
+338	1849	AMNduna	Dune	2009-03-09	BayBeach	Hand-Collecting	37.351576	-8.844001	7.47	0.00	99.80	0.20	1.640	0.341	-0.121	1.171	1.747		
+339	1850	AMNaltapraia	Upper Beach	2009-03-09	BayBeach	Hand-Collecting	37.351644	-8.844194	6.11	0.10	99.90	0.00	1.659	0.331	-0.119	1.255	1.747		
+340	1851	AMNberma	Berm	2009-03-09	BayBeach	Hand-Collecting	37.351752	-8.844486	4.91	0.00	100.00	0.00	1.666	0.316	-0.123	1.244	1.747		
+341	1852	AMNfacepraia	Beach face	2009-03-09	BayBeach	Hand-Collecting	37.351855	-8.844757	2.55	0.00	100.00	0.00	1.771	0.306	0.027	1.305	1.747		
+342	1853	AMNterraco	Low tide terrace	2009-03-09	BayBeach	Hand-Collecting	37.352139	-8.845563	1.10	0.00	100.00	0.00	1.554	0.318	-0.134	0.762	1.747		
+343	1854	AMCduna	Dune	2009-03-09	BayBeach	Hand-Collecting	37.350726	-8.844411	8.21	0.00	100.00	0.00	1.681	0.321	-0.097	1.283	1.747		
+344	1855	AMCaltapraia	Upper Beach	2009-03-09	BayBeach	Hand-Collecting	37.350783	-8.844570	6.53	0.00	100.00	0.00	1.678	0.316	-0.105	1.272	1.747		
+345	1856	AMCberma	Berm	2009-03-09	BayBeach	Hand-Collecting	37.350882	-8.844843	5.35	0.00	100.00	0.00	1.636	0.334	-0.125	1.125	1.747		
+346	1857	AMCbermacerta	Berm	2009-03-09	BayBeach	Hand-Collecting	37.350918	-8.844947	4.80	0.00	100.00	0.00	1.754	0.292	0.000	1.325	1.747		
+347	1858	AMCfacepraia	Beach face	2009-03-09	BayBeach	Hand-Collecting	37.351017	-8.845207	2.89	0.00	100.00	0.00	1.729	0.286	-0.022	1.314	1.747		
+348	1859	AMCterraco	Low tide terrace	2009-03-09	BayBeach	Hand-Collecting	37.351317	-8.846028	1.12	0.00	100.00	0.00	1.752	0.292	-0.003	1.334	1.747		
+349	1860	AMSduna	Dune	2009-03-09	BayBeach	Hand-Collecting	37.349633	-8.844810	7.28	0.00	100.00	0.00	1.731	0.289	-0.018	1.324	1.747		
+350	1861	AMSaltapraia	Upper Beach	2009-03-09	BayBeach	Hand-Collecting	37.349745	-8.845109	5.16	0.00	100.00	0.00	1.850	0.271	0.236	1.046	1.747		
+351	1862	AMSberma	Berm	2009-03-09	BayBeach	Hand-Collecting	37.349898	-8.845522	4.14	0.00	100.00	0.00	1.730	0.294	-0.019	1.316	1.747		
+352	1863	AMSfacepraia	Beach face	2009-03-09	BayBeach	Hand-Collecting	37.350087	-8.846051	2.34	0.00	100.00	0.00	1.639	0.363	-0.115	1.151	1.747		
+353	1864	AMScanal	Channel	2009-03-09	BayBeach	Hand-Collecting	37.350185	-8.846331	1.51	0.00	100.00	0.00	1.649	0.350	-0.096	1.168	1.747		
+354	1865	AMSterraco	Low tide terrace	2009-03-09	BayBeach	Hand-Collecting	37.350432	-8.846990	1.24	0.00	100.00	0.00	1.825	0.357	0.054	1.164	1.747		
+355	1866	AMNduna	Dune	2009-07-21	BayBeach	Hand-Collecting	37.351583	-8.843995	7.73	0.00	100.00	0.00	1.696	0.342	-0.072	1.251	1.747		
+356	2128	AMNaltapraia	Upper Beach	2009-07-21	BayBeach	Hand-Collecting	37.351642	-8.844178	6.11	0.00	100.00	0.00	1.688	0.334	-0.082	1.271	1.747		
+357	2127	AMNberma	Berm	2009-07-21	BayBeach	Hand-Collecting	37.351705	-8.844403	4.96	0.00	100.00	0.00	1.610	0.350	-0.091	0.984	1.747		
+358	2126	AMNface	Beach face	2009-07-21	BayBeach	Hand-Collecting	37.351776	-8.844511	2.73	0.10	99.90	0.00	1.513	0.377	-0.112	0.873	1.747		
+359	2125	AMNcanal	Channel	2009-07-21	BayBeach	Hand-Collecting	37.351893	-8.844833	1.75	0.00	100.00	0.00	1.436	0.322	0.193	0.783	1.747		
+360	2124	AMNterraco	Low tide terrace	2009-07-21	BayBeach	Hand-Collecting	37.352103	-8.845406	1.43	0.00	100.00	0.00	1.904	0.348	0.045	0.915	1.747		
+361	2129	AMCduna	Dune	2009-07-21	BayBeach	Hand-Collecting	37.350736	-8.844440	8.08	0.00	100.00	0.00	1.758	0.324	0.014	1.291	1.747		
+362	2130	AMCaltapraia	Upper Beach	2009-07-21	BayBeach	Hand-Collecting	37.350795	-8.844584	6.47	0.00	100.00	0.00	1.671	0.348	-0.085	1.229	1.747		
+363	2131	AMCberma	Berm	2009-07-21	BayBeach	Hand-Collecting	37.350896	-8.844851	5.23	0.00	100.00	0.00	1.705	0.349	-0.062	1.244	1.747		
+364	2132	AMCface	Beach face	2009-07-21	BayBeach	Hand-Collecting	37.350932	-8.844949	3.23	0.00	100.00	0.00	1.742	0.376	-0.022	1.210	1.747		
+365	2133	AMCcanal	Channel	2009-07-21	BayBeach	Hand-Collecting	37.351288	-8.845926	1.18	0.00	100.00	0.00	1.622	0.376	-0.077	1.013	1.747		
+366	2134	AMCterraco	Low tide terrace	2009-07-21	BayBeach	Hand-Collecting	37.351384	-8.846211	1.28	0.00	100.00	0.00	1.948	0.317	0.060	0.744	1.747		
+367	2135	AMSduna	Dune	2009-07-21	BayBeach	Hand-Collecting	37.349631	-8.844837	7.25	0.00	100.00	0.00	1.948	0.317	0.060	0.744	1.747		
+368	2136	AMSaltapraia	Upper Beach	2009-07-21	BayBeach	Hand-Collecting	37.349762	-8.845155	4.95	0.00	100.00	0.00	1.700	0.339	-0.070	1.264	1.747		
+369	2137	AMSberma	Berm	2009-07-21	BayBeach	Hand-Collecting	37.349887	-8.845509	4.86	0.00	100.00	0.00	1.666	0.339	-0.090	1.242	1.747		
+370	2138	AMSface	Beach face	2009-07-21	BayBeach	Hand-Collecting	37.349945	-8.845663	3.00	0.00	100.00	0.00	1.728	0.312	-0.034	1.293	1.747		
+371	2139	AMScanal	Channel	2009-07-21	BayBeach	Hand-Collecting	37.350201	-8.846358	1.71	0.00	100.00	0.00	1.748	0.361	-0.014	1.240	1.747		
+372	2140	AMSterraco	Low tide terrace	2009-07-21	BayBeach	Hand-Collecting	37.350433	-8.846968	1.53	0.00	100.00	0.00	1.647	0.369	-0.090	1.110	1.747		
+1	1821	4m	Nearshore	2008-10-03	BayBeach	Dredge Petit Ponar	37.063565	-8.795223	-4.33	0.40	99.60	0.00	1.848	0.493	0.020	1.079	1.747		
+2	1822	8m	Nearshore	2008-10-03	BayBeach	Dredge Petit Ponar	37.061679	-8.795847	-8.44	43.40	56.60	0.00	-0.564	2.203	0.009	0.761	2.237	-0.743	-2.243
+3	1823	12m	Nearshore	2008-10-03	BayBeach	Dredge Petit Ponar	37.058692	-8.796675	-12.64	0.20	99.80	0.00	2.376	0.409	0.045	1.042	2.237		
+4	1824	16m	Nearshore	2008-10-03	BayBeach	Dredge Petit Ponar	37.056409	-8.797403	-17.57	0.00	100.00	0.00	2.420	0.378	0.057	0.947	2.237		
+5	1825	20m	Nearshore	2008-10-03	BayBeach	Dredge Petit Ponar	37.055510	-8.797697	-20.63	0.20	99.80	0.00	2.442	0.393	-0.042	0.951	2.237		
+6	1816	4m	Nearshore	2008-10-03	BayBeach	Dredge Petit Ponar	37.064442	-8.808475	-3.90	0.00	100.00	0.00	2.290	0.558	0.012	0.920	2.237		
+7	1817	8m	Nearshore	2008-10-03	BayBeach	Dredge Petit Ponar	37.062796	-8.807947	-8.58	0.40	99.60	0.00	1.712	0.543	-0.077	1.134	1.747		
+8	1818	12m	Nearshore	2008-10-03	BayBeach	Dredge Petit Ponar	37.060937	-8.807564	-12.71	1.00	99.00	0.00	1.766	0.607	-0.062	1.316	1.747		
+9	1819	16m	Nearshore	2008-10-03	BayBeach	Dredge Petit Ponar	37.059298	-8.806798	-16.53	0.70	99.00	0.30	2.005	0.640	0.116	1.166	1.747		
+10	1820	20m	Nearshore	2008-10-03	BayBeach	Dredge Petit Ponar	37.057538	-8.806062	-20.87	0.00	100.00	0.00	2.392	0.728	-0.039	0.837	2.737	1.747	
+11	1811	4m	Nearshore	2008-10-01	BayBeach	Dredge Petit Ponar	37.062858	-8.823230	-4.18	0.10	99.90	0.00	1.689	0.596	-0.035	1.079	1.747		
+12	1812	8m	Nearshore	2008-10-02	BayBeach	Dredge Petit Ponar	37.060803	-8.822858	-8.51	0.00	100.00	0.00	1.694	0.416	-0.056	1.181	1.747		
+13	1813	12m	Nearshore	2008-10-02	BayBeach	Dredge Petit Ponar	37.058999	-8.822124	-12.27	0.30	99.70	0.00	1.510	0.470	-0.116	1.038	1.747		
+14	1814	16m	Nearshore	2008-10-02	BayBeach	Dredge Petit Ponar	37.056558	-8.821609	-16.46	1.10	98.90	0.00	1.512	0.497	-0.085	1.050	1.747		
+15	1815	20m	Nearshore	2008-10-02	BayBeach	Dredge Petit Ponar	37.055005	-8.820720	-19.53	8.80	91.20	0.00	1.336	1.056	-0.450	2.196	1.747		
+16	1722	2m	Nearshore	2008-09-01	BayBeach	Dredge Petit Ponar	37.293746	-8.868063	-2.20	0.10	99.90	0.00	1.889	0.383	0.025	1.017	1.747		
+17	1723	4m	Nearshore	2008-09-01	BayBeach	Dredge Petit Ponar	37.293216	-8.868912	-3.00	0.70	99.30	0.00	1.761	0.497	-0.155	1.436	1.747		
+18	1724	8m	Nearshore	2008-09-01	BayBeach	Dredge Petit Ponar	37.291868	-8.869879	-7.73	0.00	99.90	0.10	1.950	0.410	-0.063	0.972	1.747		
+19	1725	12m	Nearshore	2008-09-01	BayBeach	Dredge Petit Ponar	37.290986	-8.870983	-12.41	0.10	99.80	0.10	2.027	0.381	-0.029	0.917	2.237		
+20	1726	16m	Nearshore	2008-09-01	BayBeach	Dredge Petit Ponar	37.289877	-8.871598	-15.93	0.10	99.40	0.50	2.139	0.496	0.016	1.147	2.237		
+21	1727	20m	Nearshore	2008-09-01	BayBeach	Dredge Petit Ponar	37.289632	-8.875492	-20.19	2.20	97.80	0.00	0.833	0.906	-0.028	0.858	0.747	1.747	
+22	1712	4m	Nearshore	2008-08-31	BayBeach	Dredge Petit Ponar	37.343888	-8.857749	-4.88	0.00	100.00	0.00	1.735	0.390	-0.026	1.221	1.747		
+23	1713	8m	Nearshore	2008-08-31	BayBeach	Dredge Petit Ponar	37.344726	-8.858255	-8.57	0.00	100.00	0.00	1.766	0.400	-0.004	1.197	1.747		
+24	1714	12m	Nearshore	2008-08-31	BayBeach	Dredge Petit Ponar	37.344863	-8.859524	-11.84	0.00	100.00	0.00	1.751	0.388	-0.013	1.215	1.747		
+25	1715	16m	Nearshore	2008-08-31	BayBeach	Dredge Petit Ponar	37.345522	-8.860913	-16.90	0.00	100.00	0.00	1.958	0.423	0.038	1.009	1.747		
+26	1716	20m	Nearshore	2008-08-31	BayBeach	Dredge Petit Ponar	37.346009	-8.862449	-21.37	0.10	99.90	0.00	2.122	0.447	0.050	0.949	2.237		
+27	1717	4m	Nearshore	2008-08-31	BayBeach	Dredge Petit Ponar	37.353216	-8.850156	-4.72	0.00	100.00	0.00	1.793	0.381	0.019	1.217	1.747		
+28	1718	8m	Nearshore	2008-08-31	BayBeach	Dredge Petit Ponar	37.354925	-8.850669	-8.59	0.10	99.90	0.00	1.798	0.391	0.022	1.194	1.747		
+29	1719	12m	Nearshore	2008-08-31	BayBeach	Dredge Petit Ponar	37.355320	-8.852174	-12.67	0.00	100.00	0.00	1.803	0.392	0.011	1.153	1.747		
+30	1720	16m	Nearshore	2008-08-31	BayBeach	Dredge Petit Ponar	37.354618	-8.853901	-16.34	0.00	100.00	0.00	1.914	0.388	0.006	0.934	1.747		
+31	1721	20m	Nearshore	2008-08-31	BayBeach	Dredge Petit Ponar	37.355230	-8.855232	-20.62	0.00	100.00	0.00	1.951	0.429	0.082	1.034	1.747		

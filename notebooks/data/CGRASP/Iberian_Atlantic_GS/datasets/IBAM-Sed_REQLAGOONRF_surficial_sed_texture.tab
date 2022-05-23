@@ -1,0 +1,133 @@
+/* DATA DESCRIPTION:
+Citation:	REQLAGOONRF Project Members (2000): Processing samples for the morphological study of Ancao, Armona, Tavira and Cabanas islands before and after beach nourishment. PANGAEA, https://doi.org/10.1594/PANGAEA.883112, 
+	In supplement to: Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Surficial sediment texture database for the south-western Iberian Atlantic margin. Earth System Science Data, 10(2), 1185-1195, https://doi.org/10.5194/essd-10-1185-2018
+Original version:	Original data of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed) (URI: https://store.pangaea.de/Publications/Coasta-etal_2017/PLOSscripts.zip)
+Further details:	Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Shape files of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed). PANGAEA, https://doi.org/10.1594/PANGAEA.890946
+Coverage:	MEDIAN LATITUDE: 37.071666 * MEDIAN LONGITUDE: -7.748683 * SOUTH-BOUND LATITUDE: 37.013531 * WEST-BOUND LONGITUDE: -8.026198 * NORTH-BOUND LATITUDE: 37.141647 * EAST-BOUND LONGITUDE: -7.573253
+	DATE/TIME START: 1999-04-23T00:00:00 * DATE/TIME END: 2000-08-02T00:00:00
+Event(s):	IBAM-Sed_REQLAGOONRF * LATITUDE: 37.084800 * LONGITUDE: -7.804200 * DATE/TIME START: 1999-04-23T00:00:00 * DATE/TIME END: 2000-08-02T00:00:00 * METHOD/DEVICE: Sampling by hand (HAND)
+Comment:	REQLAGOONRF (2000). Requalification of the Lagunar System of Ria Formosa
+Parameter(s):	Sample ID (Sample ID) * PI: REQLAGOONRF Project Members * COMMENT: Sample number
+	Sample ID (Sample ID) * PI: REQLAGOONRF Project Members * COMMENT: Acess number from laboratory
+	Sample ID (Sample ID) * PI: REQLAGOONRF Project Members * COMMENT: Reference sample in the collect
+	Sample comment (Sample comment) * PI: REQLAGOONRF Project Members
+	DATE/TIME (Date/Time) * GEOCODE * PI: REQLAGOONRF Project Members * COMMENT: of collecting
+	Project (Project) * PI: REQLAGOONRF Project Members
+	Sample method (Sample method) * PI: REQLAGOONRF Project Members
+	LATITUDE (Latitude) * GEOCODE * PI: REQLAGOONRF Project Members
+	LONGITUDE (Longitude) * GEOCODE * PI: REQLAGOONRF Project Members
+	Chart datum [m] (Chart datum) * PI: REQLAGOONRF Project Members * COMMENT: Hydrographic datum (m)
+	Gravel [%] (Gravel) * PI: REQLAGOONRF Project Members * METHOD/DEVICE: Grain size, sieving
+	Sandstone [%] (Sdst) * PI: REQLAGOONRF Project Members * METHOD/DEVICE: Grain size, sieving
+	Mudstone [%] (Mudstone) * PI: REQLAGOONRF Project Members * METHOD/DEVICE: Grain size, sieving
+	Grain size, mean [phi] (Grain size mean) * PI: REQLAGOONRF Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Standard deviation [±] (Std dev) * PI: REQLAGOONRF Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: Of sample value
+	Skewness (Skew) * PI: REQLAGOONRF Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Kurtosis (Kurt) * PI: REQLAGOONRF Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Mode, grain size [phi] (Mode) * PI: REQLAGOONRF Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: 1st Mode sample value
+	Mode, grain size [phi] (Mode) * PI: REQLAGOONRF Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: 2nd Mode sample value
+	Mode, grain size [phi] (Mode) * PI: REQLAGOONRF Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: 3rd Mode sample value
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	1504 data points
+*/
+Sample ID (Sample number)	Sample ID (Acess number from laboratory)	Sample ID (Reference sample in the collect)	Sample comment	Date/Time (of collecting)	Project	Sample method	Latitude	Longitude	Chart datum [m] (Hydrographic datum (m))	Gravel [%] (Grain size, sieving)	Sdst [%] (Grain size, sieving)	Mudstone [%] (Grain size, sieving)	Grain size mean [phi] (Grain size, sieving, Folk and...)	Std dev [±] (Of sample value, Grain size, ...)	Skew (Grain size, sieving, Folk and...)	Kurt (Grain size, sieving, Folk and...)	Mode [phi] (1st Mode sample value, Grain ...)	Mode [phi] (2nd Mode sample value, Grain ...)	Mode [phi] (3rd Mode sample value, Grain ...)
+1	763A	An1.Duna	Dune	2000-02-03	ReqSistLagRFormosa	Hand-Collecting	37.0139	-8.0057	8	0.00	100.00	0.00	1.020	0.670	0.060	1.000	0.750		
+2	764A	An1.Berma	Berm	2000-02-03	ReqSistLagRFormosa	Hand-Collecting	37.0138	-8.0060	4	1.60	98.40	0.00	0.760	0.680	-0.050	0.930	0.750		
+3	765A	An1.Face	Beach face	2000-02-03	ReqSistLagRFormosa	Hand-Collecting	37.0138	-8.0061	2	0.20	99.80	0.00	1.280	0.600	-0.150	1.110	1.250		
+4	766A	An1.Terraco	Low tide terrace	2000-02-03	ReqSistLagRFormosa	Hand-Collecting	37.0135	-8.0066		4.60	95.40	0.00	0.470	0.790	0.300	0.750	-0.240		
+5	767A	An2.Duna	Dune	2000-02-03	ReqSistLagRFormosa	Hand-Collecting	37.0196	-8.0158	7	0.00	100.00	0.00	1.100	0.550	0.030	1.040	1.250		
+6	768A	An2.Berma	Berm	2000-02-03	ReqSistLagRFormosa	Hand-Collecting	37.0195	-8.0160	6	0.90	99.10	0.00	0.950	0.710	-0.150	0.960	1.250		
+7	769A	An2.Face	Beach face	2000-02-03	ReqSistLagRFormosa	Hand-Collecting	37.0194	-8.0162	2	0.30	99.70	0.00	1.350	0.650	-0.140	1.070	1.750		
+8	770A	An2.Terraco	Low tide terrace	2000-02-03	ReqSistLagRFormosa	Hand-Collecting	37.0192	-8.0167		0.30	99.70	0.00	1.680	0.580	-0.170	1.060	1.750		
+9	771A	An3.Duna	Dune	2000-02-03	ReqSistLagRFormosa	Hand-Collecting	37.0252	-8.0252	9	0.10	99.90	0.00	0.960	0.620	0.020	0.970	0.750		
+10	772A	An3.Berma	Berm	2000-02-03	ReqSistLagRFormosa	Hand-Collecting	37.0251	-8.0254	5	0.80	99.20	0.00	0.940	0.530	-0.010	1.010	0.750		
+11	773A	An3.Face	Beach face	2000-02-03	ReqSistLagRFormosa	Hand-Collecting	37.0251	-8.0256	3	0.60	99.40	0.00	0.910	0.790	-0.140	0.750	1.250	0.247	
+12	774A	An3.Terraco	Low tide terrace	2000-02-03	ReqSistLagRFormosa	Hand-Collecting	37.0249	-8.0262		75.10	24.90	0.00	-1.550	0.890	0.680	0.790	-2.240	-1.243	-0.243
+13	775A	An1.Duna	Dune	2000-08-02	ReqSistLagRFormosa	Hand-Collecting	37.0252	-8.0253	8	2.10	97.90	0.00	0.790	0.700	-0.100	0.970	0.750		
+14	776A	An1.Berma	Berm	2000-08-02	ReqSistLagRFormosa	Hand-Collecting	37.0251	-8.0256	4	0.00	100.00	0.00	0.470	0.470	0.140	1.050	0.250		
+15	777A	An1.Face	Beach face	2000-08-02	ReqSistLagRFormosa	Hand-Collecting	37.0250	-8.0257	2	6.00	94.00	0.00	0.030	0.500	-0.070	1.350	-0.240		
+16	778A	An1.Terraco	Low tide terrace	2000-08-02	ReqSistLagRFormosa	Hand-Collecting	37.0249	-8.0262	0	0.00	100.00	0.00	1.660	0.470	-0.070	1.140	1.750		
+17	779A	An2.aterro	Nourishment	2000-08-02	ReqSistLagRFormosa	Hand-Collecting	37.0195	-8.0159	6	4.40	95.60	0.00	0.660	0.960	0.330	0.870	-0.240		
+18	780A	An2.Berma	Berm	2000-08-02	ReqSistLagRFormosa	Hand-Collecting	37.0195	-8.0161	6	1.20	98.80	0.00	0.900	0.850	0.000	0.920	1.250		
+19	781A	An2.Face	Beach face	2000-08-02	ReqSistLagRFormosa	Hand-Collecting	37.0194	-8.0163	2	1.30	98.70	0.00	0.920	0.530	-0.050	1.020	0.750		
+20	782A	An2.Terraco	Low tide terrace	2000-08-02	ReqSistLagRFormosa	Hand-Collecting	37.0192	-8.0167	0	11.80	88.20	0.00	-0.140	0.580	-0.040	2.960	-0.240		
+21	783A	An3.Aterro	Nourishment	2000-08-02	ReqSistLagRFormosa	Hand-Collecting	37.0139	-8.0058	6	11.80	88.20	0.00	-0.140	0.580	-0.040	2.960	-0.240		
+22	784A	An3.Berma	Berm	2000-08-02	ReqSistLagRFormosa	Hand-Collecting	37.0138	-8.0059	5	0.20	99.80	0.00	1.220	0.630	-0.060	1.040	1.250		
+23	785A	An3.Face	Beach face	2000-08-02	ReqSistLagRFormosa	Hand-Collecting	37.0137	-8.0062	1	1.90	98.10	0.00	0.250	0.490	0.110	0.980	0.250		
+24	786A	An3.Terraco	Low tide terrace	2000-08-02	ReqSistLagRFormosa	Hand-Collecting	37.0135	-8.0065	0	45.00	55.00	0.00	-0.890	0.960	-0.520	0.610	-0.240	-2.240	-1.240
+25	787A	Ar1.Aterro	Nourishment	2000-04-05	ReqSistLagRFormosa	Hand-Collecting	37.0424	-7.7446	5	0.00	100.00	0.00	1.570	0.560	-0.080	0.970	1.750		
+26	788A	Ar1.Berma	Berm	2000-04-05	ReqSistLagRFormosa	Hand-Collecting	37.0421	-7.7445	4	0.00	100.00	0.00	1.530	0.490	0.010	1.010	1.250		
+27	789A	Ar1.Face	Beach face	2000-04-05	ReqSistLagRFormosa	Hand-Collecting	37.0416	-7.7443	2	0.00	100.00	0.00	1.870	0.430	0.020	0.970	1.750		
+28	790A	Ar1.Terraco	Low tide terrace	2000-04-05	ReqSistLagRFormosa	Hand-Collecting	37.0414	-7.7443		0.10	99.90	0.00	1.260	0.660	-0.030	0.940	1.250		
+29	791A	Ar2.Aterro	Nourishment	2000-04-05	ReqSistLagRFormosa	Hand-Collecting	37.0337	-7.7620	7	0.00	100.00	0.00	1.790	0.450	-0.080	0.930	1.750		
+30	792A	Ar2.Face	Beach face	2000-04-05	ReqSistLagRFormosa	Hand-Collecting	37.0329	-7.7617	2	0.00	100.00	0.00	1.222	0.671	-0.010	0.890	1.250		
+31	793A	Ar2.Terraco	Low tide terrace	2000-04-05	ReqSistLagRFormosa	Hand-Collecting	37.0322	-7.7614		2.60	97.40	0.00	0.640	0.750	0.300	0.930	0.250		
+32	794A	Ar3.Duna	Dune	2000-04-05	ReqSistLagRFormosa	Hand-Collecting	37.0235	-7.7786	5	0.00	100.00	0.00	1.370	0.500	0.030	1.000	1.250		
+33	795A	Ar3.Face	Beach face	2000-04-05	ReqSistLagRFormosa	Hand-Collecting	37.0229	-7.7783	1	0.60	99.40	0.00	0.920	0.670	-0.070	1.020	1.250		
+34	796A	Ar3.Terraco	Low tide terrace	2000-04-05	ReqSistLagRFormosa	Hand-Collecting	37.0224	-7.7781		4.10	95.90	0.00	0.330	0.660	0.230	0.890	-0.240		
+35	797A	Ar1.Aterro	Nourishment	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0234	-7.7785	6	0.30	99.70	0.00	1.150	0.640	0.080	1.030	0.750		
+36	798A	Ar1.Berma	Berm	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0234	-7.7785	5	0.20	99.80	0.00	1.220	0.640	-0.040	1.020	1.250		
+37	799A	Ar1.Face	Beach face	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0227	-7.7782	2	0.00	100.00	0.00	1.760	0.470	-0.030	0.890	1.750		
+38	800A	Ar1.Terraco	Low tide terrace	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0224	-7.7781		0.80	99.20	0.00	2.050	0.520	-0.320	1.430	2.240		
+39	801A	Ar2.aterro	Nourishment	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0338	-7.7619	6	0.00	100.00	0.00	1.350	0.670	-0.050	0.850	1.750	0.750	
+40	802A	Ar2.Berma	Berm	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0334	-7.7615	5	0.10	99.10	0.00	1.120	0.600	0.090	0.980	0.750		
+41	803A	Ar2.Face	Beach face	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0332	-7.7614	2	0.00	100.00	0.00	1.410	0.560	-0.140	1.020	1.750		
+42	804A	Ar2.Terraco	Low tide terrace	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0325	-7.7607		6.10	93.90	0.00	0.700	0.950	-0.140	0.860	-0.240	1.247	-1.243
+43	805A	Ar3.Duna	Dune	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0425	-7.7447	5	0.00	100.00	0.00	1.410	0.580	-0.110	0.990	1.750		
+44	806A	Ar3.Berma	Berm	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0424	-7.7446	4	0.00	100.00	0.00	1.060	0.630	0.080	0.950	0.750		
+45	807A	Ar3.Face	Beach face	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0421	-7.7445	2	0.00	100.00	0.00	1.680	0.430	-0.020	0.970	1.750		
+46	808A	Ar3.Terraco	Low tide terrace	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0414	-7.7443		1.10	98.90	0.00	1.340	0.680	-0.220	0.980	1.750		
+47	809A	Ta 2.Aterro	Nourishment	2000-04-11	ReqSistLagRFormosa	Hand-Collecting	37.0692	-7.6975	7	2.20	97.80	0.00	1.390	0.920	-0.360	0.950	1.750	-0.243	
+48	810A	Ta 2.Berma	Berm	2000-04-11	ReqSistLagRFormosa	Hand-Collecting	37.0691	-7.6975	7	0.00	100.00	0.00	1.560	0.420	0.080	0.880	1.250		
+49	811A	Ta 2.Face	Beach face	2000-04-11	ReqSistLagRFormosa	Hand-Collecting	37.0687	-7.6973	2	2.10	97.90	0.00	0.610	0.770	0.190	0.850	0.250		
+50	812A	Ta 4.Duna	Dune	2000-04-11	ReqSistLagRFormosa	Hand-Collecting	37.0851	-7.6641	5	0.00	100.00	0.00	1.580	0.400	0.010	0.910	1.750		
+51	813A	Ta 4.Berma	Berm	2000-04-11	ReqSistLagRFormosa	Hand-Collecting	37.0849	-7.6640	3	0.70	99.30	0.00	0.880	0.680	-0.060	0.940	1.250		
+52	814A	Ta 4.Face	Beach face	2000-04-11	ReqSistLagRFormosa	Hand-Collecting	37.0846	-7.6639	2	4.40	95.60	0.00	0.720	0.830	-0.001	0.750	-0.240	1.250	
+53	815A	Ta 6.Duna	Dune	2000-04-11	ReqSistLagRFormosa	Hand-Collecting	37.1009	-7.6369	6	0.00	100.00	0.00	1.850	0.370	0.060	1.080	1.750		
+54	816A	Ta 6.Berma	Berm	2000-04-11	ReqSistLagRFormosa	Hand-Collecting	37.1007	-7.6368	3	0.00	100.00	0.00	1.910	0.310	0.180	0.800	1.750		
+55	817A	Ta 6.Terraco	Low tide terrace	2000-04-11	ReqSistLagRFormosa	Hand-Collecting	37.0998	-7.6363	0	0.30	99.70	0.00	1.530	0.560	-0.230	1.170	1.750		
+56	818A	Ta 7.Duna	Dune	2000-04-11	ReqSistLagRFormosa	Hand-Collecting	37.1102	-7.6217	5	0.00	100.00	0.00	1.480	0.440	0.070	1.010	1.250		
+57	819A	Ta 7.Berma	Berm	2000-04-11	ReqSistLagRFormosa	Hand-Collecting	37.1098	-7.6215	5	0.00	100.00	0.00	1.470	0.500	-0.010	1.010	1.250		
+58	820A	Ta 7.Face	Beach face	2000-04-11	ReqSistLagRFormosa	Hand-Collecting	37.1095	-7.6213	2	0.00	100.00	0.00	1.670	0.470	-0.100	1.060	1.750		
+59	821A	Ta 7.Terraco	Low tide terrace	2000-04-11	ReqSistLagRFormosa	Hand-Collecting	37.1090	-7.6209	1	0.20	98.00	0.00	0.620	0.680	-0.010	0.890	0.750		
+60	822A	Ta 2.Aterro	Nourishment	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0692	-7.6975	7	3.80	96.20	0.00	1.040	0.930	-0.170	0.790	1.750	-0.243	
+61	823A	Ta 2.Berma	Berm	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0690	-7.6974	7	7.70	92.30	0.00	0.430	0.920	0.170	1.100	-0.240	-1.243	
+62	824A	Ta 2.Face	Beach face	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0686	-7.6973	2	0.00	100.00	0.00	1.720	0.480	-0.050	0.910	1.750		
+63	825A	Ta 2.Terraco	Low tide terrace	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0684	-7.6972		0.20	99.80	0.00	1.670	0.510	-0.020	0.920	1.750		
+64	826A	Ta 4.Duna	Dune	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0851	-7.6626	7	0.00	100.00	0.00	1.660	0.460	-0.080	1.040	1.750		
+65	827A	Ta 4.Berma	Berm	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0848	-7.6625	4	1.80	98.20	0.00	1.140	0.770	-0.190	1.000	1.250		
+66	828A	Ta 4.Face	Beach face	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0846	-7.6624	3	0.40	99.60	0.00	1.420	0.720	-0.240	0.940	1.750		
+67	829A	Ta 4.Terraco	Low tide terrace	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0843	-7.6623		1.50	98.50	0.00	0.800	0.630	0.060	1.460	0.750		
+68	830A	Ta 6.Duna	Dune	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.1009	-7.6369	6	0.00	100.00	0.00	1.860	0.380	0.050	1.070	1.750		
+69	831A	Ta 6.Berma	Berm	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.1006	-7.6367	4	0.00	100.00	0.00	1.100	0.500	-0.060	1.050	1.250		
+70	832A	Ta 6.Face	Beach face	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.1005	-7.6366	1	0.80	99.20	0.00	0.610	0.420	-0.220	1.290	0.750		
+71	833A	Ta 6.Terraco	Low tide terrace	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.0999	-7.6363	1	0.00	100.00	0.00	1.610	0.500	-0.190	1.170	1.750		
+72	834A	Ta 7.Duna	Dune	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.1103	-7.6218	6	0.00	100.00	0.00	1.730	0.460	-0.060	1.000	1.750		
+73	835A	Ta 7.Berma	Berm	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.1098	-7.6215	5	3.40	96.60	0.00	0.450	0.740	0.240	0.830	-0.240		
+74	836A	Ta 7.Face	Beach face	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.1095	-7.6213	2	0.00	100.00	0.00	0.730	0.420	-0.020	1.250	0.750		
+75	837A	Ta 7.Terraco	Low tide terrace	2000-07-25	ReqSistLagRFormosa	Hand-Collecting	37.1093	-7.6212	1	6.80	93.20	0.00	1.120	1.050	-0.400	1.680	1.250	-2.240	
+76	838A	Cb1.Duna	Dune	1999-04-23	ReqSistLagRFormosa	Hand-Collecting	37.1277	-7.6016	6	0.10	99.90	0.00	1.550	0.520	-0.070	0.990	1.750		
+77	839A	Cb1.Berma	Berm	1999-04-23	ReqSistLagRFormosa	Hand-Collecting	37.1275	-7.6015	5	0.20	99.80	0.00	1.400	0.540	0.020	0.970	1.250		
+78	840A	Cb1.Face	Beach face	1999-04-23	ReqSistLagRFormosa	Hand-Collecting	37.1271	-7.6014	2	0.00	100.00	0.00	1.220	0.510	0.030	0.980	1.250		
+79	841A	Cb3.Duna	Dune	1999-04-23	ReqSistLagRFormosa	Hand-Collecting	37.1326	-7.5931	6	0.00	100.00	0.00	1.600	0.450	-0.040	0.970	1.750		
+80	842A	Cb3.Berma	Berm	1999-04-23	ReqSistLagRFormosa	Hand-Collecting	37.1324	-7.5931	4	0.10	99.90	0.00	1.400	0.670	-0.190	1.000	1.750		
+81	843A	Cb3.Face	Beach face	1999-04-23	ReqSistLagRFormosa	Hand-Collecting	37.1320	-7.5930	2	0.10	99.90	0.00	1.930	0.610	0.180	1.400	1.750		
+82	844A	Cb4.Duna	Dune	1999-04-23	ReqSistLagRFormosa	Hand-Collecting	37.1348	-7.5892	6	0.00	100.00	0.00	1.670	0.500	-0.070	1.000	1.750		
+83	845A	Cb4.Berma	Berm	1999-04-23	ReqSistLagRFormosa	Hand-Collecting	37.1346	-7.5891	5	0.00	100.00	0.00	1.580	0.550	-0.020	0.950	1.750		
+84	846A	Cb4.Face	Beach face	1999-04-23	ReqSistLagRFormosa	Hand-Collecting	37.1342	-7.5890	3	0.00	100.00	0.00	1.890	0.450	-0.060	0.920	1.750		
+85	847A	Cb1.Duna	Dune	2000-01-20	ReqSistLagRFormosa	Hand-Collecting	37.1277	-7.6016	6	0.00	100.00	0.00	1.820	0.440	-0.060	0.980	1.750		
+86	848A	Cb1.Berma	Berm	2000-01-20	ReqSistLagRFormosa	Hand-Collecting	37.1273	-7.6014	4	0.00	100.00	0.00	1.710	0.440	-0.010	0.940	1.750		
+87	849A	Cb1.Face	Beach face	2000-01-20	ReqSistLagRFormosa	Hand-Collecting	37.1272	-7.6013	2	0.20	99.80	0.00	1.100	0.640	0.150	1.020	0.750		
+88	850A	Cb1.Terraco	Low tide terrace	2000-01-20	ReqSistLagRFormosa	Hand-Collecting	37.1265	-7.6010		36.90	63.10	0.00	-0.030	1.670	-0.370	0.540	-2.240	1.247	
+89	851A	Cb3.Aterro	Nourishment	2000-01-20	ReqSistLagRFormosa	Hand-Collecting	37.1277	-7.5982	6	3.90	96.10	0.00	1.450	0.820	-0.370	1.250	1.750	-0.243	
+90	852A	Cb3.Berma	Berm	2000-01-20	ReqSistLagRFormosa	Hand-Collecting	37.1323	-7.5981	4	0.00	100.00	0.00	1.730	0.480	-0.030	0.850	1.750		
+91	853A	Cb3.Face	Beach face	2000-01-20	ReqSistLagRFormosa	Hand-Collecting	37.1320	-7.5980	2	0.10	99.90	0.00	1.710	0.610	-0.150	0.940	1.750		
+92	854A	Cb3.Terraco	Low tide terrace	2000-01-20	ReqSistLagRFormosa	Hand-Collecting	37.1317	-7.5979		0.00	100.00	0.00	1.720	0.610	-0.140	0.950	2.240		
+93	855A	Cb4.Aterro	Nourishment	2000-01-20	ReqSistLagRFormosa	Hand-Collecting	37.1347	-7.5892	5	0.00	100.00	0.00	1.630	0.661	-0.260	1.054	1.747		
+94	856A	Cb4.Berma	Berm	2000-01-20	ReqSistLagRFormosa	Hand-Collecting	37.1345	-7.5891	5	0.00	100.00	0.00	1.696	0.631	-0.174	0.878	2.237		
+95	857A	Cb4.Face	Beach face	2000-01-20	ReqSistLagRFormosa	Hand-Collecting	37.1341	-7.5890	3	1.60	98.40	0.00	1.124	0.899	0.063	0.881	0.747	2.237	
+96	858A	Cb4.Terraco	Low tide terrace	2000-01-20	ReqSistLagRFormosa	Hand-Collecting	37.1336	-7.5889	1	1.00	99.00	0.00	1.500	0.827	-0.343	1.037	1.747		
+97	859A	Cb5.Aterro	Nourishment	2000-01-20	ReqSistLagRFormosa	Hand-Collecting	37.1416	-7.5739	5	1.00	99.00	0.00	1.289	0.907	-0.149	0.802	2.237	0.747	
+98	860A	Cb5.Berma	Berm	2000-01-20	ReqSistLagRFormosa	Hand-Collecting	37.1411	-7.5736	4	0.00	100.00	0.00	1.702	0.513	-0.094	0.985	1.747		
+99	861A	Cb5.Face	Beach face	2000-01-20	ReqSistLagRFormosa	Hand-Collecting	37.1409	-7.5735	2	0.00	100.00	0.00	1.717	0.596	-0.136	0.917	1.747		
+100	862A	Cb5.Terraco	Low tide terrace	2000-01-20	ReqSistLagRFormosa	Hand-Collecting	37.1406	-7.5733		0.60	99.40	0.00	1.281	0.830	0.037	0.891	0.747	2.237	

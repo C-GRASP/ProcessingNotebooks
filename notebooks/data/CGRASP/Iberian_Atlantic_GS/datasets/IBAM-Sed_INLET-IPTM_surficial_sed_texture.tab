@@ -1,0 +1,254 @@
+/* DATA DESCRIPTION:
+Citation:	INLET-IPTM Project Members (2005): Sedimentological analysis to define sedimentary environments at Faro channel and Olhao-Armona inlet. PANGAEA, https://doi.org/10.1594/PANGAEA.883082, 
+	In supplement to: Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Surficial sediment texture database for the south-western Iberian Atlantic margin. Earth System Science Data, 10(2), 1185-1195, https://doi.org/10.5194/essd-10-1185-2018
+Original version:	Original data of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed) (URI: https://store.pangaea.de/Publications/Coasta-etal_2017/PLOSscripts.zip)
+Further details:	Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Shape files of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed). PANGAEA, https://doi.org/10.1594/PANGAEA.890946
+Coverage:	MEDIAN LATITUDE: 37.006789 * MEDIAN LONGITUDE: -7.807286 * SOUTH-BOUND LATITUDE: 36.971698 * WEST-BOUND LONGITUDE: -7.920728 * NORTH-BOUND LATITUDE: 37.012020 * EAST-BOUND LONGITUDE: -7.794862
+	DATE/TIME START: 2001-01-07T00:00:00 * DATE/TIME END: 2005-11-02T00:00:00
+Event(s):	IBAM-Sed_INLET-IPTM * LATITUDE: 37.003200 * LONGITUDE: -7.856200 * DATE/TIME START: 2001-01-07T00:00:00 * DATE/TIME END: 2005-01-07T00:00:00 * METHOD/DEVICE: Dredge (DRG)
+Comment:	INLET-IPTM (2005). Inlet monitoring
+Parameter(s):	Sample ID (Sample ID) * PI: INLET-IPTM Project Members * COMMENT: Sample number
+	Sample ID (Sample ID) * PI: INLET-IPTM Project Members * COMMENT: Acess number from laboratory
+	Sample ID (Sample ID) * PI: INLET-IPTM Project Members * COMMENT: Reference sample in the collect
+	DATE/TIME (Date/Time) * GEOCODE * PI: INLET-IPTM Project Members * COMMENT: of collecting
+	Project (Project) * PI: INLET-IPTM Project Members
+	Sample method (Sample method) * PI: INLET-IPTM Project Members
+	LATITUDE (Latitude) * GEOCODE * PI: INLET-IPTM Project Members
+	LONGITUDE (Longitude) * GEOCODE * PI: INLET-IPTM Project Members
+	Chart datum [m] (Chart datum) * PI: INLET-IPTM Project Members * COMMENT: Hydrographic datum (m)
+	Gravel [%] (Gravel) * PI: INLET-IPTM Project Members * METHOD/DEVICE: Grain size, sieving
+	Sandstone [%] (Sdst) * PI: INLET-IPTM Project Members * METHOD/DEVICE: Grain size, sieving
+	Mudstone [%] (Mudstone) * PI: INLET-IPTM Project Members * METHOD/DEVICE: Grain size, sieving/pipette
+	Grain size, mean [phi] (Grain size mean) * PI: INLET-IPTM Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Standard deviation [±] (Std dev) * PI: INLET-IPTM Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: Of sample value
+	Skewness (Skew) * PI: INLET-IPTM Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Kurtosis (Kurt) * PI: INLET-IPTM Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Mode, grain size [phi] (Mode) * PI: INLET-IPTM Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 1st Mode sample value
+	Mode, grain size [phi] (Mode) * PI: INLET-IPTM Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 2nd Mode sample value
+	Mode, grain size [phi] (Mode) * PI: INLET-IPTM Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 3rd Mode sample value
+	Observation (Obs) * PI: INLET-IPTM Project Members
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	3152 data points
+*/
+Sample ID (Sample number)	Sample ID (Acess number from laboratory)	Sample ID (Reference sample in the collect)	Date/Time (of collecting)	Project	Sample method	Latitude	Longitude	Chart datum [m] (Hydrographic datum (m))	Gravel [%] (Grain size, sieving)	Sdst [%] (Grain size, sieving)	Mudstone [%] (Grain size, sieving/pipette)	Grain size mean [phi] (Grain size, sieving/pipette, ...)	Std dev [±] (Of sample value, Grain size, ...)	Skew (Grain size, sieving/pipette, ...)	Kurt (Grain size, sieving/pipette, ...)	Mode [phi] (1st Mode sample value, Grain ...)	Mode [phi] (2nd Mode sample value, Grain ...)	Mode [phi] (3rd Mode sample value, Grain ...)	Obs
+1	880A	P0/T1	2004-03-11	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0102	-7.8027		27.10	72.90	0.00	-0.892	1.600	-0.520	1.531	-0.243	-4.243		Approximate coordinates by geo-referencing
+2	881A	P0/T2(A)	2004-03-11	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0095	-7.8016	-9.30	0.10	17.40	82.50	5.002	2.509	-0.027	1.157	4.477	1.247		Approximate coordinates by geo-referencing
+3	882A	P0/T2(B)	2004-03-11	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0095	-7.8016	-9.30	19.20	80.60	0.20	-0.222	1.213	-0.474	1.672	0.247	-3.743		Approximate coordinates by geo-referencing
+4	883A	P0/T3	2004-03-11	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0088	-7.8005	-7.70	5.00	94.90	0.10	0.505	0.842	-0.117	0.963	0.747			Approximate coordinates by geo-referencing
+5	884A	P0/T4	2004-03-11	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0081	-7.7994	-0.70	1.40	98.50	0.10	0.694	0.651	0.006	1.109	0.747			Approximate coordinates by geo-referencing
+6	885A	P0/T5	2004-03-11	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0073	-7.7982	-2.10	0.10	99.80	0.10	1.366	0.590	-0.078	1.039	1.247			Approximate coordinates by geo-referencing
+7	886A	P0/T6	2004-03-11	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0066	-7.7971	-2.80	0.60	99.30	0.10	0.788	0.602	-0.036	1.055	0.747			Approximate coordinates by geo-referencing
+8	887A	P2/T1	2004-03-11	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0093	-7.8038	-3.00	1.20	98.70	0.10	1.794	0.615	-0.282	1.205	2.237			Approximate coordinates by geo-referencing
+9	888A	P2/T2	2004-03-11	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0086	-7.8027	-3.50	3.00	96.90	0.10	1.106	0.822	-0.227	1.072	1.247			Approximate coordinates by geo-referencing
+10	889A	P2/T3	2004-03-11	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0079	-7.8016	1.10	8.90	91.00	0.10	-0.028	0.761	-0.012	1.041	-0.243			Approximate coordinates by geo-referencing
+11	890A	P2/T4	2004-03-11	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0072	-7.8005	1.20	0.60	99.30	0.10	0.906	0.654	-0.037	1.088	0.747			Approximate coordinates by geo-referencing
+12	891A	P2/T5	2004-03-11	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0064	-7.7994	1.20	3.00	96.90	0.10	0.906	0.877	-0.111	1.014	1.247			Approximate coordinates by geo-referencing
+13	892A	P2/T6	2004-03-11	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0057	-7.7982	1.10	0.40	99.50	0.10	1.064	0.648	-0.074	1.126	1.247			Approximate coordinates by geo-referencing
+14	893A	P1/T1	2004-03-11	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0084	-7.8050	-0.90	12.80	87.20	0.00	0.141	1.028	0.023	0.986	-0.243			Approximate coordinates by geo-referencing
+15	894A	P1/T2	2004-03-11	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0077	-7.8039	-1.10	19.80	80.10	0.10	-0.008	1.366	-0.261	1.241	0.747			Approximate coordinates by geo-referencing
+16	895A	P1/T3	2004-03-17	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0070	-7.8027	1.00	14.10	85.90	0.00	-0.061	1.152	-0.216	1.761	-0.243	-4.243		Approximate coordinates by geo-referencing
+17	896A	P1/T4	2004-03-17	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0063	-7.8016	0.80	4.30	95.60	0.10	0.894	0.955	-0.118	0.951	1.747	0.747		Approximate coordinates by geo-referencing
+18	897A	P1/T5	2004-03-17	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0055	-7.8005	0.50	0.90	99.00	0.10	1.046	0.901	0.173	1.052	0.747	2.237		Approximate coordinates by geo-referencing
+19	898A	P1/T6	2004-03-17	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0048	-7.7994	0.30	6.70	93.20	0.10	0.755	0.894	-0.338	1.496	1.247			Approximate coordinates by geo-referencing
+20	899A	P3/T1	2004-03-12	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0111	-7.8016	-4.60	6.00	93.90	0.10	0.984	0.985	-0.282	1.208	1.247			Approximate coordinates by geo-referencing
+21	900A	P3/T2	2004-03-12	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0104	-7.8005	-3.80	6.90	93.00	0.10	0.544	0.966	-0.225	1.352	0.747			Approximate coordinates by geo-referencing
+22	901A	P3/T3	2004-03-17	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0097	-7.7994	-4.90	9.50	90.50	0.00	0.367	0.934	-0.372	1.317	0.747			Approximate coordinates by geo-referencing
+23	902A	P3/T4	2004-03-17	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0089	-7.7982	-9.80	4.50	95.50	0.00	0.056	0.708	0.098	1.056	-0.243			Approximate coordinates by geo-referencing
+24	903A	P3/T5	2004-03-17	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0082	-7.7971	-4.50	1.50	98.50	0.00	0.400	0.617	-0.094	1.027	0.747			Approximate coordinates by geo-referencing
+25	904A	P3/T6	2004-03-17	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0075	-7.7960	-4.20	17.30	82.70	0.00	-0.117	1.144	-0.275	1.428	0.247			Approximate coordinates by geo-referencing
+26	905A	P4/T1	2004-03-12	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0120	-7.8005	1.20	0.20	99.80	0.00	1.906	0.559	-0.299	1.098	2.237			Approximate coordinates by geo-referencing
+27	906A	P4/T2	2004-03-12	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0113	-7.7993	1.00	0.10	99.80	0.10	1.693	0.584	-0.162	0.972	1.747			Approximate coordinates by geo-referencing
+28	907A	P4/T3	2004-03-17	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0106	-7.7982	1.20	0.10	99.90	0.00	2.015	0.390	-0.305	0.948	2.237			Approximate coordinates by geo-referencing
+29	908A	P4/T4	2004-03-17	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0098	-7.7971	0.60	0.90	99.10	0.00	1.557	0.704	-0.261	1.088	1.747			Approximate coordinates by geo-referencing
+30	909A	P4/T5	2004-03-17	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0091	-7.7960	-2.90	1.30	98.70	0.00	1.382	0.639	-0.280	1.347	1.747			Approximate coordinates by geo-referencing
+31	910A	P4/T6	2004-03-17	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0084	-7.7949	-1.70	4.20	95.80	0.00	1.040	0.871	-0.342	1.158	1.247			Approximate coordinates by geo-referencing
+32	911A	P0/T1	2004-11-04	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0102	-7.8027		5.80	94.20	0.00	0.375	0.697	-0.283	1.308	0.747			Approximate coordinates by geo-referencing
+33	912A	P0/T2	2004-11-04	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0095	-7.8016		12.30	87.70	0.00	-0.388	0.585	0.059	1.070	-0.243			Approximate coordinates by geo-referencing
+34	913A	P0/T3	2004-11-04	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0088	-7.8005		9.80	90.20	0.00	0.678	1.391	-0.358	1.712	1.247	-4.243		Approximate coordinates by geo-referencing
+35	914A	P0/T4	2004-11-04	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0081	-7.7994		2.50	97.50	0.00	0.496	0.759	-0.053	1.044	0.747			Approximate coordinates by geo-referencing
+36	915A	P0/T5	2004-11-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0073	-7.7982		0.30	99.70	0.00	2.093	0.431	-0.164	1.153	2.237			Approximate coordinates by geo-referencing
+37	916A	P0/T6	2004-11-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0066	-7.7971		3.40	96.60	0.00	0.410	0.781	-0.016	1.059	0.747			Approximate coordinates by geo-referencing
+38	917A	P2/T1	2004-11-04	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0093	-7.8038		2.80	97.20	0.00	1.415	0.866	-0.394	1.351	1.747			Approximate coordinates by geo-referencing
+39	918A	P2/T2	2004-11-04	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0086	-7.8027		6.30	93.70	0.00	0.568	0.929	-0.181	1.042	0.747			Approximate coordinates by geo-referencing
+40	919A	P2/T3	2004-11-04	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0079	-7.8016		3.50	96.50	0.00	0.553	0.647	-0.189	1.180	0.747			Approximate coordinates by geo-referencing
+41	920A	P2/T4	2004-11-04	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0072	-7.8005		6.50	93.50	0.00	0.358	0.867	-0.072	0.969	0.747			Approximate coordinates by geo-referencing
+42	921A	P2/T5	2004-11-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0064	-7.7994		9.90	90.10	0.00	0.882	1.381	-0.379	0.940	1.747	-0.243	-4.243	Approximate coordinates by geo-referencing
+43	922A	P2/T6	2004-11-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0057	-7.7982		2.00	98.00	0.00	1.556	0.762	-0.238	1.071	1.747			Approximate coordinates by geo-referencing
+44	923A	P1/T1	2004-11-04	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0084	-7.8050		12.80	87.20	0.00	0.576	1.286	-0.359	1.097	1.247			Approximate coordinates by geo-referencing
+45	924A	P1/T2	2004-11-04	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0077	-7.8039		0.10	99.90	0.00	1.020	0.522	-0.055	1.036	1.247			Approximate coordinates by geo-referencing
+46	925A	P1/T3	2004-11-04	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0070	-7.8027		3.70	96.30	0.00	0.624	0.843	-0.115	0.992	0.747			Approximate coordinates by geo-referencing
+47	926A	P1/T4	2004-11-04	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0063	-7.8016		2.90	97.10	0.00	0.653	0.873	-0.061	0.925	0.747			Approximate coordinates by geo-referencing
+48	927A	P1/T5	2005-11-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0055	-7.8005		0.10	99.90	0.00	1.324	0.685	-0.061	0.891	1.747			Approximate coordinates by geo-referencing
+49	928A	P1/T6	2005-11-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0048	-7.7994		0.70	99.30	0.00	1.320	0.713	0.028	1.044	1.247			Approximate coordinates by geo-referencing
+50	929A	P3/T1	2004-11-04	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0111	-7.8016		10.80	89.20	0.00	0.563	1.201	-0.329	1.096	1.247			Approximate coordinates by geo-referencing
+51	930A	P3/T2	2004-11-04	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0104	-7.8005		7.00	93.00	0.00	0.747	1.014	-0.367	0.961	1.247			Approximate coordinates by geo-referencing
+52	931A	P3/T3	2004-11-04	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0097	-7.7994		1.70	98.30	0.00	0.039	0.500	-0.049	1.020	0.247			Approximate coordinates by geo-referencing
+53	932A	P3/T4	2004-11-04	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0089	-7.7982		54.90	44.80	0.30	-2.042	2.263	-0.186	0.572	-4.243	-0.243		Approximate coordinates by geo-referencing
+54	933A	P3/T5(A)	2004-11-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0082	-7.7971		5.40	23.40	71.20	4.343	2.954	-0.165	0.969	4.477	1.247	-3.243	Approximate coordinates by geo-referencing
+55	934A	P3/T5(B)	2004-11-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0082	-7.7971		30.30	69.70	0.00	-0.290	1.771	-0.361	0.981	0.747	-3.743		Approximate coordinates by geo-referencing
+56	935A	P3/T6	2004-11-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0075	-7.7960		11.70	88.30	0.00	0.059	1.029	-0.136	1.460	0.247	1.747		Approximate coordinates by geo-referencing
+57	936A	P4/T1	2004-11-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0120	-7.8005		0.40	99.60	0.00	1.371	0.665	-0.143	1.107	1.247			Approximate coordinates by geo-referencing
+58	937A	P4/T2	2004-11-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0113	-7.7993		0.10	99.90	0.00	1.895	0.409	-0.070	0.983	1.747			Approximate coordinates by geo-referencing
+59	938A	P4/T3	2004-11-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0106	-7.7982		0.50	99.50	0.00	1.692	0.566	-0.203	1.121	1.747			Approximate coordinates by geo-referencing
+60	939A	P4/T4	2004-11-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0098	-7.7971		4.50	95.50	0.00	1.664	0.784	-0.381	1.756	1.747			Approximate coordinates by geo-referencing
+61	940A	P4/T5	2004-11-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0091	-7.7960		0.60	99.40	0.00	1.296	0.617	-0.154	1.117	1.247			Approximate coordinates by geo-referencing
+62	941A	P4/T6	2004-11-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0084	-7.7949		11.90	88.10	0.00	0.810	1.639	-0.597	2.070	1.247	-5.235		Approximate coordinates by geo-referencing
+63	942A	P0/T1	2005-02-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0102	-7.8027		3.10	96.90	0.00	0.296	0.631	-0.075	1.069	0.247			Approximate coordinates by geo-referencing
+64	943A	P0/T2	2005-02-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0095	-7.8016		12.80	87.20	0.00	-0.362	0.644	0.163	1.087	-0.743			Approximate coordinates by geo-referencing
+65	944A	P0/T3	2005-02-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0088	-7.8005		7.90	92.10	0.00	0.759	1.136	-0.261	1.032	1.247			Approximate coordinates by geo-referencing
+66	945A	P0/T4	2005-02-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0081	-7.7994		3.30	96.70	0.00	0.385	0.707	-0.105	1.011	0.747			Approximate coordinates by geo-referencing
+67	946A	P0/T5	2005-02-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0073	-7.7982		2.80	97.20	0.00	0.975	0.977	-0.077	0.891	1.247			Approximate coordinates by geo-referencing
+68	947A	P0/T6	2005-02-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0066	-7.7971		1.50	98.50	0.00	0.335	0.637	0.001	1.083	0.247			Approximate coordinates by geo-referencing
+69	948A	P2/T1	2005-02-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0093	-7.8038		1.10	98.90	0.00	0.748	0.738	-0.007	0.967	0.747			Approximate coordinates by geo-referencing
+70	949A	P2/T2	2005-02-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0086	-7.8027		8.90	91.10	0.00	0.508	1.130	-0.231	1.242	0.747			Approximate coordinates by geo-referencing
+71	950A	P2/T3	2005-02-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0079	-7.8016		3.00	97.00	0.00	0.441	0.776	-0.015	1.055	0.747			Approximate coordinates by geo-referencing
+72	951A	P2/T4	2005-02-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0072	-7.8005		2.20	97.80	0.00	0.853	0.785	-0.085		0.747			Approximate coordinates by geo-referencing
+73	952A	P2/T5	2005-02-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0064	-7.7994		0.50	99.50	0.00	1.940	0.384	-0.087	0.948	1.747			Approximate coordinates by geo-referencing
+74	953A	P2/T6	2005-02-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0057	-7.7982		5.10	94.90	0.00	1.004	1.026	-0.287	0.968	1.247			Approximate coordinates by geo-referencing
+75	954A	P1/T1	2005-02-01	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0084	-7.8050		5.10	94.90	0.00	0.465	0.848	-0.030	1.095	0.247			Approximate coordinates by geo-referencing
+76	955A	P1/T2	2005-02-01	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0077	-7.8039		0.40	99.60	0.00	1.614	0.614	-0.214	1.158	1.747			Approximate coordinates by geo-referencing
+77	956A	P1/T3	2005-02-01	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0070	-7.8027		4.60	95.40	0.00	0.445	0.906	0.082	0.920	0.247			Approximate coordinates by geo-referencing
+78	957A	P1/T4	2005-02-01	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0063	-7.8016		8.30	91.70	0.00	0.717	1.212	-0.325	2.004	0.747			Approximate coordinates by geo-referencing
+79	958A	P1/T5	2005-02-01	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0055	-7.8005		0.40	99.60	0.00	1.072	0.656	0.205	1.048	0.747			Approximate coordinates by geo-referencing
+80	959A	P1/T6	2005-02-01	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0048	-7.7994		0.10	99.90	0.00	1.942	0.423	-0.200	0.950	2.237			Approximate coordinates by geo-referencing
+81	960A	P3/T1	2005-02-01	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0111	-7.8016		13.80	86.20	0.00	0.379	1.301	-0.358	1.246	1.247			Approximate coordinates by geo-referencing
+82	961A	P3/T2	2005-02-01	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0104	-7.8005		2.90	97.10	0.00	0.608	0.815	-0.110	0.928	1.247	0.247		Approximate coordinates by geo-referencing
+83	962A	P3/T3	2005-02-01	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0097	-7.7994		1.30	98.70	0.00	0.726	0.556	-0.147	1.033	0.747			Approximate coordinates by geo-referencing
+84	963A	P3/T4(A)	2005-02-01	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0089	-7.7982		0.40	26.50	73.10	4.363	2.597	-0.069	0.903	4.477	1.247		Approximate coordinates by geo-referencing
+85	964A	P3/T4(B)	2005-02-01	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0089	-7.7982		38.70	60.80	0.50	-1.189	2.181	-0.488	0.712	0.747	-4.731	-3.243	Approximate coordinates by geo-referencing
+86	965A	P3/T5	2005-02-01	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0082	-7.7971		0.40	99.60	0.00	0.918	0.518	0.071	1.083	0.747			Approximate coordinates by geo-referencing
+87	966A	P3/T6	2005-02-01	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0075	-7.7960		9.50	90.50	0.00	-0.013	0.791	-0.040	1.134	0.247			Approximate coordinates by geo-referencing
+88	967A	P4/T1	2005-02-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0120	-7.8005		3.20	96.80	0.00	0.986	0.918	-0.214	1.011	1.247			Approximate coordinates by geo-referencing
+89	968A	P4/T2	2005-02-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0113	-7.7993		0.20	99.80	0.00	1.883	0.426	-0.120	0.970	1.747			Approximate coordinates by geo-referencing
+90	969A	P4/T3	2005-02-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0106	-7.7982		0.50	99.30	0.20	1.541	0.612	-0.114	1.088	1.747			Approximate coordinates by geo-referencing
+91	970A	P4/T4	2005-02-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0098	-7.7971		2.70	97.00	0.30	1.899	0.706	-0.358	1.622	2.237			Approximate coordinates by geo-referencing
+92	971A	P4/T5	2005-02-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0091	-7.7960		1.20	98.80	0.00	1.246	0.605	-0.130	1.076	1.247			Approximate coordinates by geo-referencing
+93	972A	P4/T6	2005-02-02	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0084	-7.7949		2.40	97.60	0.00	0.650	0.773	-0.150	0.938	1.247			Approximate coordinates by geo-referencing
+94	973A	P0/T1	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0102	-7.8027		1.70	98.30	0.00	0.029	0.494	-0.031	1.043	0.247			Approximate coordinates by geo-referencing
+95	974A	P0/T2	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0095	-7.8016		15.90	84.10	0.00	0.182	1.359	-0.233	1.415	0.247	-3.243		Approximate coordinates by geo-referencing
+96	975A	P0/T3	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0088	-7.8005		0.50	99.50	0.00	1.277	0.666	-0.223	1.119	1.747			Approximate coordinates by geo-referencing
+97	976A	P0/T4	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0081	-7.7994		0.50	99.50	0.00	0.821	0.637	-0.011	1.080	0.747			Approximate coordinates by geo-referencing
+98	977A	P0/T5	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0073	-7.7982		36.30	63.70	0.00	-0.659	2.534	-0.621	0.512	1.247	-4.243		Approximate coordinates by geo-referencing
+99	978A	P2/T1	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0093	-7.8038		0.90	99.10	0.00	1.638	0.625	-0.203	1.106	1.747			Approximate coordinates by geo-referencing
+100	979A	P2/T2	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0086	-7.8027		0.00	100.00	0.00	1.629	0.580	-0.143	0.953	1.747			Approximate coordinates by geo-referencing
+101	980A	P2/T3	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0079	-7.8016		1.50	98.50	0.00	0.445	0.724	0.053	1.106	0.247			Approximate coordinates by geo-referencing
+102	981A	P2/T4	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0072	-7.8005		2.40	97.60	0.00	0.581	0.778	-0.070	1.037	0.747			Approximate coordinates by geo-referencing
+103	982A	P2/T5	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0064	-7.7994		8.90	91.10	0.00	0.627	1.340	-0.279	1.801	0.747	-3.743		Approximate coordinates by geo-referencing
+104	983A	P1/T1	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0084	-7.8050		5.40	94.60	0.00	0.534	0.866	-0.143	1.051	0.747			Approximate coordinates by geo-referencing
+105	984A	P3/T2	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0104	-7.8005		1.80	98.20	0.00	0.660	0.793	-0.056	0.926	0.747			Approximate coordinates by geo-referencing
+106	985A	P3/T3	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0097	-7.7994		9.20	90.80	0.00	-0.099	0.667	-0.199	1.126	0.247			Approximate coordinates by geo-referencing
+107	986A	P3/T4	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0089	-7.7982		29.10	70.90	0.00	-0.990	1.964	-0.483	1.448	-0.243	-4.731		Approximate coordinates by geo-referencing
+108	987A	P3/T6	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0075	-7.7960		8.20	91.80	0.00	-0.214	0.635	0.014	1.065	-0.243			Approximate coordinates by geo-referencing
+109	988A	P4/T1	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0120	-7.8005		3.10	96.90	0.00	1.149	0.976	-0.300	0.979	1.747			Approximate coordinates by geo-referencing
+110	989A	P4/T2	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0113	-7.7993		0.30	99.70	0.00	1.679	0.518	-0.139	1.101	1.747			Approximate coordinates by geo-referencing
+111	990A	P4/T3	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0106	-7.7982		1.30	98.70	0.00	1.616	0.633	-0.183	1.162	1.747			Approximate coordinates by geo-referencing
+112	991A	P4/T4	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0098	-7.7971		0.40	99.60	0.00	2.164	0.371	-0.118	1.392	2.237			Approximate coordinates by geo-referencing
+113	992A	P4/T5	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0091	-7.7960		6.30	93.70	0.00	0.511	0.913	-0.122	1.024	0.747			Approximate coordinates by geo-referencing
+114	993A	P4/T6	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0084	-7.7949		6.40	93.60	0.00	0.489	0.923	-0.108	0.962	1.247			Approximate coordinates by geo-referencing
+115	994A	P0/T1	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0102	-7.8027		8.00	92.00	0.00	-0.100	0.667	-0.151	1.275	-0.243			Approximate coordinates by geo-referencing
+116	995A	P0/T2	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0095	-7.8016		2.70	97.30	0.00	0.530	0.506	-0.142	1.136	0.747			Approximate coordinates by geo-referencing
+117	996A	P0/T3	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0088	-7.8005		0.20	99.80	0.00	1.491	0.510	-0.077	1.037	1.747			Approximate coordinates by geo-referencing
+118	997A	P0/T4	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0081	-7.7994		0.60	99.40	0.00	0.684	0.661	0.044	1.043	0.747			Approximate coordinates by geo-referencing
+119	998A	P0/T5	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0073	-7.7982		0.20	99.80	0.00	0.980	0.587	-0.068	0.958	1.247			Approximate coordinates by geo-referencing
+120	999A	P0/T6	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0066	-7.7971		1.50	98.50	0.00	1.098	0.766	-0.057	1.019	1.247			Approximate coordinates by geo-referencing
+121	1000A	P2/T1	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0093	-7.8038		0.70	99.30	0.00	1.667	0.641	-0.268	1.224	1.747			Approximate coordinates by geo-referencing
+122	1001A	P2/T2	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0086	-7.8027		11.90	88.10	0.00	0.404	1.343	-0.408	2.047	0.747	-4.243		Approximate coordinates by geo-referencing
+123	1002A	P2/T3	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0079	-7.8016		5.10	94.90	0.00	0.431	0.807	-0.116	1.009	0.747			Approximate coordinates by geo-referencing
+124	1003A	P2/T4	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0072	-7.8005		1.50	98.50	0.00	0.707	0.689	-0.049	1.008	0.747			Approximate coordinates by geo-referencing
+125	1004A	P2/T5	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0064	-7.7994		1.10	98.90	0.00	0.955	0.850	-0.109	0.902	1.247			Approximate coordinates by geo-referencing
+126	1005A	P2/T6	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0057	-7.7982		1.00	99.00	0.00	1.788	0.613	-0.285	1.347	1.747			Approximate coordinates by geo-referencing
+127	1006A	P1/T1	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0084	-7.8050		2.80	97.20	0.00	0.618	0.803	-0.075	0.981	0.747			Approximate coordinates by geo-referencing
+128	1007A	P1/T2	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0077	-7.8039		0.00	100.00	0.00	1.690	0.525	-0.122	0.971	1.747			Approximate coordinates by geo-referencing
+129	1008A	P1/T3	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0070	-7.8027		3.00	97.00	0.00	1.105	0.938	-0.235	0.964	1.747			Approximate coordinates by geo-referencing
+130	1009A	P1/T4	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0063	-7.8016		6.40	93.60	0.00	0.985	1.060	-0.199	1.483	0.747			Approximate coordinates by geo-referencing
+131	1010A	P1/T5	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0055	-7.8005		1.50	98.50	0.00	1.136	0.839	0.182	1.035	0.747	2.237		Approximate coordinates by geo-referencing
+132	1011A	P1/T6	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0048	-7.7994		9.50	90.50	0.00	0.599	1.230	-0.102	1.286	0.747	2.237		Approximate coordinates by geo-referencing
+133	1012A	P3/T1	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0111	-7.8016		6.70	93.30	0.00	0.326	0.823	-0.096	1.084	0.247			Approximate coordinates by geo-referencing
+134	1013A	P3/T2	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0104	-7.8005		4.30	95.70	0.00	0.871	0.732	-0.317	1.386	1.247			Approximate coordinates by geo-referencing
+135	1014A	P3/T3	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0097	-7.7994		30.20	69.80	0.00		2.180	-0.669	0.784	0.747	-4.731	-3.743	Approximate coordinates by geo-referencing
+136	1015A	P3/T4	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0089	-7.7982		28.30	68.90	2.80	-0.806	2.001	-0.465	1.343	0.747	-4.731		Approximate coordinates by geo-referencing
+137	1016A	P3/T5	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0082	-7.7971		1.50	98.50	0.00	1.029	0.733	-0.135	1.164	1.247			Approximate coordinates by geo-referencing
+138	1017A	P3/T6	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0075	-7.7960		13.40	86.60	0.00	-0.200	0.789	0.018	1.124	-0.243			Approximate coordinates by geo-referencing
+139	1018A	P4/T1	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0120	-7.8005		1.00	99.00	0.00	1.347	0.733	-0.251	1.177	1.747			Approximate coordinates by geo-referencing
+140	1019A	P4/T2	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0113	-7.7993		0.30	99.70	0.00	1.638	0.531	-0.123	1.051	1.747			Approximate coordinates by geo-referencing
+141	1020A	P4/T3	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0106	-7.7982		1.10	98.90	0.00	1.435	0.731	-0.282	1.249	1.747			Approximate coordinates by geo-referencing
+142	1021A	P4/T4	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0098	-7.7971		0.10	99.90	0.00	2.162	0.360	-0.126	1.412	2.237			Approximate coordinates by geo-referencing
+143	1022A	P4/T5	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0091	-7.7960		7.20	92.80	0.00	0.391	0.802	-0.241	1.121	0.747			Approximate coordinates by geo-referencing
+144	1023A	P4/T6	2005-05-10	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0084	-7.7949		0.80	99.20	0.00	0.868	0.693	-0.200	1.001	1.247			Approximate coordinates by geo-referencing
+145	1024A	P0/T1	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0102	-7.8027		5.70	94.30	0.00	0.019	0.643	-0.078	0.995	0.247			Approximate coordinates by geo-referencing
+146	1025A	P0/T2	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0095	-7.8016		0.50	99.50	0.00	0.016	0.457	-0.017	1.030	0.247			Approximate coordinates by geo-referencing
+147	1026A	P0/T3	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0088	-7.8005		1.90	98.10	0.00	0.675	0.687	-0.083	1.016	0.747			Approximate coordinates by geo-referencing
+148	1027A	P0/T4	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0081	-7.7994		1.70	98.30	0.00	1.661	0.778	-0.272	1.094	2.237			Approximate coordinates by geo-referencing
+149	1028A	P0/T5	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0073	-7.7982		0.20	99.80	0.00	2.005	0.396	-0.209	0.951	2.237			Approximate coordinates by geo-referencing
+150	1029A	P0/T6	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0066	-7.7971		0.70	99.30	0.00	1.710	0.629	-0.306	1.438	1.747			Approximate coordinates by geo-referencing
+151	1030A	P2/T1	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0093	-7.8038		1.80	98.20	0.00	1.632	0.706	-0.313	1.279	1.747			Approximate coordinates by geo-referencing
+152	1031A	P2/T2	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0086	-7.8027		11.10	88.90	0.00	0.666	1.351	-0.412	1.714	1.247			Approximate coordinates by geo-referencing
+153	1032A	P2/T3	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0079	-7.8016		13.70	86.30	0.00	0.032	0.981	-0.072	1.049	0.247			Approximate coordinates by geo-referencing
+154	1033A	P2/T4	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0072	-7.8005		3.10	96.90	0.00	0.833	0.751	-0.054	1.018	0.747			Approximate coordinates by geo-referencing
+155	1034A	P2/T5	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0064	-7.7994		5.80	94.20	0.00	0.638	1.061	0.024	0.912	0.247	1.247		Approximate coordinates by geo-referencing
+156	1035A	P2/T6	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0057	-7.7982		1.30	98.60	0.10	2.075	0.509	-0.240	1.295	2.237			Approximate coordinates by geo-referencing
+157	1036A	P1/T1	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0084	-7.8050		2.70	97.30	0.00	0.550	0.725	-0.044	1.132	0.747			Approximate coordinates by geo-referencing
+158	1037A	P1/T2	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0077	-7.8039		0.10	99.90	0.00	1.610	0.589	-0.153	1.014	1.747			Approximate coordinates by geo-referencing
+159	1038A	P1/T3	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0070	-7.8027		33.20	66.80	0.00	-0.651	1.983	-0.331	0.850	0.247	-3.743	-2.243	Approximate coordinates by geo-referencing
+160	1039A	P1/T4	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0063	-7.8016		7.90	92.10	0.00	0.655	1.028	-0.241	1.449	0.747			Approximate coordinates by geo-referencing
+161	1040A	P1/T5	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0055	-7.8005		1.70	98.30	0.00	1.231	0.789	0.170	0.951	0.747	2.237		Approximate coordinates by geo-referencing
+162	1041A	P1/T6	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0048	-7.7994		10.50	89.50	0.00	0.227	1.046	-0.084	1.356	0.247	2.237		Approximate coordinates by geo-referencing
+163	1042A	P3/T1	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0111	-7.8016		27.80	72.20	0.00	-0.360	1.703	-0.259	1.255	-0.243	-4.243	-3.243	Approximate coordinates by geo-referencing
+164	1043A	P3/T2	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0104	-7.8005		0.70	99.30	0.10	0.747	0.611	-0.139	0.966	0.747			Approximate coordinates by geo-referencing
+165	1044A	P3/T3	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0097	-7.7994		5.20	94.80	0.00	0.980	1.051	-0.325	0.869	1.747	0.247		Approximate coordinates by geo-referencing
+166	1045A	P3/T4	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0089	-7.7982		27.30	72.70	0.00	-0.513	1.652	-0.463	1.178	0.747	-3.743		Approximate coordinates by geo-referencing
+167	1046A	P3/T5	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0082	-7.7971		3.90	96.00	0.10	0.511	0.726	-0.126	1.158	0.747			Approximate coordinates by geo-referencing
+168	1047A	P3/T6	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0075	-7.7960		13.90	86.10	0.00	0.117	1.037	-0.037	0.931	-0.243			Approximate coordinates by geo-referencing
+169	1048A	P4/T1	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0120	-7.8005		0.70	99.30	0.00	0.814	0.594	-0.044	1.142	0.747			Approximate coordinates by geo-referencing
+170	1049A	P4/T2	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0113	-7.7993		0.50	99.50	0.10	1.604	0.571	-0.184	1.136	1.747			Approximate coordinates by geo-referencing
+171	1050A	P4/T3	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0106	-7.7982		0.60	99.40	0.10	1.631	0.619	-0.182	1.083	1.747			Approximate coordinates by geo-referencing
+172	1051A	P4/T4	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0098	-7.7971		0.00	99.90	0.10	2.276	0.338	0.060	1.429	2.237			Approximate coordinates by geo-referencing
+173	1052A	P4/T5	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0091	-7.7960		2.90	97.10	0.10	0.998	0.837	-0.247	1.112	1.247			Approximate coordinates by geo-referencing
+174	1053A	P4/T6	2005-06-08	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0084	-7.7949		6.10	93.90	0.00	0.552	0.952	-0.143	0.920	1.247			Approximate coordinates by geo-referencing
+175	1054A	P0/T1	2005-07-05	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0102	-7.8027		22.50	77.50	0.00	-0.505	1.121	-0.299	2.100	-0.243	-4.243		Approximate coordinates by geo-referencing
+176	1055A	P0/T2	2005-07-05	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0095	-7.8016		6.90	93.10	0.00	-0.137	0.641	-0.006	1.017	-0.243			Approximate coordinates by geo-referencing
+177	1056A	P0/T3	2005-07-05	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0088	-7.8005		6.90	93.10	0.00	0.733	0.997	-0.252	1.095	1.247			Approximate coordinates by geo-referencing
+178	1057A	P0/T4	2005-07-05	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0081	-7.7994		0.60	99.40	0.00	1.144	0.617	-0.099	1.023	1.247			Approximate coordinates by geo-referencing
+179	1059A	P0/T5	2005-07-05	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0073	-7.7982		0.10	99.90	0.00	1.445	0.661	-0.090	0.965	1.747			Approximate coordinates by geo-referencing
+180	1060A	P0/T6	2005-07-05	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0066	-7.7971		2.90	97.10	0.00	0.982	0.712	-0.147	1.061	1.247			Approximate coordinates by geo-referencing
+181	1061A	P2/T1	2005-07-05	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0093	-7.8038		2.40	97.60	0.00	1.641	0.722	-0.333	1.486	1.747			Approximate coordinates by geo-referencing
+182	1062A	P2/T2	2005-07-05	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0086	-7.8027		0.70	99.30	0.00	0.908	0.685	-0.105	1.088	1.247			Approximate coordinates by geo-referencing
+183	1063A	P2/T3	2005-07-05	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0079	-7.8016		2.90	97.10	0.00	0.525	0.776	-0.077	1.094	0.747			Approximate coordinates by geo-referencing
+184	1064A	P2/T4	2005-07-05	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0072	-7.8005		1.80	98.20	0.00	0.632	0.746	0.022	1.055	0.747			Approximate coordinates by geo-referencing
+185	1065A	P2/T5	2005-07-05	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0064	-7.7994		1.30	98.70	0.00	0.862	0.969	-0.008	0.834	1.247	0.247		Approximate coordinates by geo-referencing
+186	1066A	P2/T6	2005-07-05	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0057	-7.7982		0.10	99.90	0.00	2.334	0.378	0.066	1.213	2.237			Approximate coordinates by geo-referencing
+187	1067A	P1/T1	2005-07-05	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0084	-7.8050		4.30	95.70	0.00	0.497	0.807	-0.072	1.041	0.747			Approximate coordinates by geo-referencing
+188	1068A	P1/T2	2005-07-05	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0077	-7.8039		1.50	98.50	0.00	1.201	0.883	-0.263	0.932	1.747			Approximate coordinates by geo-referencing
+189	1069A	P1/T3	2005-07-05	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0070	-7.8027		42.70	57.30	0.00	-0.698	1.478	0.062	0.860	-0.743	-2.243	0.747	Approximate coordinates by geo-referencing
+190	1070A	P1/T4	2005-07-05	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0063	-7.8016		15.00	85.00	0.00	0.523	1.634	-0.357	1.924	0.747	2.237	-4.243	Approximate coordinates by geo-referencing
+191	1071A	P1/T5	2005-07-05	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0055	-7.8005		0.30	99.70	0.00	1.277	0.767	0.143	0.837	0.747	2.237		Approximate coordinates by geo-referencing
+192	1072A	P1/T6	2005-07-05	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0048	-7.7994		6.30	93.70	0.00	0.216	0.949	0.177	1.132	-0.243	2.237		Approximate coordinates by geo-referencing
+193	1073A	P3/T1	2005-07-06	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0111	-7.8016		6.20	93.80	0.00	0.465	0.885	-0.139	1.029	0.747			Approximate coordinates by geo-referencing
+194	1074A	P3/T2	2005-07-06	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0104	-7.8005		1.00	99.00	0.00	1.035	0.519	-0.201	1.153	1.247			Approximate coordinates by geo-referencing
+195	1075A	P3/T3	2005-07-06	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0097	-7.7994		1.30	98.70	0.00	0.898	0.810	-0.228	0.917	1.247			Approximate coordinates by geo-referencing
+196	1076A	P3/T4	2005-07-06	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0089	-7.7982		7.60	92.40	0.00	0.242	0.847	-0.098	0.995	0.247			Approximate coordinates by geo-referencing
+197	1077A	P3/T5	2005-07-05	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0082	-7.7971		35.40	64.60	0.00	-0.225	2.650	-0.650	0.495	-4.243	1.747		Approximate coordinates by geo-referencing
+198	1078A	P3/T6	2005-07-06	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0075	-7.7960		4.00	96.00	0.00	0.502	0.802	-0.146	1.031	0.747			Approximate coordinates by geo-referencing
+199	1079A	P4/T1	2005-07-06	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0120	-7.8005		1.40	98.60	0.00	1.350	0.678	-0.128	1.141	1.247			Approximate coordinates by geo-referencing
+200	1080A	P4/T2	2005-07-06	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0113	-7.7993		0.40	99.60	0.00	1.626	0.562	-0.129	1.031	1.747			Approximate coordinates by geo-referencing
+201	1081A	P4/T3	2005-07-06	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0106	-7.7982		0.80	99.20	0.00	1.703	0.553	-0.160	1.057	1.747			Approximate coordinates by geo-referencing
+202	1082A	P4/T4	2005-07-06	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0098	-7.7971		2.10	97.90	0.00	2.157	0.393	-0.174	1.538	2.237			Approximate coordinates by geo-referencing
+203	1083A	P4/T5	2005-07-06	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0091	-7.7960		2.60	97.40	0.00	1.014	0.822	-0.270	1.044	1.247			Approximate coordinates by geo-referencing
+204	1084A	P4/T6	2005-07-06	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0084	-7.7949		4.40	95.60	0.00	0.674	0.821	-0.153	1.053	0.747			Approximate coordinates by geo-referencing
+205	863A	1	2001-01-07	Inlets Monitoring_IPTM	Dredge Petit Ponnar	36.9717	-7.8684	-7.80	0.70	99.30	0.00	0.566	0.466	-1.111	5.431				
+206	864A	2	2001-01-07	Inlets Monitoring_IPTM	Dredge Petit Ponnar	36.9726	-7.8689	-9.50	15.95	84.05	0.00	0.336	1.217	-1.725	5.176				
+207	865A	3	2001-01-07	Inlets Monitoring_IPTM	Dredge Petit Ponnar	36.9755	-7.8764	-4.00	0.72	99.28	0.00	1.566	1.201	1.118	1.764				
+208	866A	4	2001-01-07	Inlets Monitoring_IPTM	Dredge Petit Ponnar	36.9757	-7.8785	-11.50	4.95	94.10	0.95	1.663	1.825	1.010	1.709				
+209	867A	5	2001-01-07	Inlets Monitoring_IPTM	Dredge Petit Ponnar	36.9765	-7.8810	-8.50	5.10	94.87	0.02	0.896	1.319	0.848	2.497				
+210	868A	6	2001-01-07	Inlets Monitoring_IPTM	Dredge Petit Ponnar	36.9780	-7.8881	-4.50	1.50	89.09	9.41	2.622	2.362	1.099	1.356				
+211	869A	7	2001-01-07	Inlets Monitoring_IPTM	Dredge Petit Ponnar	36.9787	-7.8873	-12.00	0.31	97.13	2.56	1.901	1.687	1.332	2.011				
+212	870A	8	2001-01-07	Inlets Monitoring_IPTM	Dredge Petit Ponnar	36.9850	-7.8927	-8.00	14.39	83.01	2.61	1.176	1.972	0.139	1.998				
+213	871A	9	2001-01-07	Inlets Monitoring_IPTM	Dredge Petit Ponnar	36.9847	-7.8933	-7.00	8.28	91.70	0.02	0.926	1.235	-0.067	2.950				
+214	872A	10	2001-01-07	Inlets Monitoring_IPTM	Dredge Petit Ponnar	36.9894	-7.9026	-12.50	13.53	85.11	5.58	1.079	1.644	0.060	2.281				
+215	873A	11-1(a)	2001-01-07	Inlets Monitoring_IPTM	Dredge Petit Ponnar	36.9925	-7.9082	-6.00	42.01	57.22	0.77	-0.366	2.559	-1.117	2.111				
+216	874A	11-1(a)	2001-01-07	Inlets Monitoring_IPTM	Dredge Petit Ponnar	36.9925	-7.9082	-6.00	47.40	52.01	0.59	-0.427	2.585	-1.028	1.908				
+217	875A	11-A	2001-01-07	Inlets Monitoring_IPTM	Dredge Petit Ponnar	36.9927	-7.9084	-6.00	61.50	37.30	1.20	-1.229	3.173	-1.058	1.543				
+218	876A	12	2001-01-07	Inlets Monitoring_IPTM	Dredge Petit Ponnar	36.9974	-7.9121	-6.50	13.17	86.79	0.05	1.121	1.571	-0.458	2.639				
+219	877A	13	2001-01-07	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0020	-7.9185	-6.20	13.77	85.07	1.16	1.446	1.978	0.076	1.768				
+220	878A	14	2001-01-07	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0027	-7.9192	-7.20	11.85	77.47	10.68	1.173	1.792	0.396	2.224				
+221	879A	15	2001-01-07	Inlets Monitoring_IPTM	Dredge Petit Ponnar	37.0022	-7.9207	-7.20	1.75	75.00	23.25	2.698	2.396	1.087	1.333				

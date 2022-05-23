@@ -1,0 +1,45 @@
+/* DATA DESCRIPTION:
+Citation:	MICORE Project Members (2011): Sediment sampling at Praia de Faro beach to study the morphological changes within the frame of the MICORE project. PANGAEA, https://doi.org/10.1594/PANGAEA.883081, 
+	In supplement to: Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Surficial sediment texture database for the south-western Iberian Atlantic margin. Earth System Science Data, 10(2), 1185-1195, https://doi.org/10.5194/essd-10-1185-2018
+Original version:	Original data of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed) (URI: https://store.pangaea.de/Publications/Coasta-etal_2017/PLOSscripts.zip)
+Further details:	Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Shape files of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed). PANGAEA, https://doi.org/10.1594/PANGAEA.890946
+Coverage:	MEDIAN LATITUDE: 37.006164 * MEDIAN LONGITUDE: -7.993131 * SOUTH-BOUND LATITUDE: 37.005971 * WEST-BOUND LONGITUDE: -7.993518 * NORTH-BOUND LATITUDE: 37.006358 * EAST-BOUND LONGITUDE: -7.992745
+	DATE/TIME START: 2009-03-26T00:00:00 * DATE/TIME END: 2009-03-26T00:00:00
+Event(s):	IBAM-Sed_MICORE * LATITUDE: 37.004000 * LONGITUDE: -7.989200 * DATE/TIME START: 2009-03-26T00:00:00 * DATE/TIME END: 2009-03-26T00:00:00 * METHOD/DEVICE: Sampling by hand (HAND)
+Comment:	MICORE (2011). Morphological Impacts and COastal Risks induced by Extreme storm events
+Parameter(s):	Sample ID (Sample ID) * PI: MICORE Project Members * COMMENT: Sample number
+	Sample ID (Sample ID) * PI: MICORE Project Members * COMMENT: Acess number from laboratory
+	Sample ID (Sample ID) * PI: MICORE Project Members * COMMENT: Reference sample in the collect
+	Sample comment (Sample comment) * PI: MICORE Project Members
+	DATE/TIME (Date/Time) * GEOCODE * PI: MICORE Project Members * COMMENT: of collecting
+	Project (Project) * PI: MICORE Project Members
+	Sample method (Sample method) * PI: MICORE Project Members
+	LATITUDE (Latitude) * GEOCODE * PI: MICORE Project Members
+	LONGITUDE (Longitude) * GEOCODE * PI: MICORE Project Members
+	Gravel [%] (Gravel) * PI: MICORE Project Members * METHOD/DEVICE: Grain size, sieving
+	Sandstone [%] (Sdst) * PI: MICORE Project Members * METHOD/DEVICE: Grain size, sieving
+	Mudstone [%] (Mudstone) * PI: MICORE Project Members * METHOD/DEVICE: Grain size, sieving
+	Grain size, mean [phi] (Grain size mean) * PI: MICORE Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Standard deviation [±] (Std dev) * PI: MICORE Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: Of sample value
+	Skewness (Skew) * PI: MICORE Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Kurtosis (Kurt) * PI: MICORE Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Mode, grain size [phi] (Mode) * PI: MICORE Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: 1st Mode sample value
+	Mode, grain size [phi] (Mode) * PI: MICORE Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: 2nd Mode sample value
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	197 data points
+*/
+Sample ID (Sample number)	Sample ID (Acess number from laboratory)	Sample ID (Reference sample in the collect)	Sample comment	Date/Time (of collecting)	Project	Sample method	Latitude	Longitude	Gravel [%] (Grain size, sieving)	Sdst [%] (Grain size, sieving)	Mudstone [%] (Grain size, sieving)	Grain size mean [phi] (Grain size, sieving, Folk and...)	Std dev [±] (Of sample value, Grain size, ...)	Skew (Grain size, sieving, Folk and...)	Kurt (Grain size, sieving, Folk and...)	Mode [phi] (1st Mode sample value, Grain ...)	Mode [phi] (2nd Mode sample value, Grain ...)
+1	1930	P3L1	Upper Beach	2009-03-26	MICORE	Hand-Collecting	37.0064	-7.9929	0.00	100.00	0.00	1.080	0.521	-0.022	1.043	1.247	
+2	1931	P3L2	Upper Beach	2009-03-26	MICORE	Hand-Collecting	37.0063	-7.9930	0.70	99.30	0.00	0.711	0.574	-0.042	1.019	0.747	
+3	1932	P3L3	Upper Beach	2009-03-26	MICORE	Hand-Collecting	37.0063	-7.9931	0.50	99.50	0.00	0.828	0.589	-0.026	1.065	0.747	
+4	1933	P3L4	Upper Beach	2009-03-26	MICORE	Hand-Collecting	37.0062	-7.9932	0.30	99.70	0.00	1.136	0.544	-0.073	1.028	1.247	
+5	1934	P3L5	Lower Beach	2009-03-26	MICORE	Hand-Collecting	37.0062	-7.9933	0.00	100.00	0.00	0.579	0.359	-0.127	0.929	0.747	
+6	1935	P3L6	Lower Beach	2009-03-26	MICORE	Hand-Collecting	37.0061	-7.9934	1.10	98.90	0.00	0.089	0.435	-0.085	1.085	0.247	
+7	1936	P3L7	Lower Beach	2009-03-26	MICORE	Hand-Collecting	37.0061	-7.9935	3.30	96.70	0.00	0.026	0.430	-0.247	1.059	0.247	
+8	1937	P5L1	Upper Beach	2009-03-26	MICORE	Hand-Collecting	37.0062	-7.9927	0.10	99.90	0.00	0.775	0.565	-0.020	1.048	0.747	
+9	1938	P5L2	Upper Beach	2009-03-26	MICORE	Hand-Collecting	37.0062	-7.9928	0.40	99.60	0.00	0.765	0.608	-0.065	1.010	0.747	
+10	1939	P5L3	Upper Beach	2009-03-26	MICORE	Hand-Collecting	37.0062	-7.9929	2.00	98.00	0.00	0.786	0.647	-0.090	1.089	0.747	
+11	1940	P5L4	Upper Beach	2009-03-26	MICORE	Hand-Collecting	37.0061	-7.9930	0.00	100.00	0.00	0.731	0.477	0.034	0.916	0.747	
+12	1941	P5L5	Lower Beach	2009-03-26	MICORE	Hand-Collecting	37.0061	-7.9931	0.00	100.00	0.00	0.736	0.447	-0.003	1.042	0.747	
+13	1942	P5L6	Lower Beach	2009-03-26	MICORE	Hand-Collecting	37.0060	-7.9932	6.80	93.20	0.00	0.023	0.571	-0.228	1.320	0.247	
+14	1943	P5L7	Lower Beach	2009-03-26	MICORE	Hand-Collecting	37.0060	-7.9933	24.40	75.60	0.00	-0.618	1.279	-0.378	1.814	-0.243	-3.243

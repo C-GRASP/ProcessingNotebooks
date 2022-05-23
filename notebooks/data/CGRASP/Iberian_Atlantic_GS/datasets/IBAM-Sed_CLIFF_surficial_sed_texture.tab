@@ -1,0 +1,252 @@
+/* DATA DESCRIPTION:
+Citation:	CLIFF Project Members (2012): Seasonal sediment characterization over three years of beaches located at the toe of cliffs (Forte Novo, Gale and Olhos de Agua). PANGAEA, https://doi.org/10.1594/PANGAEA.883083, 
+	In supplement to: Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Surficial sediment texture database for the south-western Iberian Atlantic margin. Earth System Science Data, 10(2), 1185-1195, https://doi.org/10.5194/essd-10-1185-2018
+Original version:	Original data of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed) (URI: https://store.pangaea.de/Publications/Coasta-etal_2017/PLOSscripts.zip)
+Further details:	Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Shape files of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed). PANGAEA, https://doi.org/10.1594/PANGAEA.890946
+Coverage:	MEDIAN LATITUDE: 37.070160 * MEDIAN LONGITUDE: -8.165662 * SOUTH-BOUND LATITUDE: 37.059000 * WEST-BOUND LONGITUDE: -8.312615 * NORTH-BOUND LATITUDE: 37.088695 * EAST-BOUND LONGITUDE: -8.084482
+	DATE/TIME START: 2010-02-06T00:00:00 * DATE/TIME END: 2012-05-09T00:00:00
+	MINIMUM ELEVATION: -1.00 m a.s.l. * MAXIMUM ELEVATION: 13.31 m a.s.l.
+Event(s):	IBAM-Sed_CLIFF * LATITUDE: 37.084000 * LONGITUDE: -8.187300 * DATE/TIME START: 2010-02-06T00:00:00 * DATE/TIME END: 2012-05-08T00:00:00 * METHOD/DEVICE: Sampling by hand (HAND)
+Comment:	CLIFF (2012). Evolution and Dynamics of Cliff Beach Systems
+Parameter(s):	Sample ID (Sample ID) * PI: CLIFF Project Members * COMMENT: Sample number
+	Sample ID (Sample ID) * PI: CLIFF Project Members * COMMENT: Acess number from laboratory
+	Sample ID (Sample ID) * PI: CLIFF Project Members * COMMENT: Reference sample in the collect
+	Sample comment (Sample comment) * PI: CLIFF Project Members
+	DATE/TIME (Date/Time) * GEOCODE * PI: CLIFF Project Members * COMMENT: of collecting
+	Project (Project) * PI: CLIFF Project Members
+	Sample method (Sample method) * PI: CLIFF Project Members
+	LATITUDE (Latitude) * GEOCODE * PI: CLIFF Project Members
+	LONGITUDE (Longitude) * GEOCODE * PI: CLIFF Project Members
+	ELEVATION [m a.s.l.] (Elevation) * GEOCODE * PI: CLIFF Project Members * COMMENT: Relative to mean sea level (m)
+	Gravel [%] (Gravel) * PI: CLIFF Project Members * METHOD/DEVICE: Grain size, sieving
+	Sandstone [%] (Sdst) * PI: CLIFF Project Members * METHOD/DEVICE: Grain size, sieving
+	Mudstone [%] (Mudstone) * PI: CLIFF Project Members * METHOD/DEVICE: Grain size, sieving/pipette
+	Grain size, mean [phi] (Grain size mean) * PI: CLIFF Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Standard deviation [±] (Std dev) * PI: CLIFF Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: Of sample value
+	Skewness (Skew) * PI: CLIFF Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Kurtosis (Kurt) * PI: CLIFF Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Mode, grain size [phi] (Mode) * PI: CLIFF Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 1st Mode sample value
+	Mode, grain size [phi] (Mode) * PI: CLIFF Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 2nd Mode sample value
+	Mode, grain size [phi] (Mode) * PI: CLIFF Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 3rd Mode sample value
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	3082 data points
+*/
+Sample ID (Sample number)	Sample ID (Acess number from laboratory)	Sample ID (Reference sample in the collect)	Sample comment	Date/Time (of collecting)	Project	Sample method	Latitude	Longitude	Elevation [m a.s.l.] (Relative to mean sea level (m))	Gravel [%] (Grain size, sieving)	Sdst [%] (Grain size, sieving)	Mudstone [%] (Grain size, sieving/pipette)	Grain size mean [phi] (Grain size, sieving/pipette, ...)	Std dev [±] (Of sample value, Grain size, ...)	Skew (Grain size, sieving/pipette, ...)	Kurt (Grain size, sieving/pipette, ...)	Mode [phi] (1st Mode sample value, Grain ...)	Mode [phi] (2nd Mode sample value, Grain ...)	Mode [phi] (3rd Mode sample value, Grain ...)
+1	2243	FN_P1_Face	Beach face	2010-02-06	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0593	-8.0846	1.49	0.00	100.00	0.00	1.594	0.479	0.003	0.990	1.747		
+2	2244	FN_P1_Berma	Berm	2010-02-06	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0595	-8.0845	4.29	0.20	99.30	0.50	0.979	0.630	0.098	1.019	0.747		
+3	2247	FN_P2_Face	Beach face	2010-02-06	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0596	-8.0851	1.40	0.10	99.90	0.00	0.869	0.524	0.112	1.080	0.747		
+4	2248	FN_P2_Berma	Berm	2010-02-06	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0597	-8.0850	3.81	0.20	99.80	0.00	1.152	0.626	-0.014	0.990	1.247		
+5	2251	FN_P3_Face	Beach face	2010-02-06	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0598	-8.0856	1.29	0.20	99.80	0.00	1.460	0.477	0.062	1.045	1.247		
+6	2252	FN_P3_Berma	Berm	2010-02-06	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0600	-8.0854	3.46	0.00	100.00	0.00	1.544	0.538	-0.033	1.021	1.747		
+7	2254	FN_P4_ Face	Beach face	2010-02-06	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0601	-8.0860	1.26	0.50	99.50	0.00	1.061	0.822	-0.110	0.938	1.247		
+8	2255	FN_P4_Berma	Berm	2010-02-06	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0602	-8.0859	3.56	0.00	100.00	0.00	1.253	0.572	-0.007	1.026	1.247		
+9	2258	FN_P5_Face	Beach face	2010-02-06	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0603	-8.0865	1.45	0.00	100.00	0.00	1.416	0.551	-0.042	0.986	1.747		
+10	2259	FN_P5_Berma	Berm	2010-02-06	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0604	-8.0864	3.36	0.40	99.60	0.00	1.227	0.889	-0.088	0.885	1.747		
+11	2261	FN_P6_Face	Beach face	2010-02-06	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0606	-8.0870	0.98	0.80	99.20	0.00	1.270	0.646	-0.039	0.996	1.247		
+12	2262	FN_P6_Berma	Berm	2010-02-06	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0607	-8.0869	2.80	0.10	99.90	0.00	1.206	0.657	-0.051	0.996	1.247		
+13	2265	FN_P7_Face	Beach face	2010-02-06	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0608	-8.0874	1.26	0.00	100.00	0.00	1.196	0.473	0.033	0.924	1.247		
+14	2266	FN_P7_Berma	Berm	2010-02-06	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0609	-8.0873	3.29	0.20	99.80	0.00	0.835	0.671	-0.011	0.953	0.747		
+15	2268	FN_P8_Face	Beach face	2010-02-06	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0611	-8.0879	1.15	0.30	99.70	0.00	0.953	0.468	0.083	1.060	0.747		
+16	2269	FN_P8_Berma	Berm	2010-02-06	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0613	-8.0878	3.52	0.10	99.90	0.00	1.272	0.538	0.016	1.010	1.247		
+17	1137A	Deposito	Deposit	2010-02-06	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0614	-8.0879	3.66	0.00	85.90	14.10	1.522	1.713	0.451	1.890	1.247	0.247	
+18	1138A	Arriba	Cliff	2010-02-06	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0606	-8.0866	13.31	1.50	84.40	14.20	1.415	1.722	0.461	1.925	0.247	1.247	
+19	2357	FN_P1_Face	Beach face	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0590	-8.0849	1.73	0.00	100.00	0.00	1.645	0.657	0.233	1.006	1.247		
+20	2358	FN_P1_BermaI a	Berm	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0593	-8.0847	3.89	21.20	78.80	0.00	-0.180	1.113	-0.123	1.071	-0.243	-2.743	
+21	2359	FN_P1_BermaF b	Berm	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0591	-8.0848	3.81	15.50	84.50	0.00	0.035	1.017	-0.079	1.007	0.747		
+22	2360	FN_P2_Face	Beach face	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0592	-8.0854	1.46	0.00	100.00	0.00	1.464	0.610	0.233	1.074	1.247		
+23	2361	FN_P2_BermaI a	Berm	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0596	-8.0851	4.05	12.10	87.90	0.00	0.164	0.981	-0.110	1.082	0.747		
+24	2362	FN_P2_BermaF b	Berm	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0594	-8.0853	3.76	12.40	87.50	0.10	0.415	1.275	-0.070	1.172	0.747		
+25	2363	FN_P3_Face	Beach face	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0595	-8.0859	1.27	0.20	99.80	0.00	1.548	0.643	0.119	0.978	1.247		
+26	2364	FN_P3_BermaI a	Berm	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0599	-8.0856	4.08	19.70	80.30	0.00	-0.107	1.088	-0.149	1.022	0.247	-2.743	
+27	2365	FN_P3_BermaF b	Berm	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0596	-8.0858	3.85	19.60	80.40	0.00	-0.160	0.988	-0.064	0.934	-0.243		
+28	2366	FN_P4_Face	Beach face	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0597	-8.0863	1.15	0.00	100.00	0.00	1.294	0.620	0.254	1.011	1.247		
+29	2367	FN_P4_BermaI a	Berm	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0601	-8.0860	3.90	26.60	73.40	0.00	-0.396	1.037	-0.108	1.052	-0.243	-3.243	
+30	2368	FN_P4_BermaF b	Berm	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0599	-8.0862	3.84	14.60	85.40	0.00	0.058	0.987	-0.123	0.969	0.747		
+31	2369	FN_P5_Face	Beach face	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0600	-8.0868	1.31	0.80	99.20	0.00	1.499	0.726	0.127	0.914	1.247		
+32	2370	FN_P5_BermaI a	Berm	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0604	-8.0865	3.83	30.10	69.90	0.00	-0.485	1.063	-0.099	0.975	-0.743	-3.243	
+33	2371	FN_P5_BermaF b	Berm	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0601	-8.0867	3.69	23.10	76.90	0.00	-0.265	1.039	-0.102	1.007	0.247		
+34	2372	FN_P6_Face	Beach face	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0603	-8.0873	1.28	0.00	100.00	0.00	1.264	0.580	0.225	1.183	1.247		
+35	2373	FN_P6_BermaI a	Berm	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0606	-8.0869	3.86	34.60	65.40	0.00	-0.679	1.147	-0.157	1.121	-0.743	-3.243	
+36	2374	FN_P6_BermaF b	Berm	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0604	-8.0872	3.80	23.20	76.80	0.00	-0.278	0.984	-0.056	0.936	-0.243		
+37	2375	FN_P7_Face	Beach face	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0605	-8.0877	1.71	0.00	100.00	0.00	1.581	0.648	0.222	1.023	1.247		
+38	2376	FN_P7_BermaI a	Berm	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0609	-8.0874	3.85	33.70	66.30	0.00	-0.666	1.317	-0.239	1.103	-0.743	-2.743	-4.243
+39	2377	FN_P7_BermaF b	Berm	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0606	-8.0876	3.73	17.40	82.60	0.00	-0.076		-0.134	0.985	0.747		
+40	2378	FN_P8_Face	Beach face	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0608	-8.0881	1.81	0.00	100.00	0.00	1.704	0.521	0.148	0.933	1.747		
+41	2379	FN_P8_BermaI a	Berm	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0612	-8.0878	3.81	27.10	72.90	0.00	-0.415	1.081	-0.145	1.081	-0.243	-2.743	
+42	2380	FN_P8_BermaF b	Berm	2010-07-16	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0609	-8.0880	3.71	20.80	79.20	0.00	-0.218	1.013	-0.046	1.016	-0.243		
+43	2408	FN_P3_Sup a	Cliff face	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0607	-8.0868	5.85	3.60	87.10	9.30	1.144	1.776	0.408	1.498	0.247	3.237	
+44	2409	FN_P3_Inf b	Cliff face	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0607	-8.0868	5.85	0.20	89.40	10.40	1.396	1.397	0.276	2.233	1.247		
+45	2410	FN_P5_Sup a	Cliff face	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0603	-8.0859	5.73	1.50	87.20	11.30	1.288	1.725	0.377	1.612	0.247		
+46	2411	FN_P5_Inf b	Cliff face	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0603	-8.0859	5.73	0.50	84.50	15.00	1.583	1.747	0.420	2.105	1.247		
+47	2412	FN_P7_Sup a	Cliff face	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0597	-8.0850	4.00	0.90	88.00	11.10	1.369	1.678	0.303	1.606	1.247	0.247	
+48	2413	FN_P7_Sup_Solo c	Cliff face	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0597	-8.0850	4.00	2.30	77.20	20.50	2.486	2.067	0.537	1.763	1.747		
+49	2414	FN_P7_Inf b	Cliff face	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0597	-8.0850	4.00	0.80	85.30	13.90	1.615	1.696	0.246	1.878	1.747		
+50	2456	FN_P3_FP	Beach face	2011-01-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0593	-8.0853	1.89	0.10	99.90	0.00	0.981	0.520	0.019	1.026	0.747		
+51	2455	FN_P3_BA	Berm	2011-01-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0593	-8.0853	2.44	0.20	99.80	0.00	0.779	0.550	-0.006	1.030	0.747		
+52	2454	FN_P3_BNA	Berm	2011-01-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0594	-8.0852	3.88	0.20	99.80	0.00	0.891	0.581	0.036	1.053	0.747		
+53	2453	FN_P3_E	Landslide	2011-01-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0598	-8.0850	4.87	1.20	86.80	12.00	1.533	1.688	0.178	1.739	1.747		
+54	2452	FN_P5_FP	Beach face	2011-01-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0597	-8.0863	1.42	0.20	99.80	0.00	0.622	0.594	-0.016	1.012	0.747		
+55	2451	FN_P5_BA	Berm	2011-01-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0598	-8.0863	2.76	0.80	99.20	0.00	0.391	0.524	-0.005	1.011	0.247		
+56	2450	FN_P5_BNA	Berm	2011-01-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0599	-8.0862	4.63	1.80	98.20	0.00	0.801	0.640	-0.022	1.125	0.747		
+57	2449	FN_P5_E	Landslide	2011-01-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0603	-8.0859	6.26	1.40	92.50	6.10	0.996	1.241	0.320	1.702	0.747		
+58	2448	FN_P7_FP	Beach face	2011-01-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0602	-8.0873	1.49	0.00	100.00	0.00	1.028	0.454	-0.053	1.026	1.247		
+59	2447	FN_P7_BA	Berm	2011-01-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0602	-8.0872	2.44	0.90	99.10	0.00	0.735	0.597	-0.098	1.138	0.747		
+60	2446	FN_P7_E	Landslide	2011-01-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0608	-8.0868	5.95	5.30	89.80	5.00	0.463	1.244	0.296	1.614	0.247		
+61	2472	FN_P3_FP	Beach face	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0593	-8.0853	1.89	0.00	100.00	0.00	1.557	0.453	-0.070	1.020	1.747		
+62	2471	FN_P3_BA	Berm	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0593	-8.0853	2.44	0.00	100.00	0.00	1.665	0.570	-0.071	0.963	1.747		
+63	2470	FN_P3_BNA	Berm	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0594	-8.0852	3.88	0.00	100.00	0.00	0.958	0.570	-0.017	0.988	0.747		
+64	2469	FN_P3_Dep	Deposit	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0598	-8.0850	4.87	0.90	87.90	11.20	1.439	1.477	0.284	1.925	1.247		
+65	2468	FN_P5_FP	Beach face	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0597	-8.0863	1.42	0.00	100.00	0.00	1.217	0.452	0.003	1.011	1.247		
+66	2467	FN_P5_BA	Berm	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0598	-8.0863	2.76	0.10	99.90	0.00	1.326	0.655	-0.044	0.919	1.247		
+67	2466	FN_P5_BNA	Berm	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0599	-8.0862	4.63	2.70	97.30	0.00	0.289	0.716	0.004	0.937	0.247		
+68	2465	FN_P5_E	Landslide	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0603	-8.0859	6.30	2.90	85.80	11.30	1.653	1.584	0.299	2.020	1.247		
+69	2464	FN_P7_FP	Beach face	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0602	-8.0873	1.49	0.00	100.00	0.00	1.512	0.407	-0.024	0.945	1.747		
+70	2463	FN_P7_BA	Berm	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0602	-8.0872	2.44	0.00	100.00	0.00	1.464	0.654	-0.119	0.982	1.747		
+71	2462	FN_P7_BNA	Berm	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0604	-8.0871	4.45	1.20	98.80	0.00	0.824	0.624	-0.093	1.141	0.747		
+72	2461	FN_P7_E	Landslide	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0608	-8.0868	5.95	0.70	89.00	10.30	1.130	1.575	0.305	1.749	1.247		
+73	2542	FN_P3_FP	Beach face	2011-11-28	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0592	-8.0854	1.52	0.50	99.50	0.00	1.246	0.639	-0.076	1.040	1.247		
+74	2541	FN_P3_BA	Berm	2011-11-28	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0593	-8.0853	3.20	0.10	99.90	0.00	1.095	0.658	0.041	0.974	1.247		
+75	2540	FN_P3_BNA	Berm	2011-11-28	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0594	-8.0852	4.15	0.00	100.00	0.00	0.990	0.504	0.074	1.061	0.747		
+76	2539	FN_P3_E	Landslide	2011-11-28	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0598	-8.0850	4.75	1.80	87.30	10.90	1.369	1.683	0.159	1.664	1.747		
+77	2538	FN_P5_FP	Beach face	2011-11-28	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0598	-8.0863	2.19	0.00	100.00	0.00	0.961	0.532	0.036	1.015	0.747		
+78	2537	FN_P5_BA	Berm	2011-11-28	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0598	-8.0863	3.40	0.10	99.90	0.00	1.300	0.542	0.015	1.009	1.247		
+79	2536	FN_P5_BNA	Berm	2011-11-28	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0599	-8.0862	4.29	1.40	98.60	0.00	0.769	0.684	-0.060	1.033	0.747		
+80	2535	FN_P5_E	Landslide	2011-11-28	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0603	-8.0859	5.33	1.70	88.20	10.10	1.242	1.616	0.321	1.676	1.247		
+81	2534	FN_P7_FP	Beach face	2011-11-28	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0602	-8.0873	2.00	0.00	100.00	0.00	1.027	0.403	0.086	0.910	0.747		
+82	2533	FN_P7_BA	Berm	2011-11-28	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0603	-8.0873	3.00	0.10	99.90	0.00	1.163	0.500	-0.010	0.996	1.247		
+83	2532	FN_P7_BNA	Berm	2011-11-28	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0604	-8.0871	4.04	0.10	99.90	0.00	1.061	0.608	0.038	1.040	1.247		
+84	2531	FN_P7_E	Landslide	2011-11-28	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0607	-8.0868	5.84	1.90	93.30	4.80	0.643	1.183	0.253	1.374	0.247		
+85	2501	FN_P3_FP	Beach face	2011-10-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0602	-8.0873	1.97	0.10	99.90	0.00		0.605	0.060	0.951	0.747		
+86	2500	FN_P3_BA	Berm	2011-10-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0603	-8.0872	3.36	0.40	99.60	0.00	0.615	0.649	0.118	1.026	0.247		
+87	2499	FN_P3_BNA	Berm	2011-10-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0604	-8.0871	4.49	0.00	100.00	0.00	1.442	0.530	0.072	1.016	1.247		
+88	2498	FN_P3_E	Landslide	2011-10-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0607	-8.0873	6.14	0.50	86.90	12.60	1.551	1.639	0.209	1.866	1.747		
+89	2497	FN_P5_FP	Beach face	2011-10-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0597	-8.0864	1.53	0.10	99.90	0.00	1.008	0.639	-0.057	0.963	1.247		
+90	2496	FN_P5_BA	Berm	2011-10-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0598	-8.0863	2.85	2.60	97.40	0.00	0.384	0.844	0.113	0.937	0.247		
+91	2495	FN_P5_BNA	Berm	2011-10-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0599	-8.0862	4.55	0.20	99.80	0.00	1.344	0.618	-0.055	1.064	1.247		
+92	2494	FN_P5_E	Landslide	2011-10-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0602	-8.0859	4.25	4.00	92.30	3.70	0.956	1.053	0.015	1.196	1.247		
+93	2493	FN_P7_FP	Beach face	2011-10-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0592	-8.0854	1.26	0.30	99.70	0.00	0.706	0.670	0.112	0.965	0.247		
+94	2492	FN_P7_BA	Berm	2011-10-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0593	-8.0853	2.88	4.00	96.00	0.00	0.393	0.870	0.059	0.896	-0.243		
+95	2491	FN_P7_BNA	Berm	2011-10-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0595	-8.0852	4.35	0.60	99.40	0.00	1.205	0.742	-0.071	1.014	1.247		
+96	2490	FN_P7_E	Landslide	2011-10-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0598	-8.0850	4.77	1.50	90.20	8.30	0.826	1.433	0.358	1.953	0.247		
+97	2562	FN_P3_FP	Beach face	2012-01-21	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0592	-8.0854	1.62	0.30	99.70	0.00	1.251	0.757	-0.032	0.863	1.247		
+98	2561	FN_P3_BA	Berm	2012-01-21	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0593	-8.0853	3.15	0.20	99.80	0.00	1.367	0.658	-0.135	1.083	1.747		
+99	2560	FN_P3_BNA	Berm	2012-01-21	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0594	-8.0852	4.13	2.30	97.70	0.00	0.497	0.802	-0.018	0.966	0.247		
+100	2559	FN_P3_E_Dep	Landslide_Deposit	2012-01-21	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0598	-8.0850	5.02	1.00	91.00	8.00	1.133	1.511	0.206	1.550	1.247		
+101	2558	FN_P5_FP	Beach face	2012-01-21	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0597	-8.0864	1.46	0.20	99.80	0.00	1.473	0.693	-0.158	0.989	1.747		
+102	2557	FN_P5_BA	Berm	2012-01-21	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0598	-8.0863	3.10	0.10	99.80	0.00	1.340	0.685	-0.141	1.018	1.747		
+103	2556	FN_P5_BNA	Berm	2012-01-21	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0599	-8.0862	4.27	1.30	98.70	0.00	0.945	0.752	-0.064	1.099	1.247		
+104	2555	FN_P5_E_Dep	Landslide_Deposit	2012-01-21	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0603	-8.0859	5.10	4.60	80.80	14.60	1.580	2.077	0.354	1.573	1.247		
+105	2554	FN_P7_FP	Beach face	2012-01-21	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0602	-8.0873	1.42	0.40	99.60	0.00	1.286	0.703	-0.132	0.958	1.747		
+106	2553	FN_P7_BA	Berm	2012-01-21	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0603	-8.0872	3.47	0.20	99.80	0.00	1.172	0.696	-0.046	0.912	1.247		
+107	2552	FN_P7_BNA	Berm	2012-01-21	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0604	-8.0871	4.22	0.10	99.90	0.00	0.848	0.639	0.012	1.021	0.747		
+108	2551	FN_P7_Dep	Deposit	2012-01-21	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0607	-8.0868	5.96	2.10	96.30	1.60	0.698	0.900	-0.021	0.966	1.247		
+109	2590	FN_P3_FP	Beach face	2012-05-08	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0593	-8.0854	2.60	0.10	99.90	0.00	1.124	0.465	-0.029	1.035	1.247		
+110	2589	FN_P3_BA	Berm	2012-05-08	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0594	-8.0853	3.79	0.00	100.00	0.00	1.150	0.641	0.060	1.035	1.247		
+111	2588	FN_P3_BNA	Berm	2012-05-08	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0595	-8.0852	4.32	2.10	97.90	0.00	0.685	0.868	-0.023	0.984	0.747		
+112	2587	FN_P3_E	Landslide	2012-05-08	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0598	-8.0850	5.09	0.90	90.50	8.60	1.084	1.562	0.203	1.583	1.247		
+113	2586	FN_P5_FP	Beach face	2012-05-08	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0598	-8.0863	2.52	0.20	99.80	0.00	0.904	0.667	0.065	0.975	0.747		
+114	2585	FN_P5_BA	Berm	2012-05-08	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0598	-8.0863	3.43	0.10	99.90	0.00	1.213	0.643	0.035	0.974	1.247		
+115	2584	FN_P5_BNA	Berm	2012-05-08	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0600	-8.0861	4.65	2.90	97.00	0.00	0.569	0.847	-0.023	1.007	0.747		
+116	2583	FN_P5_E	Landslide	2012-05-08	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0603	-8.0859	6.34	3.00	85.60	11.40	1.328	1.608	0.239	2.088	1.247		
+117	2582	FN_P7_FP	Beach face	2012-05-08	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0602	-8.0873	2.83	0.00	100.00	0.00	0.949	0.461	0.093	1.238	0.747		
+118	2581	FN_P7_BA	Berm	2012-05-08	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0603	-8.0872	3.94	0.30	99.70	0.00	0.522	0.616	0.229	1.104	0.247		
+119	2580	FN_P7_BNA	Berm	2012-05-08	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0604	-8.0871	4.45	1.80	98.20	0.00	0.659	0.786	-0.003	1.009	0.747		
+120	2579	FN_P7_E	Landslide	2012-05-08	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0607	-8.0868	5.90	2.00	93.10	5.00	0.543	1.173	0.298	1.497	0.247		
+121	2385	GL_I_PW_AP	Upper Beach	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3125	2.70	0.00	100.00	0.00	0.651	0.503	0.133	1.261	0.747		
+122	2386	GL_I_PW_FP	Beach face	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0783	-8.3126	1.21	0.00	100.00	0.00	0.853	0.393	0.200	1.474	0.747		
+123	2387	GL_I_PE_AP	Upper Beach	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3124	3.33	8.30	91.70	0.00	-0.018	0.688	-0.174	1.146	0.247		
+124	2388	GL_I_PE_FP	Beach face	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0782	-8.3125	1.18	0.00	100.00	0.00	0.456	0.349	-0.026	0.834	0.247		
+125	2398	GL_I_A1	Cliff face	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0783	-8.3123	3.40	0.00	90.00	10.00	2.712	0.882	0.405	2.459	2.737		
+126	2399	GL_I_A2	Cliff face	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3125	2.95	0.30	73.00	26.70	3.712	1.794	0.343	1.648	3.237		
+127	2400	GL_I_D1	Deposit	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0785	-8.3126	3.82	0.00	78.50	21.50	3.596	1.296	0.640	2.444	3.237		
+128	2401	GL_I_D2	Deposit	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3125	2.98	0.40	87.70	11.90	2.323	1.453	0.160	1.631	2.237		
+129	2402	GL2_A	Cliff face	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0777	-8.3123	-0.65	0.00	36.70	63.30	4.912	1.960	-0.015	0.882	3.731		
+130	2403	GL2_B	Cliff face	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0777	-8.3123	-0.54	0.30	49.00	50.70	4.037	2.513	-0.040	0.813	3.237		
+131	2404	GL2_C	Cliff face	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0777	-8.3122	-0.48	9.50	30.30	60.20	3.723	3.208	-0.361	0.694	-1.243	1.747	3.237
+132	2405	GL2_BL1	Boulders (fallen cliff)	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0777	-8.3123	-0.36	0.10	66.30	33.60	3.604	2.184	0.251	0.957	2.237	3.237	
+133	2406	GL2_BL2	Boulders (fallen cliff)	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0777	-8.3123	-0.35	5.00	47.80	47.20	3.577	2.882	-0.105	0.773	3.237	0.247	-2.243
+134	2407	GL2_BL3	Boulders (fallen cliff)	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0777	-8.3122	-0.05	23.60	32.30	44.20	2.568	3.451	0.024	0.598	-1.243	1.747	-3.243
+135	2439	GLI_PW_E	Landslide	2011-01-25	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3125	3.53	0.20	92.00	7.80	2.258	1.298	-0.031	1.799	2.737		
+136	2440	GLI_PW_Dep	Deposit	2011-01-25	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0785	-8.3125	4.33	0.20	83.70	16.10	2.666	1.584	0.257	2.191	2.737		
+137	2441	GLI_PW_AP	Upper Beach	2011-01-25	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3125	3.22	0.00	100.00	0.00	0.714	0.625	0.263	1.312	0.747		
+138	2442	GLI_PW_FP	Beach face	2011-01-25	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0783	-8.3126	1.39	8.30	91.70	0.00	0.059	0.799	-0.092	1.391	0.247		
+139	2443	GLI_PE_Dep	Deposit	2011-01-25	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3124	4.48	0.60	88.00	11.40	2.331	1.433	0.139	1.750	2.237		
+140	2444	GLI_PE_AP	Upper Beach	2011-01-25	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3124	3.29	0.00	100.00	0.00	1.016	0.667	0.074	0.843	0.747		
+141	2445	GLI_PE_FP	Beach face	2011-01-25	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0782	-8.3125	1.19	0.90	99.10	0.00	0.500	0.638	0.066	1.046	0.247		
+142	2473	GLI_PW_E	Landslide	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3125	3.36	1.50	87.20	11.30	2.251	1.466	0.109	1.715	2.737		
+143	2474	GLI_PW_Dep	Deposit	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3125	4.26	0.20	81.70	18.10	2.619	1.835	0.342	1.530	2.237		
+144	2475	GLI_PW_AP/B	Upper Beach_Berm	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0783	-8.3126	2.53	0.10	99.90	0.00	0.898	0.728	-0.029	0.851	1.247	0.247	
+145	2476	GLI_PW_FP	Beach face	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0782	-8.3126	0.85	0.00	100.00	0.00	1.467	0.330	0.093	0.745	1.247		
+146	2477	GLI_PE_E	Landslide	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3124	3.71	0.40	91.30	8.30	2.393	1.219	0.036	1.966	2.737		
+147	2478	GLI_PE_Dep	Deposit	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3124	4.61	0.20	86.50	13.30	2.665	1.159	0.333	2.685	2.737		
+148	2479	GLI_PE_AP/B	Upper Beach_Berm	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0783	-8.3124	2.69	0.20	99.80	0.00	1.196	0.675	-0.079	0.939	1.247		
+149	2480	GLI_PE_FP	Beach face	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0782	-8.3125	0.90	1.40	98.60	0.00	0.562	0.631	-0.027	1.078	0.747		
+150	2481	GLI_PW_Dep	Deposit	2011-10-30	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3125	3.55	0.80	81.30	17.90	2.663	1.864	0.225	1.643	2.737		
+151	2482	GLI_PW_FPA	Upper Beach face	2011-10-30	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3126	2.75	0.00	100.00	0.00	1.090	0.564	-0.054	0.984	1.247		
+152	2483	GLI_PW_FP	Beach face	2011-10-30	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0782	-8.3126	0.75	0.80	99.20	0.00	0.748	0.771	0.008	0.842	0.247		
+153	2485	GLI_PE_FPA	Upper Beach face	2011-10-30	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3124	3.46	0.60	99.40	0.00	1.061	0.640	-0.115	1.030	1.247		
+154	2484	GLI_PE_FP	Beach face	2011-10-30	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0782	-8.3125	0.70	0.10	99.90	0.00	0.864	0.585	-0.022	0.976	0.747		
+155	2526	GLI_PW_Dep	Deposit	2011-11-27	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3125	3.41	0.30	78.50	21.30	2.929	1.965	0.295	1.592	2.737		
+156	2527	GLI_PW_FPA	Upper Beach face	2011-11-27	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3126	2.28	0.00	100.00	0.00	0.897	0.480	0.081	1.080	0.747		
+157	2528	GLI_PW_FP	Beach face	2011-11-27	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0782	-8.3126	0.70	0.40	99.60	0.00	0.875	0.609	-0.178	1.080	1.247	1.247	
+158	2529	GLI_PE_FPA	Upper Beach face	2011-11-27	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0783	-8.3124	3.06	0.60	99.40	0.00	0.792	0.662	-0.078	1.012	0.747		
+159	2530	GLI_PE_FP	Beach face	2011-11-27	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0782	-8.3125	0.92	0.10	99.90	0.00	0.785	0.456	-0.042	1.047	0.747		
+160	2569	GLI_PW_BArriba	Cliff toe	2012-01-20	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3126	2.82	0.00	99.90	0.10	0.905	0.644	0.196	1.301	0.747		
+161	2570	GLI_PW_Dep	Deposit	2012-01-20	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3125	3.43	0.60	79.40	20.00	2.831	1.962	0.244	1.655	2.737		
+162	2571	GLI_PW_FPA	Upper Beach face	2012-01-20	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3126	1.92	0.10	99.90	0.00	0.952	0.443	-0.156	0.958	1.247		
+163	2572	GLI_PW_FP	Beach face	2012-01-20	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0782	-8.3126	0.73	0.50	99.50	0.00	0.727	0.604	-0.120	0.940	0.747		
+164	2573	GLI_PE_BArriba	Cliff toe	2012-01-20	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3124	3.67	3.00	96.90	0.10	0.643	0.743	-0.064	1.172	0.747		
+165	2574	GLI_PE_Dep	Deposit	2012-01-20	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3124	4.28	0.80	89.90	9.30	2.372	1.238	0.029	2.037	2.737		
+166	2575	GLI_PE_FPA	Upper Beach face	2012-01-20	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0783	-8.3124	2.65	0.50	99.50	0.00	0.559	0.520	-0.133	1.028	0.747		
+167	2576	GLI_PE_FP	Beach face	2012-01-20	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0782	-8.3125	0.99	0.00	100.00	0.00	0.933	0.372	-0.021	0.910	0.747		
+168	2577	GLII_W	Beach	2012-01-22	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0779	-8.3122	0.23	0.90	99.10	0.00	0.267	0.481	-0.030	1.000	0.247		
+169	2578	GLII_E	Beach	2012-01-22	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0778	-8.3122	0.12	0.50	99.50	0.00	0.276	0.467	-0.020	1.007	0.247		
+170	2595	GLI_PW_BArriba	Cliff toe	2012-05-09	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3125	2.87	0.20	99.60	0.20	0.930	0.693	0.241	1.422	0.747		
+171	2596	GLI_PW_Dep	Deposit	2012-05-09	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3125	3.14	0.60	82.70	16.70	2.479	1.833	0.198	1.525	2.737	1.247	
+172	2597	GLI_PW_FPA	Upper Beach face	2012-05-09	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3126	2.30	0.00	100.00	0.00	0.678	0.481	-0.095	1.105	0.747		
+173	2598	GLI_PW_FP	Beach face	2012-05-09	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0782	-8.3126	0.70	10.10	89.90	0.00	0.274	0.974	-0.082	0.887	1.247	-0.243	
+174	2599	GLI_PE_BArriba	Cliff toe	2012-05-09	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3124	3.80	0.50	99.50	0.00	0.630	0.575	-0.042	0.982	0.747		
+175	2600	GLI_PE_Dep	Deposit	2012-05-09	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0784	-8.3123	3.87	1.10	94.30	4.60	1.068	1.325	0.344	0.759	0.247	2.737	
+176	2601	GLI_PE_FPA	Upper Beach face	2012-05-09	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0783	-8.3124	2.41	0.80	99.20	0.00	0.536	0.604	0.009	0.913	0.247		
+177	2602	GLI_PE_FP	Beach face	2012-05-09	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0782	-8.3125	0.75	0.30	99.70	0.00	0.531	0.546	0.041	0.966	0.247		
+178	2381	OA_PW_AP1	Upper Beach	2010-07-26	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0887	-8.1942	1.91	0.10	99.90	0.00	1.136	0.569	-0.151	1.134	1.247		
+179	2382	OA_PW_FP	Beach face	2010-07-26	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1942	0.71	0.10	99.90	0.00		0.573	-0.190	1.075	1.247		
+180	2383	OA_PE_AP1	Upper Beach	2010-07-26	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1940	0.56	0.80	99.20	0.00	0.306	0.645	0.052	0.918	0.247		
+181	2384	OA_PE_FP	Beach face	2010-07-26	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1940	0.56	0.50	99.50	0.00	0.736	0.717	-0.063	0.917	1.247		
+182	2389	OA_A	Cliff face	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0887	-8.1942	1.93	19.20	53.50	27.30	2.057	3.068	0.204	0.737	-1.243	2.237	
+183	2390	OA_B	Cliff face	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0887	-8.1942	2.27	4.00	72.20	23.90	2.533	2.591	0.111	1.030	2.737	-0.243	
+184	2391	OA_C	Cliff face	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0887	-8.1941	1.81	6.00	64.10	30.00	2.886	2.719	0.098	1.000	2.737	-0.743	
+185	2392	OA_D1	Cliff face	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1943	0.50	2.50	76.30	21.20	2.124	2.533	0.284	1.023	2.237	-0.743	
+186	2393	OA_D2	Cliff face	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1943	0.85	0.00	78.90	21.20	3.190	1.649	0.486	1.797	2.737		
+187	2394	OA_BL 1	Boulders (fallen cliff)	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1940	0.44	0.20	81.20	18.70	2.995	1.683	0.286	2.009	2.737		
+188	2395	OA_BL 2	Boulders (fallen cliff)	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1941	0.08	7.40	79.90	12.70	1.545	2.088	-0.084	1.192	2.237	-0.743	
+189	2396	OA_BL 3	Boulders (fallen cliff)	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1941	0.07	7.60	63.70	28.80	2.577	2.858	0.100	0.837	2.737	-0.743	
+190	2397	OA_BL 4	Boulders (fallen cliff)	2010-07-15	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1942	0.97	24.10	57.80	18.10	1.211	2.755	0.439	0.970	-1.243	2.237	
+191	2435	OA_PW_FPA1	Upper Beach face	2011-02-01	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0887	-8.1942	2.02	0.90	99.10	0.00	0.992	0.544	-0.214	1.158	1.247		
+192	2436	OA_PW_FP	Beach face	2011-02-01	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1942	0.17	2.50	97.50	0.00	1.611	0.508	-0.064	1.053	1.747		
+193	2437	OA_PE_FPA1	Upper Beach face	2011-02-01	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1940	0.72	9.30	90.70	0.00	0.764	1.246	-0.402	1.266	1.247		
+194	2438	OA_PE_FP	Beach face	2011-02-01	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1940	0.13	1.60	98.40	0.00	1.856	0.555	-0.230	1.072	2.237	-3.243	
+195	2457	OA_PW_FPA1	Upper Beach face	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0887	-8.1942	2.54	0.10	99.90	0.00	1.494	0.496	-0.134	1.084	1.747		
+196	2458	OA_PW_FP	Beach face	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0885	-8.1942	0.11	9.80	90.20	0.00	0.351	1.060	-0.123	1.228	0.247		
+197	2459	OA_PE_FPA1	Upper Beach face	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1940	1.00	0.30	99.70	0.00	1.324	0.637	-0.212	1.223	1.747		
+198	2460	OA_PE_FP	Beach face	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1940	0.17	1.90	98.10	0.00	0.847	0.809	-0.163	1.031	1.247		
+199	2486	OA_PW_FPA1	Upper Beach face	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1942	0.12	9.60	90.40	0.00	0.049	0.930	0.158	1.001	-0.243		
+200	2487	OA_PW_FP	Beach face	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1942	0.12	8.10	91.90	0.00	0.989	1.248	-0.426	0.822	1.747	-0.743	
+201	2488	OA_PE_FPA1	Upper Beach face	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1940	0.70	0.30	99.70	0.00	1.180	0.792	-0.164		1.247		
+202	2489	OA_PE_FP	Beach face	2011-05-31	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1940	0.12	1.40	98.60	0.00	0.894	0.877	-0.169	0.980	1.247		
+203	2520	OA_PW_FPA1	Upper Beach face	2011-11-27	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1942	0.04	1.40	98.60	0.00	0.951	0.793	-0.216	1.112	1.247		
+204	2521	OA_PW_FP	Beach face	2011-11-27	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1942	0.04	0.80	99.20	0.00	1.619	0.693	-0.206	1.108	1.747		
+205	2522	OA_PW_APL	Beach face	2011-11-27	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0884	-8.1942	-0.80	0.00	100.00	0.00	2.200	0.409	-0.027	1.222	2.237		
+206	2523	OA_PE_FPA1	Upper Beach face	2011-11-27	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1940	0.50	0.60	99.40	0.00	0.746	0.669	-0.113	1.004	0.747		
+207	2524	OA_PE_FP	Beach face	2011-11-27	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1940	0.50	11.30	88.70	0.00	0.546	1.195	-0.239	0.819	1.247	-0.743	
+208	2525	OA_PE_APL	Beach face	2011-11-27	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0884	-8.1940	-0.84	0.10	99.90	0.00	1.640	0.495	-0.027	0.987	1.747		
+209	2563	OA_PW_FPA1	Upper Beach face	2012-01-21	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0887	-8.1942	1.49	0.40	99.60	0.00	1.635	0.672	-0.254	1.105	1.747		
+210	2564	OA_PW_FP	Beach face	2012-01-21	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1942	0.18	0.00	100.00	0.00	2.313	0.396	0.028	1.127	2.237		
+211	2565	OA_PW_APL	Beach face	2012-01-21	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0884	-8.1942	-0.53	0.00	100.00	0.00	2.410	0.383	0.010	0.938	2.237		
+212	2566	OA_PE_FPA1	Upper Beach face	2012-01-21	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1940	1.07	0.20	99.80	0.00	2.008	0.628	-0.286	1.221	2.237		
+213	2567	OA_PE_FP	Beach face	2012-01-21	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1940	0.22	0.10	99.90	0.00	2.361	0.514	-0.245	1.179	2.737		
+214	2568	OA_PE_APL	Beach face	2012-01-21	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0884	-8.1940	-0.43	0.00	100.00	0.00	2.540	0.352	-0.199	0.835	2.737		
+215	2591	OA_PW_FP1	Beach face	2012-05-08	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1942	0.62	2.30	97.70	0.00	0.738	0.745	-0.216	1.065	1.247		
+216	2592	OA_PW_APL	Beach face	2012-05-08	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0884	-8.1942	-1.00	0.00	99.90	0.10	1.760	0.510	0.133	1.169	1.747		
+217	2593	OA_PE_FP1	Beach face	2012-05-08	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0886	-8.1940	0.69	1.10	98.90	0.00	1.100	0.705	-0.252	1.113	1.247		
+218	2594	OA_PE_APL	Beach face	2012-05-08	Graduation_EvolutionDynamicsCliffBeachSystems	Hand-collecting	37.0884	-8.1940	-0.91	0.00	100.00	0.00	1.521	0.390	0.000	0.908	1.747		

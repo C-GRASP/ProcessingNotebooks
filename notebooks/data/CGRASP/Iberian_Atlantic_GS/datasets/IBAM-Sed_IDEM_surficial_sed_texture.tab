@@ -1,0 +1,98 @@
+/* DATA DESCRIPTION:
+Citation:	IDEM Project Members (2008): Study of sedimentary flows in several Ria Formosa Inlets to characterize the hydrodynamics of the tidal Inlets and their evolution within the frame of the IDEM project. PANGAEA, https://doi.org/10.1594/PANGAEA.883094, 
+	In supplement to: Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Surficial sediment texture database for the south-western Iberian Atlantic margin. Earth System Science Data, 10(2), 1185-1195, https://doi.org/10.5194/essd-10-1185-2018
+Related to:	Pacheco, André Miguel Duarte (2011): Hydrodynamic and sediment fluxes through the inlets of the Ria Formosa. Faculty of Science and Technology, University of Algarve, hdl:10400.1/1479
+Original version:	Original data of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed) (URI: https://store.pangaea.de/Publications/Coasta-etal_2017/PLOSscripts.zip)
+Further details:	Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Shape files of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed). PANGAEA, https://doi.org/10.1594/PANGAEA.890946
+Coverage:	MEDIAN LATITUDE: 37.038883 * MEDIAN LONGITUDE: -7.780504 * SOUTH-BOUND LATITUDE: 36.970499 * WEST-BOUND LONGITUDE: -7.961404 * NORTH-BOUND LATITUDE: 37.150187 * EAST-BOUND LONGITUDE: -7.557357
+	DATE/TIME START: 2006-06-01T00:00:00 * DATE/TIME END: 2007-06-01T00:00:00
+Event(s):	IBAM-Sed_IDEM * LATITUDE: 37.069700 * LONGITUDE: -7.769700 * DATE/TIME START: 2006-06-01T00:00:00 * DATE/TIME END: 2007-03-01T00:00:00 * METHOD/DEVICE: Dredge (DRG)
+Comment:	IDEM (2008). Inlet Dynamics, Evolution and Management in the Ria Formosa
+Parameter(s):	Sample ID (Sample ID) * PI: IDEM Project Members * COMMENT: Sample number
+	Sample ID (Sample ID) * PI: IDEM Project Members * COMMENT: Acess number from laboratory
+	Sample ID (Sample ID) * PI: IDEM Project Members * COMMENT: Reference sample in the collect
+	DATE/TIME (Date/Time) * GEOCODE * PI: IDEM Project Members * COMMENT: of collecting
+	Project (Project) * PI: IDEM Project Members
+	Sample method (Sample method) * PI: IDEM Project Members
+	LATITUDE (Latitude) * GEOCODE * PI: IDEM Project Members
+	LONGITUDE (Longitude) * GEOCODE * PI: IDEM Project Members
+	Gravel [%] (Gravel) * PI: IDEM Project Members * METHOD/DEVICE: Grain size, sieving
+	Sandstone [%] (Sdst) * PI: IDEM Project Members * METHOD/DEVICE: Grain size, sieving
+	Mudstone [%] (Mudstone) * PI: IDEM Project Members * METHOD/DEVICE: Grain size, sieving/pipette
+	Grain size, mean [phi] (Grain size mean) * PI: IDEM Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Standard deviation [±] (Std dev) * PI: IDEM Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: Of sample value
+	Skewness (Skew) * PI: IDEM Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Kurtosis (Kurt) * PI: IDEM Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Mode, grain size [phi] (Mode) * PI: IDEM Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 1st Mode sample value
+	Mode, grain size [phi] (Mode) * PI: IDEM Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 2nd Mode sample value
+	Mode, grain size [phi] (Mode) * PI: IDEM Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 3rd Mode sample value
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	879 data points
+*/
+Sample ID (Sample number)	Sample ID (Acess number from laboratory)	Sample ID (Reference sample in the collect)	Date/Time (of collecting)	Project	Sample method	Latitude	Longitude	Gravel [%] (Grain size, sieving)	Sdst [%] (Grain size, sieving)	Mudstone [%] (Grain size, sieving/pipette)	Grain size mean [phi] (Grain size, sieving/pipette, ...)	Std dev [±] (Of sample value, Grain size, ...)	Skew (Grain size, sieving/pipette, ...)	Kurt (Grain size, sieving/pipette, ...)	Mode [phi] (1st Mode sample value, Grain ...)	Mode [phi] (2nd Mode sample value, Grain ...)	Mode [phi] (3rd Mode sample value, Grain ...)
+1	1323	Perfil1S_A1	2006-08-01	IDEM	Dredge Petit Ponnar	36.9862	-7.9614	3.00	97.00	0.00	1.441	0.687	-0.263	1.160	1.747		
+2	1324	Perfil1_A2	2006-08-01	IDEM	Dredge Petit Ponnar	36.9874	-7.9603	3.90	96.10	0.00	0.600	0.803	-0.076	1.134	0.747		
+3	1325	Perfil1_A3	2006-08-01	IDEM	Dredge Petit Ponnar	36.9886	-7.9591	5.20	94.80	0.00	0.233	0.709	-0.050	1.017	0.247		
+4	1326	Perfil1_A4	2006-08-01	IDEM	Dredge Petit Ponnar	36.9899	-7.9580	2.60	97.40	0.00	0.688	0.818	-0.090	0.975	0.747		
+5	1327	Perfil1N_A5	2006-08-01	IDEM	Dredge Petit Ponnar	36.9911	-7.9569	0.90	99.10	0.00	1.263	0.586	-0.069	1.090	1.247		
+6	1328	Perfil2W_A1	2006-08-01	IDEM	Dredge Petit Ponnar	36.9856	-7.9611	6.30	93.60	0.00	0.283	0.777	-0.130	1.190	0.247		
+7	1329	Perfil2_A2	2006-08-01	IDEM	Dredge Petit Ponnar	36.9850	-7.9601	7.40	92.60	0.00	-0.162	0.614	-0.061	1.109	-0.243		
+8	1330	Perfil2_A3	2006-08-01	IDEM	Dredge Petit Ponnar	36.9844	-7.9591	4.80	95.20	0.00	0.024	0.590	-0.032	1.014	0.247		
+9	1331	Perfil2E_A4	2006-08-01	IDEM	Dredge Petit Ponnar	36.9838	-7.9580	2.50	97.50	0.00	0.612	0.623	-0.095	1.099	0.747	0.747	
+10	1332	Perfil3S_A1	2006-08-01	IDEM	Dredge Petit Ponnar	36.9839	-7.9570	2.40	97.60	0.00	0.622	0.713	-0.078	1.097	0.747		
+11	1333	Perfil3_A2	2006-08-01	IDEM	Dredge Petit Ponnar	36.9850	-7.9559	1.80	75.40	22.80	3.357	1.781	0.319	1.618	3.237		
+12	1334	Perfil3_A3	2006-08-01	IDEM	Dredge Petit Ponnar	36.9861	-7.9547	0.60	95.70	3.80	2.004	0.932	-0.235	1.646	2.237		
+13	1335	Perfil3_A4	2006-08-01	IDEM	Dredge Petit Ponnar	36.9872	-7.9536	1.50	98.10	0.40	1.816	1.035	-0.457	0.978	2.237		
+14	1336	Perfil3N_A5	2006-08-01	IDEM	Dredge Petit Ponnar	36.9883	-7.9525	2.80	74.70	22.50	2.433	2.303	0.479	1.351	1.247		
+15	1478	P1A1_S	2007-06-01	IDEM	Dredge Petit Ponnar	36.9705	-7.8743	70.00	29.50	0.40	-2.508	2.686	0.469	0.610	-5.235	-4.243	-3.243
+16	1479	P1A2	2007-06-01	IDEM	Dredge Petit Ponnar	36.9736	-7.8753	40.90	58.60	0.50	-0.908	2.358	-0.250	0.606	-3.743	1.247	-0.743
+17	1480	P1A3	2007-06-01	IDEM	Dredge Petit Ponnar	36.9767	-7.8763	2.80	97.00	0.30	1.298	1.032	-0.386	0.908	1.747		
+18	1481	P1A4	2007-06-01	IDEM	Dredge Petit Ponnar	36.9798	-7.8773	2.40	97.60	0.00	0.938	0.865	-0.141	1.000	1.247		
+19	1482	P1A5_N	2007-06-01	IDEM	Dredge Petit Ponnar	36.9829	-7.8783	2.20	96.50	1.40	1.930	0.864	-0.138	1.288	2.237		
+20	1483	P2A1_E	2007-06-01	IDEM	Dredge Petit Ponnar	36.9712	-7.8748	6.90	93.10	0.00	-0.188	0.599	-0.009	1.057	-0.243		
+21	1484	P2A2	2007-06-01	IDEM	Dredge Petit Ponnar	36.9716	-7.8730	0.50	99.50	0.00	1.196	0.540	-0.167	1.285	1.247		
+22	1485	P2A3	2007-06-01	IDEM	Dredge Petit Ponnar	36.9721	-7.8712	3.50	96.50	0.00	0.251	0.758	0.083	1.018	0.247		
+23	1486	P2A4	2007-06-01	IDEM	Dredge Petit Ponnar	36.9726	-7.8693	35.30	64.00	0.70	-0.847	2.430	-0.373	0.591	-4.243	0.247	
+24	1487	P2A5_W	2007-06-01	IDEM	Dredge Petit Ponnar	36.9731	-7.8675	31.70	67.90	0.40	-0.532	1.797	-0.276	0.953	0.747	-3.243	
+25	1488	P3A5_S	2007-06-01	IDEM	Dredge Petit Ponnar	36.9872	-7.8706	31.00	54.80	14.30	-0.003	3.184	-0.033	0.972	-3.743	0.747	
+26	1489	P3A4	2007-06-01	IDEM	Dredge Petit Ponnar	36.9847	-7.8695	0.00	99.70	0.20	1.976	0.407	-0.029	0.972	2.237		
+27	1490	P3A3	2007-06-01	IDEM	Dredge Petit Ponnar	36.9822	-7.8683	6.90	93.00	0.10	1.675	1.242	-0.554	1.624	2.237		
+28	1491	P3A2	2007-06-01	IDEM	Dredge Petit Ponnar	36.9797	-7.8672	8.00	91.60	0.30	1.240	1.161	-0.501	1.516	1.747		
+29	1492	P3A1_N	2007-06-01	IDEM	Dredge Petit Ponnar	36.9772	-7.8661	7.10	91.70	1.10	1.448	1.264	-0.426	1.352	2.237		
+30	1493	P1A1_W	2007-06-01	IDEM	Dredge Petit Ponnar	37.0132	-7.8039	1.80	98.20	0.00	0.843	0.718	-0.226	1.029	1.247		
+31	1494	P1A2	2007-06-01	IDEM	Dredge Petit Ponnar	37.0118	-7.8038	1.20	98.80	0.00	0.751	0.723	-0.051	0.952	0.747		
+32	1495	P1A3	2007-06-01	IDEM	Dredge Petit Ponnar	37.0103	-7.8037	2.20	97.80	0.00	0.117	0.529	-0.048	1.039	0.247		
+33	1496	P1A4	2007-06-01	IDEM	Dredge Petit Ponnar	37.0089	-7.8036	2.80	97.20	0.00	0.880	0.679	-0.162	1.176	1.247		
+34	1497	P1A5_E	2007-06-01	IDEM	Dredge Petit Ponnar	37.0075	-7.8034	10.30	89.60	0.00	0.753	1.321	-0.414	1.738	1.247		
+35	1308	P1S_A1	2006-07-01	IDEM	Dredge Petit Ponnar	37.0610	-7.7241	2.80	96.90	0.20	1.161	0.673	-0.152	1.169	1.247		
+36	1309	P1_A2	2006-07-01	IDEM	Dredge Petit Ponnar	37.0597	-7.7236	3.60	96.00	0.30	1.302	1.056	-0.422	0.866	2.237		
+37	1310	P1_A3	2006-07-01	IDEM	Dredge Petit Ponnar	37.0583	-7.7230	1.50	98.40	0.00	0.939	0.863	-0.071	0.827	1.747		
+38	1311	P1_A4	2006-07-01	IDEM	Dredge Petit Ponnar	37.0570	-7.7225	0.70	99.30	0.00	1.150	0.608	-0.014	1.164	1.247		
+39	1312	P1N_A5	2006-07-01	IDEM	Dredge Petit Ponnar	37.0557	-7.7220	3.00	97.00	0.00	1.156	0.844	-0.253	1.090	1.747		
+40	1313	P2W_A1	2006-07-01	IDEM	Dredge Petit Ponnar	37.0597	-7.7147	10.10	89.90	0.00	-0.032	0.787	-0.152	1.260	0.247		
+41	1314	P2_A2	2006-07-01	IDEM	Dredge Petit Ponnar	37.0613	-7.7150	1.90	98.10	0.00	0.372	0.629	-0.065	1.073	0.247		
+42	1315	P2_A3	2006-07-01	IDEM	Dredge Petit Ponnar	37.0628	-7.7154	31.40	68.60	0.00	-0.629	1.222	-0.296	1.080	-0.243		
+43	1316	P2_A4	2006-07-01	IDEM	Dredge Petit Ponnar	37.0643	-7.7158	22.60	77.40	0.00	-0.357	1.143	-0.312	1.302	0.247	-2.743	
+44	1317	P2E_A5	2006-07-01	IDEM	Dredge Petit Ponnar	37.0659	-7.7162	0.90	99.10	0.00	0.634	0.637	-0.051	0.957	0.747		
+45	1318	P3S_A1	2006-07-01	IDEM	Dredge Petit Ponnar	37.0567	-7.7198	0.60	99.40	0.00	1.074	0.640	-0.164	1.041	1.247		
+46	1319	P3_A2	2006-07-01	IDEM	Dredge Petit Ponnar	37.0573	-7.7187	0.40	99.60	0.00	1.545	0.602	-0.138	1.054	1.747		
+47	1320	P3_A3	2006-07-01	IDEM	Dredge Petit Ponnar	37.0580	-7.7176	0.60	98.90	0.50	1.725	0.641	-0.301	1.054	2.237		
+48	1321	P3_A4	2006-07-01	IDEM	Dredge Petit Ponnar	37.0586	-7.7165	0.70	98.50	0.80	1.684	0.754	-0.188	1.096	2.237		
+49	1322	P3_A5	2006-07-01	IDEM	Dredge Petit Ponnar	37.0593	-7.7154	2.20	97.00	0.80	1.710	0.609	-0.220	1.219	1.747		
+50	1286	Perfil1S_A1	2006-06-01	IDEM	Dredge Petit Ponnar	37.1151	-7.6214	2.20	97.20	0.60	1.131	0.985	0.071	0.977	0.747		
+51	1287	Perfil1_A2	2006-06-01	IDEM	Dredge Petit Ponnar	37.1161	-7.6215	16.80	82.80	0.40	0.564	1.687	-0.394	1.242	1.747	0.747	-4.243
+52	1288	Perfil1_A3	2006-06-01	IDEM	Dredge Petit Ponnar	37.1170	-7.6217	0.40	99.10	0.50	1.997	0.437	-0.086	1.049	2.237		
+53	1289	Perfil1_A4	2006-06-01	IDEM	Dredge Petit Ponnar	37.1180	-7.6218	1.00	98.80	0.20	1.592	0.713	-0.232	1.042	1.747		
+54	1290	Perfil1N_A5	2006-06-01	IDEM	Dredge Petit Ponnar	37.1189	-7.6219	2.30	92.10	5.60	1.885	1.069	0.114	1.717	1.747		
+55	1291	Perfil2S_A1	2006-06-01	IDEM	Dredge Petit Ponnar	37.1167	-7.6180	41.60	57.70	0.70	-0.421	2.519	-0.583	0.521	1.747	-4.243	
+56	1292	Perfil2_A2	2006-06-01	IDEM	Dredge Petit Ponnar	37.1171	-7.6182	9.40	90.50	0.10	1.040	1.408	-0.514	1.408	1.747		
+57	1293	Perfil2_A3	2006-06-01	IDEM	Dredge Petit Ponnar	37.1175	-7.6184	11.30	88.20	0.50	1.219	1.595	-0.500	1.414	2.237	0.747	
+58	1294	Perfil2_A4	2006-06-01	IDEM	Dredge Petit Ponnar	37.1178	-7.6187	27.40	71.10	1.50	0.140	2.092	-0.278	0.829	2.237	-3.243	-2.243
+59	1295	Perfil2N_A5	2006-06-01	IDEM	Dredge Petit Ponnar	37.1182	-7.6189	38.80	58.00	3.20	-0.436	2.749	-0.393	0.612	-4.243	1.247	-3.243
+60	1296	Perfil3W_A1	2006-06-01	IDEM	Dredge Petit Ponnar	37.1148	-7.6195	46.80	52.70	0.50	-0.646	2.623	-0.388	0.536	1.747	-3.243	-4.243
+61	1297	Perfil3E_A2	2006-06-01	IDEM	Dredge Petit Ponnar	37.1168	-7.6179	59.10	39.40	1.50	-1.427	2.578	0.396	0.601	-3.743	1.747	-4.731
+62	1463	P1A1_W	2007-03-01	IDEM	Dredge Petit Ponnar	37.1487	-7.5586	0.00	100.00	0.00	1.678	0.553	-0.109	0.968	1.747		
+63	1464	P1A2	2007-03-01	IDEM	Dredge Petit Ponnar	37.1491	-7.5583	2.20	97.80	0.00	0.520	0.640	-0.076	1.060	0.747		
+64	1465	P1A3	2007-03-01	IDEM	Dredge Petit Ponnar	37.1495	-7.5580	2.70	97.30	0.00	0.801	0.817	-0.076	0.980	0.747		
+65	1466	P1A4	2007-03-01	IDEM	Dredge Petit Ponnar	37.1498	-7.5577	4.90	95.10	0.00	0.763	0.872	-0.204	1.034	1.247		
+66	1467	P1A5_E	2007-03-01	IDEM	Dredge Petit Ponnar	37.1502	-7.5574	0.00	99.90	0.10	1.807	0.412	0.039	1.075	1.747		

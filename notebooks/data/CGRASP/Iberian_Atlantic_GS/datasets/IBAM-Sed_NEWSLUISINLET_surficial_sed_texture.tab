@@ -1,0 +1,76 @@
+/* DATA DESCRIPTION:
+Citation:	NEWSLUISINLET Project Members (1997): Sedimentological analysis of samples collected at the beaches of Praia de Faro and Ancao in 1997. PANGAEA, https://doi.org/10.1594/PANGAEA.883080, 
+	In supplement to: Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Surficial sediment texture database for the south-western Iberian Atlantic margin. Earth System Science Data, 10(2), 1185-1195, https://doi.org/10.5194/essd-10-1185-2018
+Original version:	Original data of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed) (URI: https://store.pangaea.de/Publications/Coasta-etal_2017/PLOSscripts.zip)
+Further details:	Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Shape files of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed). PANGAEA, https://doi.org/10.1594/PANGAEA.890946
+Coverage:	MEDIAN LATITUDE: 36.975505 * MEDIAN LONGITUDE: -7.942126 * SOUTH-BOUND LATITUDE: 36.968806 * WEST-BOUND LONGITUDE: -7.963670 * NORTH-BOUND LATITUDE: 36.987058 * EAST-BOUND LONGITUDE: -7.922916
+	DATE/TIME START: 1997-06-20T00:00:00 * DATE/TIME END: 1997-06-30T00:00:00
+Event(s):	IBAM-Sed_NEWSLUISINLET * LATITUDE: 36.972000 * LONGITUDE: -7.942000 * DATE/TIME START: 1997-06-20T00:00:00 * DATE/TIME END: 1997-06-30T00:00:00 * METHOD/DEVICE: Sampling by hand (HAND)
+Comment:	NEWSLUISINLET (1997). Study of the evolution and displacement of the new S.Luís inlet (Ancao inlet)
+Parameter(s):	Sample ID (Sample ID) * PI: NEWSLUISINLET Project Members * COMMENT: Sample number
+	Sample ID (Sample ID) * PI: NEWSLUISINLET Project Members * COMMENT: Acess number from laboratory
+	Sample ID (Sample ID) * PI: NEWSLUISINLET Project Members * COMMENT: Reference sample in the collect
+	Sample comment (Sample comment) * PI: NEWSLUISINLET Project Members
+	DATE/TIME (Date/Time) * GEOCODE * PI: NEWSLUISINLET Project Members * COMMENT: of collecting
+	Project (Project) * PI: NEWSLUISINLET Project Members
+	Sample method (Sample method) * PI: NEWSLUISINLET Project Members
+	LATITUDE (Latitude) * GEOCODE * PI: NEWSLUISINLET Project Members
+	LONGITUDE (Longitude) * GEOCODE * PI: NEWSLUISINLET Project Members
+	Gravel [%] (Gravel) * PI: NEWSLUISINLET Project Members * METHOD/DEVICE: Grain size, sieving
+	Sandstone [%] (Sdst) * PI: NEWSLUISINLET Project Members * METHOD/DEVICE: Grain size, sieving
+	Mudstone [%] (Mudstone) * PI: NEWSLUISINLET Project Members * METHOD/DEVICE: Grain size, sieving
+	Grain size, mean [phi] (Grain size mean) * PI: NEWSLUISINLET Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Standard deviation [±] (Std dev) * PI: NEWSLUISINLET Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: Of sample value
+	Skewness (Skew) * PI: NEWSLUISINLET Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Kurtosis (Kurt) * PI: NEWSLUISINLET Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Mode, grain size [phi] (Mode) * PI: NEWSLUISINLET Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: 1st Mode sample value
+	Mode, grain size [phi] (Mode) * PI: NEWSLUISINLET Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: 2nd Mode sample value
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	631 data points
+*/
+Sample ID (Sample number)	Sample ID (Acess number from laboratory)	Sample ID (Reference sample in the collect)	Sample comment	Date/Time (of collecting)	Project	Sample method	Latitude	Longitude	Gravel [%] (Grain size, sieving)	Sdst [%] (Grain size, sieving)	Mudstone [%] (Grain size, sieving)	Grain size mean [phi] (Grain size, sieving, Folk and...)	Std dev [±] (Of sample value, Grain size, ...)	Skew (Grain size, sieving, Folk and...)	Kurt (Grain size, sieving, Folk and...)	Mode [phi] (1st Mode sample value, Grain ...)	Mode [phi] (2nd Mode sample value, Grain ...)
+1	456A	G.Duna	Dune	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9871	-7.964	0.00	100.00	0.00	1.143	0.619	-0.030	0.984	1.247	
+2	457A	H.Duna	Dune	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9844	-7.959	0.00	100.00	0.00	0.753	0.606	0.049	0.989	0.747	
+3	458A	H.Berma	Berm	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9843	-7.960	0.00	100.00	0.00	1.340	0.587	0.003	0.962	1.247	
+4	459A	H.Face	Beach face	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9842	-7.960	0.10	99.90	0.00	0.682	0.586	0.024	1.040	0.747	
+5	460A	H.Degrau	Beach step	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9839	-7.960	0.00	100.00	0.00	1.355	0.632	-0.053	1.058	1.247	
+6	461A	I.Duna	Dune	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9820	-7.955	0.20	99.80	0.00	0.351	0.544	0.100	1.044	0.247	
+7	462A	I.Berma	Berm	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9818	-7.955	0.60	99.40	0.00	0.906	0.642	0.018	0.993	0.747	
+8	463A	I.Face	Beach face	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9815	-7.956	0.00	100.00	0.00	1.072	0.546	0.038	0.991	0.747	
+9	464A	I.Degrau	Beach step	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9812	-7.956	0.00	100.00	0.00	1.190	0.513	0.004	0.970	1.247	
+10	465A	J.Duna	Dune	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9805	-7.954	0.00	100.00	0.00	1.026	0.533	0.023	1.008	0.747	
+11	466A	J.Berma	Berm	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9802	-7.954	0.00	100.00	0.00	1.208	0.597	-0.003	0.976	1.247	
+12	467A	J.Face	Beach face	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9801	-7.954	0.00	100.00	0.00	1.062	0.576	0.008	1.018	1.247	
+13	468A	J.Degrau	Beach step	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9799	-7.954	0.00	100.00	0.00	0.542	0.489	0.078	1.006	0.247	
+14	469A	K.Duna	Dune	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9791	-7.951	0.00	100.00	0.00	1.129	0.613	0.035	1.010	1.247	
+15	470A	K.Berma	Berm	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9791	-7.951	0.80	99.20	0.00	0.656	0.796	-0.059	0.931	0.747	
+16	471A	K.Face	Beach face	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9789	-7.952	0.50	99.50	0.00	0.867	0.676	0.002	0.961	0.747	
+17	472A	K.Degrau	Beach step	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9787	-7.952	0.00	100.00	0.00	0.845	0.454	0.156	1.224	0.747	
+18	473A	L.Duna	Dune	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9772	-7.947	0.00	100.00	0.00	0.646	0.583	0.120	1.074	0.247	
+19	474A	L.Berma	Berm	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9769	-7.947	0.00	100.00	0.00	0.424	0.602	0.212	1.051	0.247	
+20	475A	L.Face	Beach face	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9767	-7.947	0.50	99.50	0.00	0.790	0.589	0.031	0.965	0.747	
+21	476A	L.Degrau	Beach step	1997-06-20	New S.Luis Inlet	Hand-Collecting	36.9765	-7.947	0.10	99.90	0.00	1.307	0.498	-0.019	0.933	1.247	
+22	477A	M.Duna	Dune	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9746	-7.942	0.00	100.00	0.00	1.299	0.577	-0.037	0.963	1.247	
+23	478A	M.Berma	Berm	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9742	-7.942	0.00	100.00	0.00	0.893	0.547	0.076	0.979	0.747	
+24	479A	M.Face	Beach face	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9741	-7.942	0.00	100.00	0.00	1.514	0.677	-0.205	1.041	1.747	
+25	480A	M.Degrau	Beach step	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9740	-7.942	0.00	100.00	0.00	1.111	0.448	0.104	0.912	1.247	
+26	481A	N.Duna	Dune	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9732	-7.936	0.00	100.00	0.00	1.114	0.590	-0.088	0.985	1.247	
+27	482A	N.Berma	Berm	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9723	-7.936	1.20	98.80	0.00	0.387	0.758	0.138	1.003	0.247	
+28	483A	N.Face	Beach face	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9718	-7.937	0.20	99.80	0.00	1.722	0.595	-0.130	1.021	1.747	
+29	484A	N.Degrau	Beach step	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9717	-7.937	0.50	99.50	0.00	0.881	0.637	0.039	1.093	0.747	
+30	485A	O.Duna	Dune	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9714	-7.932	0.00	100.00	0.00	1.695	0.397	-0.037	1.156	1.747	
+31	486A	O.Berma	Berm	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9707	-7.932	0.10	99.90	0.00	0.705	0.654	0.098	1.010	0.747	
+32	487A	O.Face	Beach face	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9700	-7.933	0.40	99.60	0.00	0.510	0.621	0.189	1.159	0.247	
+33	488A	O.Degrau	Beach step	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9696	-7.933	0.30	99.70	0.00	0.785	0.639	0.046	0.940	0.747	
+34	489A	P.Duna	Dune	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9706	-7.931	0.00	100.00	0.00	0.869	0.675	0.076	0.906	0.747	
+35	490A	P.Berma	Berm	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9700	-7.931	0.40	99.60	0.00	-0.033	0.469	0.262	1.262	-0.243	
+36	491A	P.Face	Beach face	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9692	-7.931	0.00	100.00	0.00	1.307	0.643	0.007	0.962	1.247	
+37	492A	P.Degrau	Beach step	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9688	-7.932	1.10	98.90	0.00	0.100	0.440	-0.129	1.161	0.247	
+38	493A	Q.Duna	Dune	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9707	-7.924	0.00	100.00	0.00	1.160	0.562	-0.075	0.954	1.247	
+39	494A	Q.Berma	Berm	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9703	-7.924	0.30	99.70	0.00	0.726	0.664	0.075	0.987	0.747	
+40	495A	Q.Face	Beach face	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9694	-7.925	0.10	99.90	0.00	0.898	0.583	-0.140	1.027	1.247	
+41	496A	Q.Degrau	Beach step	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9693	-7.925	14.60	85.40	0.00	-0.207	0.780	0.113	0.881	-0.743	
+42	497A	R.Duna	Dune	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9702	-7.923	0.00	100.00	0.00	1.056	0.530	-0.050	1.007	1.247	
+43	498A	R.Berma	Berm	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9692	-7.923	0.10	99.90	0.00	0.714	0.541	0.036	0.920	0.747	
+44	499A	R.Face	Beach face	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9691	-7.923	0.30	99.70	0.00	1.188	0.486	-0.096	1.121	1.247	
+45	500A	R.Degrau	Beach step	1997-06-30	New S.Luis Inlet	Hand-Collecting	36.9691	-7.923	11.10	88.90	0.00	0.131	0.923	-0.081	0.934	-0.243	-2.243

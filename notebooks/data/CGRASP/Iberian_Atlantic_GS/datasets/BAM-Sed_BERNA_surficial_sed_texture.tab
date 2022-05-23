@@ -1,0 +1,52 @@
+/* DATA DESCRIPTION:
+Citation:	BERNA Project Members (2008): Medium-term sediment characterization of a fetch-limited backbarrier beach (Praia de Faro) located in the Ria Formosa barrier island system within the frame of the BERNA project. PANGAEA, https://doi.org/10.1594/PANGAEA.883093, 
+	In supplement to: Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Surficial sediment texture database for the south-western Iberian Atlantic margin. Earth System Science Data, 10(2), 1185-1195, https://doi.org/10.5194/essd-10-1185-2018
+Related to:	Freire, Paula; Ferreira, Óscar; Taborda, Rui; Oliveira, Filipa; Carrasco, Ana Rita; Silva, Ana; Vargas, Catarina; Capitão, Rui; Fortes, Conceição Juana; Braga Coli, Alexandre; Santos, João (2009): Morphodynamics of fetch-limited beaches in contrasting environments. CIM2-Artigos, Coastal Education and Research Foundation, hdl:10400.1/10228
+Original version:	Original data of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed) (URI: https://store.pangaea.de/Publications/Coasta-etal_2017/PLOSscripts.zip)
+Further details:	Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Shape files of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed). PANGAEA, https://doi.org/10.1594/PANGAEA.890946
+Coverage:	MEDIAN LATITUDE: 36.997955 * MEDIAN LONGITUDE: -7.977532 * SOUTH-BOUND LATITUDE: 36.997410 * WEST-BOUND LONGITUDE: -7.978088 * NORTH-BOUND LATITUDE: 36.998327 * EAST-BOUND LONGITUDE: -7.977108
+	DATE/TIME START: 2005-05-09T00:00:00 * DATE/TIME END: 2008-03-20T00:00:00
+Event(s):	IBAM-Sed_BERNA * LATITUDE: 36.992000 * LONGITUDE: -7.973000 * DATE/TIME START: 2005-05-09T00:00:00 * DATE/TIME END: 2008-03-20T00:00:00 * METHOD/DEVICE: Sampling by hand (HAND)
+Comment:	BERNA (2008). Beach Evolution in Areas of Restricted Fetch:Experimental and Numerical Analysis
+Parameter(s):	Sample ID (Sample ID) * PI: BERNA Project Members * COMMENT: Sample number
+	Sample ID (Sample ID) * PI: BERNA Project Members * COMMENT: Acess number from laboratory
+	Sample ID (Sample ID) * PI: BERNA Project Members * COMMENT: Reference sample in the collect
+	Sample comment (Sample comment) * PI: BERNA Project Members
+	DATE/TIME (Date/Time) * GEOCODE * PI: BERNA Project Members * COMMENT: of collecting
+	Project (Project) * PI: BERNA Project Members
+	Sample method (Sample method) * PI: BERNA Project Members
+	LATITUDE (Latitude) * GEOCODE * PI: BERNA Project Members * COMMENT: WGS1984
+	LONGITUDE (Longitude) * GEOCODE * PI: BERNA Project Members * COMMENT: WGS1984
+	Gravel [%] (Gravel) * PI: BERNA Project Members * METHOD/DEVICE: Grain size, sieving
+	Sandstone [%] (Sdst) * PI: BERNA Project Members * METHOD/DEVICE: Grain size, sieving
+	Mudstone [%] (Mudstone) * PI: BERNA Project Members * METHOD/DEVICE: Grain size, sieving/pipette
+	Grain size, mean [phi] (Grain size mean) * PI: BERNA Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Standard deviation [±] (Std dev) * PI: BERNA Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: Of sample value
+	Skewness (Skew) * PI: BERNA Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Kurtosis (Kurt) * PI: BERNA Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Mode, grain size [phi] (Mode) * PI: BERNA Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 1st Mode sample value
+	Mode, grain size [phi] (Mode) * PI: BERNA Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 2nd Mode sample value
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	281 data points
+*/
+Sample ID (Sample number)	Sample ID (Acess number from laboratory)	Sample ID (Reference sample in the collect)	Sample comment	Date/Time (of collecting)	Project	Sample method	Latitude (WGS1984)	Longitude (WGS1984)	Gravel [%] (Grain size, sieving)	Sdst [%] (Grain size, sieving)	Mudstone [%] (Grain size, sieving/pipette)	Grain size mean [phi] (Grain size, sieving/pipette, ...)	Std dev [±] (Of sample value, Grain size, ...)	Skew (Grain size, sieving/pipette, ...)	Kurt (Grain size, sieving/pipette, ...)	Mode [phi] (1st Mode sample value, Grain ...)	Mode [phi] (2nd Mode sample value, Grain ...)
+1	1001	P3.Dune	Dune	2005-05-09	BERNA	Hand-Collecting	36.9974	-7.9781	0.80	99.00	0.20	1.023	0.620	-0.033	0.993	1.247	
+2	1002	P3.Upper Beach	Upper Beach	2005-05-09	BERNA	Hand-Collecting	36.9983	-7.9771	1.40	98.40	0.20	1.184	0.555	-0.002	1.094	1.247	
+3	1003	P3.Beach Face	Beach face	2005-05-09	BERNA	Hand-Collecting	36.9978	-7.9777	3.20	96.60	0.30	0.527	0.850	0.085	1.244	0.247	
+4	1004	P3.Tidal Flat	Tidal flat	2005-05-09	BERNA	Hand-Collecting	36.9979	-7.9776	0.50	97.30	2.30	1.420	0.948	0.157	1.124	1.247	
+5	1005	P3.Sand.Spit	Sand spit	2005-05-09	BERNA	Hand-Collecting	36.9983	-7.9772	1.14	98.00	0.60	1.145	0.831	-0.063	1.055	1.247	
+6	1286	P3.Dune	Dune	2006-04-13	BERNA	Hand-Collecting	36.9974	-7.9781	1.30	98.60	0.20	1.212	0.594	0.019	1.112	1.247	
+7	1287	P3.Upper Beach	Upper Beach	2006-04-13	BERNA	Hand-Collecting	36.9983	-7.9771	3.00	96.80	0.10	0.725	0.751	-0.089	1.121	0.747	
+8	1288	P3.Beach Face	Beach face	2006-04-13	BERNA	Hand-Collecting	36.9978	-7.9777	2.20	97.60	0.20	0.736	0.703	-0.038	1.170	0.747	
+9	1289	P3.Tidal Flat	Tidal flat	2006-04-13	BERNA	Hand-Collecting	36.9979	-7.9776	0.80	91.80	7.40	1.447	1.384	0.411	1.688	0.747	
+10	1290	P3.Sand.Spit	Sand spit	2006-04-13	BERNA	Hand-Collecting	36.9983	-7.9772	1.50	91.10	7.30	1.502	1.373	0.345	1.587	1.247	
+11	1468	P3.Dune	Dune	2007-04-03	BERNA	Hand-Collecting	36.9974	-7.9781	0.30	99.40	0.30	1.234	0.566	0.031	1.073	1.247	
+12	1469	P3.Upper Beach	Upper Beach	2007-04-03	BERNA	Hand-Collecting	36.9983	-7.9771	4.80	94.90	0.30	0.856	0.795	-0.208	1.360	0.747	
+13	1470	P3.Beach Face	Beach face	2007-04-03	BERNA	Hand-Collecting	36.9978	-7.9777	4.80	94.80	0.50	0.651	1.047	0.087	0.987	0.247	
+14	1471	P3.Tidal Flat	Tidal flat	2007-04-03	BERNA	Hand-Collecting	36.9979	-7.9776	2.20	93.80	4.00	1.314	1.139	0.206	1.212	0.747	2.737
+15	1472	P3.Sand.Spit	Sand spit	2007-04-03	BERNA	Hand-Collecting	36.9983	-7.9772	2.20	93.80	3.90	1.305	1.049	0.130	1.297	1.247	
+16	1697	P3.Dune	Dune	2008-03-20	BERNA	Hand-Collecting	36.9974	-7.9781	1.30	98.40	0.30	1.161	0.650	-0.046	1.147	1.247	
+17	1698	P3.Upper Beach	Upper Beach	2008-03-20	BERNA	Hand-Collecting	36.9983	-7.9771	0.10	99.50	0.40	1.224	0.506	0.061	0.978	1.247	
+18	1699	P3.Beach Face	Beach face	2008-03-20	BERNA	Hand-Collecting	36.9978	-7.9777	3.30	96.40	0.30	0.494	0.661	-0.152	1.197	0.747	
+19	1700	P3.Tidal Flat	Tidal flat	2008-03-20	BERNA	Hand-Collecting	36.9979	-7.9776	10.50	88.00	1.50	-0.124	0.898	0.045	1.745	-0.243	
+20	1701	P3.Sand.Spit	Sand spit	2008-03-20	BERNA	Hand-Collecting	36.9983	-7.9772	0.90	97.90	1.20	1.091	0.774	-0.089	1.121	1.247	

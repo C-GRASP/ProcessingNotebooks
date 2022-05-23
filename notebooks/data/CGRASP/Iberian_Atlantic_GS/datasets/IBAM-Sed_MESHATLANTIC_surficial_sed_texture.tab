@@ -1,0 +1,55 @@
+/* DATA DESCRIPTION:
+Citation:	MESHATLANTIC Project Members (2013): Sediment characterization for seabed mapping of the Atlantic Area continental shelf within the frame of the MESHATLANTIC project. PANGAEA, https://doi.org/10.1594/PANGAEA.883091, 
+	In supplement to: Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Surficial sediment texture database for the south-western Iberian Atlantic margin. Earth System Science Data, 10(2), 1185-1195, https://doi.org/10.5194/essd-10-1185-2018
+Original version:	Original data of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed) (URI: https://store.pangaea.de/Publications/Coasta-etal_2017/PLOSscripts.zip)
+Further details:	Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Shape files of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed). PANGAEA, https://doi.org/10.1594/PANGAEA.890946
+Coverage:	MEDIAN LATITUDE: 36.994888 * MEDIAN LONGITUDE: -8.764459 * SOUTH-BOUND LATITUDE: 36.973867 * WEST-BOUND LONGITUDE: -8.940330 * NORTH-BOUND LATITUDE: 37.020317 * EAST-BOUND LONGITUDE: -8.459170
+	DATE/TIME START: 2011-11-17T00:00:00 * DATE/TIME END: 2011-12-06T00:00:00
+	MINIMUM ELEVATION: -53.50 m a.s.l. * MAXIMUM ELEVATION: -18.00 m a.s.l.
+Event(s):	IBAM-Sed_MESHATLANTIC * LATITUDE: 37.071100 * LONGITUDE: -8.656600 * DATE/TIME START: 2011-11-17T00:00:00 * DATE/TIME END: 2011-12-06T00:00:00 * METHOD/DEVICE: Dredge (DRG)
+Comment:	MESHATLANTIC (2013). Mapping Atlantic Area seabed habitats for better marine management
+Parameter(s):	Sample ID (Sample ID) * PI: MESHATLANTIC Project Members * COMMENT: Sample number
+	Sample ID (Sample ID) * PI: MESHATLANTIC Project Members * COMMENT: Acess number from laboratory
+	Sample ID (Sample ID) * PI: MESHATLANTIC Project Members * COMMENT: Reference sample in the collect
+	DATE/TIME (Date/Time) * GEOCODE * PI: MESHATLANTIC Project Members * COMMENT: of collecting
+	Project (Project) * PI: MESHATLANTIC Project Members
+	Sample method (Sample method) * PI: MESHATLANTIC Project Members
+	LATITUDE (Latitude) * GEOCODE * PI: MESHATLANTIC Project Members * COMMENT: WGS1984
+	LONGITUDE (Longitude) * GEOCODE * PI: MESHATLANTIC Project Members * COMMENT: WGS1984
+	ELEVATION [m a.s.l.] (Elevation) * GEOCODE * PI: MESHATLANTIC Project Members * COMMENT: Relative to mean sea level (m)
+	Gravel [%] (Gravel) * PI: MESHATLANTIC Project Members * METHOD/DEVICE: Grain size, sieving
+	Sandstone [%] (Sdst) * PI: MESHATLANTIC Project Members * METHOD/DEVICE: Grain size, sieving
+	Mudstone [%] (Mudstone) * PI: MESHATLANTIC Project Members * METHOD/DEVICE: Grain size, sieving/pipette
+	Grain size, mean [phi] (Grain size mean) * PI: MESHATLANTIC Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Standard deviation [±] (Std dev) * PI: MESHATLANTIC Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: Of sample value
+	Skewness (Skew) * PI: MESHATLANTIC Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Kurtosis (Kurt) * PI: MESHATLANTIC Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Mode, grain size [phi] (Mode) * PI: MESHATLANTIC Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 1st Mode sample value
+	Mode, grain size [phi] (Mode) * PI: MESHATLANTIC Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 2nd Mode sample value
+	Mode, grain size [phi] (Mode) * PI: MESHATLANTIC Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 3rd Mode sample value
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	290 data points
+*/
+Sample ID (Sample number)	Sample ID (Acess number from laboratory)	Sample ID (Reference sample in the collect)	Date/Time (of collecting)	Project	Sample method	Latitude (WGS1984)	Longitude (WGS1984)	Elevation [m a.s.l.] (Relative to mean sea level (m))	Gravel [%] (Grain size, sieving)	Sdst [%] (Grain size, sieving)	Mudstone [%] (Grain size, sieving/pipette)	Grain size mean [phi] (Grain size, sieving/pipette, ...)	Std dev [±] (Of sample value, Grain size, ...)	Skew (Grain size, sieving/pipette, ...)	Kurt (Grain size, sieving/pipette, ...)	Mode [phi] (1st Mode sample value, Grain ...)	Mode [phi] (2nd Mode sample value, Grain ...)	Mode [phi] (3rd Mode sample value, Grain ...)
+1	2506	MeshAA_Grabs_001	2011-11-17T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	36.98976700	-8.940330000	-23.20	0.10	99.90	0.00	1.869	0.363	0.051	1.083	1.747		
+2	2507	MeshAA_Grabs_002	2011-11-17T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	36.97648300	-8.937770000	-30.50	0.10	99.90	0.00	2.059	0.369	-0.360	1.045	2.237		
+3	2508	MeshAA_Grabs_003	2011-11-17T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	36.97481700	-8.937120000	-32.80	0.00	100.00	0.00	2.117	0.311	-0.272	1.207	2.237		
+4	2509	MeshAA_Grabs_004	2011-11-17T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	36.97386700	-8.937050000	-41.10	0.10	99.80	0.10	2.029	0.397	-0.361	1.032	2.237		
+5	2510	MeshAA_Grabs_005	2011-11-17T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	36.99158300	-8.936620000	-18.00	0.00	99.90	0.10	2.032	0.375	-0.092	0.918	2.237		
+6	2511	MeshAA_Grabs_006	2011-11-17T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	36.99313300	-8.925420000	-22.00	0.00	100.00	0.00	1.838	0.363	0.041	1.167	1.747		
+7	2512	MeshAA_Grabs_007	2011-11-17T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	37.00211700	-8.919570000	-22.00	0.00	100.00	0.00	1.858	0.387	0.005	1.044	1.747		
+8	2513	MeshAA_Grabs_008	2011-11-17T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	36.98823300	-8.917850000	-38.80	0.00	100.00	0.00	2.010	0.350	-0.230	0.851	2.237		
+9	2514	MeshAA_Grabs_009	2011-11-17T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	37.00133300	-8.916730000	-22.00	0.00	100.00	0.00	1.836	0.375	0.031	1.121	1.747		
+10	2515	MeshAA_Grabs_010	2011-11-17T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	37.02031700	-8.900320000	-23.90	0.10	99.90	0.00	1.942	0.392	0.023	0.957	1.747		
+11	2516	MeshAA_Grabs_011	2011-11-17T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	37.00761700	-8.889780000	-24.20	0.10	99.90	0.00	2.003	0.406	0.009	0.978	2.237		
+12	2517	MeshAA_Grabs_012	2011-11-17T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	37.00693300	-8.889300000	-23.20	0.10	99.90	0.00	1.926	0.383	0.029	0.944	1.747		
+13	2518	MeshAA_Grabs_013	2011-11-17T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	37.00630000	-8.888980000	-23.20	0.10	99.80	0.10	1.997	0.401	0.012	0.966	2.237		
+14	2519	MeshAA_Grabs_014	2011-11-17T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	37.00258000	-8.886220000	-22.40	0.10	99.80	0.10	1.957	0.521	0.136	1.183	1.747		
+15	2543	MeshAA_Grabp_015	2011-12-06T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	37.00338300	-8.536830000	-52.00	33.30	48.40	18.30	0.864	3.515	0.449	1.090	-1.243	3.237	9.466
+16	2544	MeshAA_Grabp_016	2011-12-06T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	36.98658300	-8.536230000	-53.50	3.80	94.00	2.30	1.193	1.004	-0.081	1.233	1.247		
+17	2545	MeshAA_Grabp_017	2011-12-06T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	37.00283300	-8.507970000	-48.00	34.10	64.40	1.50	-0.544	1.093	0.135	1.111	-0.743		
+18	2546	MeshAA_Grabp_018	2011-12-06T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	36.98501700	-8.509330000	-52.70	0.40	97.90	1.80	1.507	0.854	0.025	1.002	1.247		
+19	2547	MeshAA_Grabp_019	2011-12-06T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	37.00265000	-8.487850000	-49.80	29.00	48.30	22.70	1.321	3.927	0.322	1.035	0.747	-3.243	9.466
+20	2548	MeshAA_Grabp_020	2011-12-06T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	36.98533300	-8.487730000	-48.80	7.30	92.50	0.20	0.170	0.846	-0.004	0.990	0.247		
+21	2549	MeshAA_Grabp_021	2011-12-06T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	37.00036700	-8.469930000	-50.90	2.70	95.20	2.10	1.557	0.973	-0.007	1.199	1.247		
+22	2550	MeshAA_Grabp_022	2011-12-06T00:00	MeshAtlantic	SMT-Dredge SmitMacIntyre	36.98630000	-8.459170000	-50.90	4.40	86.50	9.10	2.043	1.658	0.125	2.992	2.237		

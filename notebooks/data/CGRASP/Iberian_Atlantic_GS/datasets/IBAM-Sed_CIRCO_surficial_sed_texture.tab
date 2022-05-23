@@ -1,0 +1,51 @@
+/* DATA DESCRIPTION:
+Citation:	CIRCO Project Members (2011): Surficial sediment characterization of the Guadiana estuary to evaluate changes in the surface sediments relative to previous analysis within the frame of the CIRCO project. PANGAEA, https://doi.org/10.1594/PANGAEA.883085, 
+	In supplement to: Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Surficial sediment texture database for the south-western Iberian Atlantic margin. Earth System Science Data, 10(2), 1185-1195, https://doi.org/10.5194/essd-10-1185-2018
+Related to:	Mendes, Isabel Maria de Paiva Pinto; Rosa, F; Dias, Joao Alveirinho; Schönfeld, Joachim; Ferreira, Óscar; Pinheiro, J (2010): Inner shelf paleoenvironmental evolution as a function of land-ocean interactions in the vicinity of the Guadiana River, SW Iberia. Quaternary International, 221(1-2), 58-67, https://doi.org/10.1016/j.quaint.2009.10.037
+Original version:	Original data of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed) (URI: https://store.pangaea.de/Publications/Coasta-etal_2017/PLOSscripts.zip)
+Further details:	Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Shape files of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed). PANGAEA, https://doi.org/10.1594/PANGAEA.890946
+Coverage:	MEDIAN LATITUDE: 37.151776 * MEDIAN LONGITUDE: -7.401386 * SOUTH-BOUND LATITUDE: 37.130853 * WEST-BOUND LONGITUDE: -7.434361 * NORTH-BOUND LATITUDE: 37.170500 * EAST-BOUND LONGITUDE: -7.369548
+	DATE/TIME START: 2010-12-10T00:00:00 * DATE/TIME END: 2010-12-10T00:00:00
+Event(s):	IBAM-Sed_CIRCO * LATITUDE: 37.167100 * LONGITUDE: -7.392800 * DATE/TIME START: 2010-12-10T00:00:00 * DATE/TIME END: 2010-12-10T00:00:00 * METHOD/DEVICE: Dredge (DRG)
+Comment:	CIRCO (2011). Climatic Changes from Isotopic Records during the Holocene in Southwest Iberia
+Parameter(s):	Sample ID (Sample ID) * PI: CIRCO Project Members * COMMENT: Sample number
+	Sample ID (Sample ID) * PI: CIRCO Project Members * COMMENT: Acess number from laboratory
+	Sample ID (Sample ID) * PI: CIRCO Project Members * COMMENT: Reference sample in the collect
+	DATE/TIME (Date/Time) * GEOCODE * PI: CIRCO Project Members * COMMENT: of collecting
+	Project (Project) * PI: CIRCO Project Members
+	Sample method (Sample method) * PI: CIRCO Project Members
+	LATITUDE (Latitude) * GEOCODE * PI: CIRCO Project Members
+	LONGITUDE (Longitude) * GEOCODE * PI: CIRCO Project Members
+	Gravel [%] (Gravel) * PI: CIRCO Project Members * METHOD/DEVICE: Grain size, sieving
+	Sandstone [%] (Sdst) * PI: CIRCO Project Members * METHOD/DEVICE: Grain size, sieving
+	Mudstone [%] (Mudstone) * PI: CIRCO Project Members * METHOD/DEVICE: Grain size, sieving/pipette
+	Grain size, mean [phi] (Grain size mean) * PI: CIRCO Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Standard deviation [±] (Std dev) * PI: CIRCO Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: Of sample value
+	Skewness (Skew) * PI: CIRCO Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Kurtosis (Kurt) * PI: CIRCO Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method
+	Mode, grain size [phi] (Mode) * PI: CIRCO Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 1st Mode sample value
+	Mode, grain size [phi] (Mode) * PI: CIRCO Project Members * METHOD/DEVICE: Grain size, sieving/pipette, Folk and Ward method * COMMENT: 2nd Mode sample value
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	263 data points
+*/
+Sample ID (Sample number)	Sample ID (Acess number from laboratory)	Sample ID (Reference sample in the collect)	Date/Time (of collecting)	Project	Sample method	Latitude	Longitude	Gravel [%] (Grain size, sieving)	Sdst [%] (Grain size, sieving)	Mudstone [%] (Grain size, sieving/pipette)	Grain size mean [phi] (Grain size, sieving/pipette, ...)	Std dev [±] (Of sample value, Grain size, ...)	Skew (Grain size, sieving/pipette, ...)	Kurt (Grain size, sieving/pipette, ...)	Mode [phi] (1st Mode sample value, Grain ...)	Mode [phi] (2nd Mode sample value, Grain ...)
+1	2415	MORSE1	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1705	-7.433	2.00	90.80	7.20	3.054	0.887	-0.242	1.180	3.731	
+2	2416	MORSE2	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1652	-7.433	9.40	86.20	4.50	3.112	1.357	-0.436	3.429	3.237	
+3	2417	MORSE3	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1559	-7.434	0.30	37.60	62.10	4.229	1.032	0.363	2.297	3.731	
+4	2418	MORSE4	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1527	-7.434	0.20	32.00	67.80	4.258	0.960	0.304	2.336	4.477	
+5	2419	MORSE5	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1623	-7.417	0.00	95.60	4.40	3.173	0.422	-0.016	1.275	3.237	
+6	2420	MORSE6	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1557	-7.417	1.20	55.00	43.80	4.009	1.110	0.442	2.300	3.731	
+7	2421	MORSE7	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1497	-7.418	0.10	39.10	60.90	4.202	1.049	0.323	2.319	3.731	
+8	2422	MORSE8 a)	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1424	-7.418	0.00	32.40	67.60	4.261	0.962	0.316	2.347	4.477	
+9	2423	MORSE8 b)	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1615	-7.400	0.10	22.30	77.70	5.474	1.856	0.678	2.565	4.477	8.466
+10	2424	MORSE9	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1535	-7.400	42.30	57.70	0.00	-0.983	1.430	-0.278	0.967	-0.243	-4.243
+11	2425	MORSE10	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1453	-7.400	0.20	99.50	0.30	1.456	0.547	-0.099	1.067	1.747	
+12	2426	MORSE11	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1395	-7.400	1.80	86.00	12.20	3.493	0.557	0.006	1.325	3.731	
+13	2427	MORSE12	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1638	-7.386	7.30	77.10	15.60	3.346	1.511	-0.409	3.965	3.237	-3.243
+14	2428	MORSE13	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1529	-7.386	0.00	99.70	0.30	2.030	0.494	-0.012	1.031	2.237	
+15	2429	MORSE14	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1433	-7.385	0.10	99.30	0.60	2.155	0.679	0.135	0.996	1.747	
+16	2430	MORSE15	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1309	-7.386	3.00	91.70	5.30	2.884	0.908	-0.275	1.334	3.237	
+18	2431	MORSE16	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1669	-7.370	10.70	89.00	0.30	0.273	0.993	-0.192	1.476	0.247	
+19	2432	MORSE18	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1525	-7.370	0.30	98.90	0.80	2.347	0.622	-0.119	1.030	2.737	
+20	2433	MORSE19	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1399	-7.370	6.40	90.40	3.20	1.490	1.095	-0.264	2.100	1.747	
+21	2434	MORSE20	2010-12-10	CIRCO	Dredge Petit Ponnar	37.1311	-7.370	0.60	99.00	0.40	1.677	0.490	-0.081	1.172	1.747	

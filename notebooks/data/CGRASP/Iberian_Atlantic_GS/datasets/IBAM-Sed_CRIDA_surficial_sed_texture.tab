@@ -1,0 +1,79 @@
+/* DATA DESCRIPTION:
+Citation:	CRIDA Project Members (2005): Sedimentological analysis of the beaches located updrift and downdrift the Guadiana river mouth of the Guadiana within the frame of the CRIDA project. PANGAEA, https://doi.org/10.1594/PANGAEA.883086, 
+	In supplement to: Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Surficial sediment texture database for the south-western Iberian Atlantic margin. Earth System Science Data, 10(2), 1185-1195, https://doi.org/10.5194/essd-10-1185-2018
+Original version:	Original data of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed) (URI: https://store.pangaea.de/Publications/Coasta-etal_2017/PLOSscripts.zip)
+Further details:	Costas, Susana; Ramires, Margarida; de Sousa, Luisa B; Mendes, Isabel Maria de Paiva Pinto; Ferreira, Óscar (2018): Shape files of surficial sediment texture from the Iberian Atlantic Margin Sediments Database (IBAM-Sed). PANGAEA, https://doi.org/10.1594/PANGAEA.890946
+Coverage:	MEDIAN LATITUDE: 37.176069 * MEDIAN LONGITUDE: -7.402403 * SOUTH-BOUND LATITUDE: 37.166940 * WEST-BOUND LONGITUDE: -7.503750 * NORTH-BOUND LATITUDE: 37.198250 * EAST-BOUND LONGITUDE: -7.294778
+	DATE/TIME START: 2003-07-31T00:00:00 * DATE/TIME END: 2003-12-05T00:00:00
+Event(s):	IBAM-Sed_CRIDA * LATITUDE: 37.205900 * LONGITUDE: -7.390000 * DATE/TIME START: 2003-07-31T00:00:00 * DATE/TIME END: 2003-12-05T00:00:00 * METHOD/DEVICE: Sampling by hand (HAND)
+Comment:	Project CRIDA "Consequences of River Discharge Modifications on Coastal Zone and Continental Shelf" Reference: POCTI/P/MAR/15289/99
+Parameter(s):	Sample ID (Sample ID) * PI: CRIDA Project Members * COMMENT: Sample number
+	Sample ID (Sample ID) * PI: CRIDA Project Members * COMMENT: Acess number from laboratory
+	Sample ID (Sample ID) * PI: CRIDA Project Members * COMMENT: Reference sample in the collect
+	DATE/TIME (Date/Time) * GEOCODE * PI: CRIDA Project Members * COMMENT: of collecting
+	Project (Project) * PI: CRIDA Project Members
+	Sample method (Sample method) * PI: CRIDA Project Members
+	LATITUDE (Latitude) * GEOCODE * PI: CRIDA Project Members
+	LONGITUDE (Longitude) * GEOCODE * PI: CRIDA Project Members
+	Gravel [%] (Gravel) * PI: CRIDA Project Members * METHOD/DEVICE: Grain size, sieving
+	Sandstone [%] (Sdst) * PI: CRIDA Project Members * METHOD/DEVICE: Grain size, sieving
+	Mudstone [%] (Mudstone) * PI: CRIDA Project Members * METHOD/DEVICE: Grain size, sieving
+	Grain size, mean [phi] (Grain size mean) * PI: CRIDA Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Standard deviation [±] (Std dev) * PI: CRIDA Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: Of sample value
+	Skewness (Skew) * PI: CRIDA Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Kurtosis (Kurt) * PI: CRIDA Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method
+	Mode, grain size [phi] (Mode) * PI: CRIDA Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: 1st Mode sample value
+	Mode, grain size [phi] (Mode) * PI: CRIDA Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: 2nd Mode sample value
+	Mode, grain size [phi] (Mode) * PI: CRIDA Project Members * METHOD/DEVICE: Grain size, sieving, Folk and Ward method * COMMENT: 3rd Mode sample value
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	693 data points
+*/
+Sample ID (Sample number)	Sample ID (Acess number from laboratory)	Sample ID (Reference sample in the collect)	Date/Time (of collecting)	Project	Sample method	Latitude	Longitude	Gravel [%] (Grain size, sieving)	Sdst [%] (Grain size, sieving)	Mudstone [%] (Grain size, sieving)	Grain size mean [phi] (Grain size, sieving, Folk and...)	Std dev [±] (Of sample value, Grain size, ...)	Skew (Grain size, sieving, Folk and...)	Kurt (Grain size, sieving, Folk and...)	Mode [phi] (1st Mode sample value, Grain ...)	Mode [phi] (2nd Mode sample value, Grain ...)	Mode [phi] (3rd Mode sample value, Grain ...)
+1	940	HM1	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.168610	-7.403056	4.00	95.50	0.50	1.797	1.049	-0.236	0.756	2.737	1.747	0.747
+2	941	HM2	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.170220	-7.408139	2.00	97.80	0.20	1.131	0.751	0.336	1.082	0.747	1.747	
+3	942	HM3	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.171500	-7.413444	5.70	94.20	0.10	1.143	0.912	0.111	1.380	1.747	0.747	2.737
+4	943	HM4	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.173810	-7.424417	1.70	98.00	0.30	2.115	0.622	0.200	0.844	1.747	2.737	
+5	944	HM5	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.175970	-7.436528	0.00	99.90	0.10	1.393	0.520	-0.454	0.588	1.747	0.747	
+6	945	HM6	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.176530	-7.447917	0.10	99.80	0.10	1.444	0.656	-0.214	0.890	1.747	0.747	2.737
+7	946	HM7	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.176640	-7.459250	0.00	9.90	0.10	1.974	0.612	0.255	2.331	1.747	2.737	0.747
+8	947	HM8	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.175330	-7.470611	0.50	99.40	0.10	1.479	0.613	-0.285	0.990	1.747	0.747	
+9	948	HM9	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.173190	-7.481667	0.60	99.30	0.10	0.768	0.408	0.035	2.550	0.747	1.747	
+10	949	HM10	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.170610	-7.492806	2.30	97.60	0.10	0.459	0.499	-0.545	0.665	0.747	-0.243	
+11	950	HM11	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.167780	-7.503750	3.10	96.90	0.00	0.480	0.650	-0.253	0.973	0.747	-0.243	1.747
+12	951	HM12	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.167110	-7.378500	0.00	99.90	0.10	1.740	0.370	-0.034	2.463	1.747		
+13	952	HM13	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.167440	-7.381778	0.00	99.90	0.10	1.987	0.460	0.557	1.688	1.747	2.737	
+14	953	HM14	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.171750	-7.395472	0.00	99.90	0.10	1.771	0.378	0.069	2.400	1.747	2.737	
+15	954	HM15	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.183690	-7.400528	0.30	99.60	0.10	2.037	0.579	0.320	0.903	1.747	2.737	
+16	955	HM16	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.178140	-7.397194	11.50	88.30	0.20	1.051	1.375	-0.019	0.903	1.747	0.747	-0.243
+17	956	HM17	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.174670	-7.386917	13.50	85.30	1.20	1.165	1.406	-0.674	2.299	1.747	0.747	
+18	957	HM18	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.171920	-7.376111	32.50	67.40	0.10	0.127	1.884	-0.419	0.747	1.747	-2.243	0.747
+19	958	HM19	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.173310	-7.366306	3.10	96.70	0.20	1.615	1.059	-0.004	0.733	0.747	2.737	1.747
+20	959	HM20	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.175920	-7.355472	0.70	98.90	0.40	1.913	0.961	-0.016	1.051	2.737	1.747	0.747
+21	960	HM21	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.179330	-7.345306	0.90	99.00	0.10	1.745	0.712	-0.009	2.428	1.747	2.737	0.747
+22	961	HM22	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.190170	-7.322250	0.60	99.20	0.20	1.826	0.803	-0.009	0.944	1.747	2.737	0.747
+23	962	HM23	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.193360	-7.312472	21.70	78.20	0.10	0.373	1.669	-0.330	1.170	0.747	1.747	-0.243
+24	963	HM24	2003-07-31	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.198250	-7.294778	0.60	99.30	0.10	1.505	0.568	-0.329	2.382	1.747	0.747	
+25	964	HM1	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.168610	-7.403056	0.10	99.90	0.00	2.118	0.623	0.199	0.833	1.747	2.737	
+26	965	HM2	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.170220	-7.408139	0.30	99.70	0.00	2.139	0.518	0.408	0.585	1.747	2.737	
+27	966	HM3	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.171500	-7.413444	0.00	100.00	0.00	1.742	0.712	-0.006	2.381	1.747	0.747	2.737
+28	967	HM4	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.173810	-7.424417	0.00	100.00	0.00	2.087	0.596	0.279	0.819	1.747	2.737	
+29	968	HM5	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.175970	-7.436528	0.30	99.70	0.00	1.405	0.679	-0.129	0.851	0.747	1.747	2.737
+30	969	HM6	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.176530	-7.447917	0.50	99.50	0.00	1.697	0.750	-0.038	2.281	1.747	0.747	2.737
+31	970	HM7	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.166940	-7.377500	0.30	99.70	0.00	1.143	0.733	0.362	1.039	0.747	1.747	
+32	971	HM8	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.176640	-7.459250	0.00	100.00	0.00	1.535	0.576	-0.283	2.448	1.747	0.747	
+33	972	HM9	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.175330	-7.470611	1.10	98.90	0.00	1.394	0.768	-0.312	1.086	1.747	0.747	2.737
+34	973	HM10	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.173190	-7.481667	1.40	98.60	0.00	1.097	0.680	0.144	0.865	0.747	1.747	-0.243
+35	974	HM11	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.170610	-7.492806	4.90	98.10	0.00	0.689	0.851	0.010	0.927	0.747	-0.243	1.747
+36	975	HM12	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.167780	-7.503750	0.00	100.00	0.00	2.096	0.505	0.491	0.601	1.747	2.737	
+37	976	HM13	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.168330	-7.382778	0.10	99.90	0.00	2.124	0.521	0.407	0.587	1.747	2.737	
+38	977	HM14	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.171940	-7.395833	0.00	100.00	0.00	1.773	0.404	0.039	2.486	1.747	2.737	
+39	978	HM15	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.183890	-7.406111	0.00	100.00	0.00	2.115	0.515	0.444	0.590	1.747	2.737	
+40	979	HM16	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.178060	-7.397222	0.00	100.00	0.00	2.047	0.494	0.537	0.651	1.747	2.737	
+41	980	HM17	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.174720	-7.386667	1.50	98.50	0.00	1.948	0.622	0.230	2.440	1.747	2.737	0.747
+42	981	HM18	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.171670	-7.376389	0.00	100.00	0.00	2.323	0.513	-0.363	0.583	1.747	2.737	
+43	982	HM19	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.173310	-7.366306	0.00	100.00	0.00	2.352	0.512	-0.422	0.586	2.737	1.747	
+44	983	HM20	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.175920	-7.355472	0.00	100.00	0.00	1.791	0.782	0.012	2.094	1.747	2.737	0.747
+45	984	HM21	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.179330	-7.345306	0.00	100.00	0.00	2.028	0.568	0.343	0.916	1.747	2.737	
+46	985	HM22	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.190170	-7.322250	0.60	99.40	0.00	1.448	0.659	-0.239	0.910	1.747	0.747	2.737
+47	986	HM23	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.193360	-7.312472	0.00	100.00	0.00	2.073	0.636	0.219	0.888	1.747	2.737	0.747
+48	987	HM24	2003-12-05	CRIDA_HM.Beaches Guadiana	Hand-Collecting	37.198250	-7.294778	1.40	98.60	0.00	2.083	0.509	0.497	0.609	1.747	2.737	
