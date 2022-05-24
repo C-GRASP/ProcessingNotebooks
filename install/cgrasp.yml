@@ -1,0 +1,21 @@
+##conda env create --file install/cgrasp.yml
+name: cgrasp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - geopandas
+  - shapely
+  - scikit-learn
+  - numpy
+  - cartopy
+  - jupyter
+  - ipython
+  - verde
+  - matplotlib
+  - tqdm
+  - pip
+  - pingouin
+  - pygeos
