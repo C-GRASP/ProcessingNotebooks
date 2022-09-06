@@ -2,6 +2,10 @@ Description of the two files:
 - US_East_coast_slopes_by_beach.geojson
 - US_East_coast_slopes_by_transect.geojson
 
+Note that there are more recent updated versions:
+- v2 was corrected by directly adjusting the time-series to remove intra-satellite biases.
+- v3 was reprocessed with pansharpening switched off (best product)
+
 1. US_East_coast_slopes_by_beach.geojson: contains a geospatial layer with each individual beach/embayment (as a linestring).
 Each feature has the following attributes:
   - id: Database id for each beach, e.g., usa_FL_0001,  usa_FL_0002, etc...
