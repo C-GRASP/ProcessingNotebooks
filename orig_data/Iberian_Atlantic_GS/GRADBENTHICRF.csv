@@ -1,0 +1,10 @@
+﻿Sample ID (Sample number),Sample ID (Acess number from laboratory),Sample ID (Reference sample in the collect),Date/Time (of collecting),Project,Latitude (WGS1984),Longitude (WGS1984),"Gravel [%] (Grain size, sieving)","Sdst [%] (Grain size, sieving)","Mudstone [%] (Grain size, sieving/pipette)","Grain size mean [phi] (Grain size, sieving/pipette, ...)","Std dev [±] (Of sample value, Grain size, ...)","Skew (Grain size, sieving/pipette, ...)","Kurt (Grain size, sieving/pipette, ...)","Mode [phi] (1st Mode sample value, Grain ...)","Mode [phi] (2nd Mode sample value, Grain ...)","Mode [phi] (3rd Mode sample value, Grain ...)"
+1,2903,AIs,11/16/2015,Graduation_Study of benthic community of Ria Formosa,36.991613,-7.968307,6,94,0,0.736,0.925,-0.226,1.108,1.247,,
+2,2904,AIIs,11/16/2015,Graduation_Study of benthic community of Ria Formosa,36.991447,-7.968196,1.5,97.3,1.1,1.062,0.657,-0.076,1.212,1.247,,
+3,2905,AIIIs,11/16/2015,Graduation_Study of benthic community of Ria Formosa,36.991308,-7.968168,1.1,96.9,2,1.042,0.636,0.021,1.154,1.247,,
+4,2906,BIs,11/16/2015,Graduation_Study of benthic community of Ria Formosa,36.989113,-7.963501,3.3,95,1.7,1.016,0.906,-0.172,1.091,1.247,,
+5,2907,BIIs,11/16/2015,Graduation_Study of benthic community of Ria Formosa,36.989058,-7.963473,1.9,97.3,0.8,1.04,0.767,-0.123,1.084,1.247,,
+6,2908,BIIIs,11/16/2015,Graduation_Study of benthic community of Ria Formosa,36.988974,-7.963418,1.4,95.8,2.8,1.176,0.762,-0.01,1.186,1.247,,
+7,2909,CIs,11/16/2015,Graduation_Study of benthic community of Ria Formosa,36.98453,-7.955,0.9,97.3,1.8,1.282,1.113,0.335,1.201,0.747,2.737,
+8,2910,CIIs,11/16/2015,Graduation_Study of benthic community of Ria Formosa,36.984613,-7.955111,8.9,83,8.1,1.35,2.206,0.162,1.338,0.747,3.237,-3.743
+9,2911,CIIIs,11/16/2015,Graduation_Study of benthic community of Ria Formosa,36.984724,-7.955167,2.3,96.8,0.9,0.977,1.08,0.253,1.342,0.747,2.737,

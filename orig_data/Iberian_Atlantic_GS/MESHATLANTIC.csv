@@ -1,0 +1,23 @@
+﻿Sample ID (Sample number),Sample ID (Acess number from laboratory),Sample ID (Reference sample in the collect),Date/Time (of collecting),Project,Sample method,Latitude (WGS1984),Longitude (WGS1984),Elevation [m a.s.l.] (Relative to mean sea level (m)),"Gravel [%] (Grain size, sieving)","Sdst [%] (Grain size, sieving)","Mudstone [%] (Grain size, sieving/pipette)","Grain size mean [phi] (Grain size, sieving/pipette, ...)","Std dev [±] (Of sample value, Grain size, ...)","Skew (Grain size, sieving/pipette, ...)","Kurt (Grain size, sieving/pipette, ...)","Mode [phi] (1st Mode sample value, Grain ...)","Mode [phi] (2nd Mode sample value, Grain ...)","Mode [phi] (3rd Mode sample value, Grain ...)"
+1,2506,MeshAA_Grabs_001,2011-11-17T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,36.989767,-8.94033,-23.2,0.1,99.9,0,1.869,0.363,0.051,1.083,1.747,,
+2,2507,MeshAA_Grabs_002,2011-11-17T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,36.976483,-8.93777,-30.5,0.1,99.9,0,2.059,0.369,-0.36,1.045,2.237,,
+3,2508,MeshAA_Grabs_003,2011-11-17T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,36.974817,-8.93712,-32.8,0,100,0,2.117,0.311,-0.272,1.207,2.237,,
+4,2509,MeshAA_Grabs_004,2011-11-17T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,36.973867,-8.93705,-41.1,0.1,99.8,0.1,2.029,0.397,-0.361,1.032,2.237,,
+5,2510,MeshAA_Grabs_005,2011-11-17T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,36.991583,-8.93662,-18,0,99.9,0.1,2.032,0.375,-0.092,0.918,2.237,,
+6,2511,MeshAA_Grabs_006,2011-11-17T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,36.993133,-8.92542,-22,0,100,0,1.838,0.363,0.041,1.167,1.747,,
+7,2512,MeshAA_Grabs_007,2011-11-17T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,37.002117,-8.91957,-22,0,100,0,1.858,0.387,0.005,1.044,1.747,,
+8,2513,MeshAA_Grabs_008,2011-11-17T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,36.988233,-8.91785,-38.8,0,100,0,2.01,0.35,-0.23,0.851,2.237,,
+9,2514,MeshAA_Grabs_009,2011-11-17T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,37.001333,-8.91673,-22,0,100,0,1.836,0.375,0.031,1.121,1.747,,
+10,2515,MeshAA_Grabs_010,2011-11-17T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,37.020317,-8.90032,-23.9,0.1,99.9,0,1.942,0.392,0.023,0.957,1.747,,
+11,2516,MeshAA_Grabs_011,2011-11-17T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,37.007617,-8.88978,-24.2,0.1,99.9,0,2.003,0.406,0.009,0.978,2.237,,
+12,2517,MeshAA_Grabs_012,2011-11-17T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,37.006933,-8.8893,-23.2,0.1,99.9,0,1.926,0.383,0.029,0.944,1.747,,
+13,2518,MeshAA_Grabs_013,2011-11-17T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,37.0063,-8.88898,-23.2,0.1,99.8,0.1,1.997,0.401,0.012,0.966,2.237,,
+14,2519,MeshAA_Grabs_014,2011-11-17T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,37.00258,-8.88622,-22.4,0.1,99.8,0.1,1.957,0.521,0.136,1.183,1.747,,
+15,2543,MeshAA_Grabp_015,2011-12-06T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,37.003383,-8.53683,-52,33.3,48.4,18.3,0.864,3.515,0.449,1.09,-1.243,3.237,9.466
+16,2544,MeshAA_Grabp_016,2011-12-06T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,36.986583,-8.53623,-53.5,3.8,94,2.3,1.193,1.004,-0.081,1.233,1.247,,
+17,2545,MeshAA_Grabp_017,2011-12-06T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,37.002833,-8.50797,-48,34.1,64.4,1.5,-0.544,1.093,0.135,1.111,-0.743,,
+18,2546,MeshAA_Grabp_018,2011-12-06T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,36.985017,-8.50933,-52.7,0.4,97.9,1.8,1.507,0.854,0.025,1.002,1.247,,
+19,2547,MeshAA_Grabp_019,2011-12-06T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,37.00265,-8.48785,-49.8,29,48.3,22.7,1.321,3.927,0.322,1.035,0.747,-3.243,9.466
+20,2548,MeshAA_Grabp_020,2011-12-06T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,36.985333,-8.48773,-48.8,7.3,92.5,0.2,0.17,0.846,-0.004,0.99,0.247,,
+21,2549,MeshAA_Grabp_021,2011-12-06T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,37.000367,-8.46993,-50.9,2.7,95.2,2.1,1.557,0.973,-0.007,1.199,1.247,,
+22,2550,MeshAA_Grabp_022,2011-12-06T00:00,MeshAtlantic,SMT-Dredge SmitMacIntyre,36.9863,-8.45917,-50.9,4.4,86.5,9.1,2.043,1.658,0.125,2.992,2.237,,

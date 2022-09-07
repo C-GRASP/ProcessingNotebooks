@@ -1,0 +1,15 @@
+﻿Sample ID (Sample number),Sample ID (Acess number from laboratory),Sample ID (Reference sample in the collect),Sample comment,Date/Time (of collecting),Project,Sample method,Latitude,Longitude,"Gravel [%] (Grain size, sieving)","Sdst [%] (Grain size, sieving)","Mudstone [%] (Grain size, sieving)","Grain size mean [phi] (Grain size, sieving, Folk and...)","Std dev [±] (Of sample value, Grain size, ...)","Skew (Grain size, sieving, Folk and...)","Kurt (Grain size, sieving, Folk and...)","Mode [phi] (1st Mode sample value, Grain ...)","Mode [phi] (2nd Mode sample value, Grain ...)"
+1,1930,P3L1,Upper Beach,3/26/2009,MICORE,Hand-Collecting,37.0064,-7.9929,0,100,0,1.08,0.521,-0.022,1.043,1.247,
+2,1931,P3L2,Upper Beach,3/26/2009,MICORE,Hand-Collecting,37.0063,-7.993,0.7,99.3,0,0.711,0.574,-0.042,1.019,0.747,
+3,1932,P3L3,Upper Beach,3/26/2009,MICORE,Hand-Collecting,37.0063,-7.9931,0.5,99.5,0,0.828,0.589,-0.026,1.065,0.747,
+4,1933,P3L4,Upper Beach,3/26/2009,MICORE,Hand-Collecting,37.0062,-7.9932,0.3,99.7,0,1.136,0.544,-0.073,1.028,1.247,
+5,1934,P3L5,Lower Beach,3/26/2009,MICORE,Hand-Collecting,37.0062,-7.9933,0,100,0,0.579,0.359,-0.127,0.929,0.747,
+6,1935,P3L6,Lower Beach,3/26/2009,MICORE,Hand-Collecting,37.0061,-7.9934,1.1,98.9,0,0.089,0.435,-0.085,1.085,0.247,
+7,1936,P3L7,Lower Beach,3/26/2009,MICORE,Hand-Collecting,37.0061,-7.9935,3.3,96.7,0,0.026,0.43,-0.247,1.059,0.247,
+8,1937,P5L1,Upper Beach,3/26/2009,MICORE,Hand-Collecting,37.0062,-7.9927,0.1,99.9,0,0.775,0.565,-0.02,1.048,0.747,
+9,1938,P5L2,Upper Beach,3/26/2009,MICORE,Hand-Collecting,37.0062,-7.9928,0.4,99.6,0,0.765,0.608,-0.065,1.01,0.747,
+10,1939,P5L3,Upper Beach,3/26/2009,MICORE,Hand-Collecting,37.0062,-7.9929,2,98,0,0.786,0.647,-0.09,1.089,0.747,
+11,1940,P5L4,Upper Beach,3/26/2009,MICORE,Hand-Collecting,37.0061,-7.993,0,100,0,0.731,0.477,0.034,0.916,0.747,
+12,1941,P5L5,Lower Beach,3/26/2009,MICORE,Hand-Collecting,37.0061,-7.9931,0,100,0,0.736,0.447,-0.003,1.042,0.747,
+13,1942,P5L6,Lower Beach,3/26/2009,MICORE,Hand-Collecting,37.006,-7.9932,6.8,93.2,0,0.023,0.571,-0.228,1.32,0.247,
+14,1943,P5L7,Lower Beach,3/26/2009,MICORE,Hand-Collecting,37.006,-7.9933,24.4,75.6,0,-0.618,1.279,-0.378,1.814,-0.243,-3.243

@@ -1,0 +1,16 @@
+﻿Sample ID (Sample number),Sample ID (Acess number from laboratory),Sample ID (Reference sample in the collect),Sample comment,Date/Time (of collecting),Project,Sample method,Latitude,Longitude,"Gravel [%] (Grain size, sieving)","Sdst [%] (Grain size, sieving)","Mudstone [%] (Grain size, sieving)","Grain size mean [phi] (Grain size, sieving, Folk and...)","Std dev [±] (Of sample value, Grain size, ...)","Skew (Grain size, sieving, Folk and...)","Kurt (Grain size, sieving, Folk and...)","Mode [phi] (1st Mode sample value, Grain ...)","Mode [phi] (2nd Mode sample value, Grain ...)"
+1,2603,ST2,Low tide terrace,9/15/2012,RUSH,Hand-Collecting,36.9722,-7.9342,1.8,98.2,0,1.231,1.187,0.075,0.674,2.737,0.247
+2,2604,ST3,Lower Beach,9/15/2012,RUSH,Hand-Collecting,36.9722,-7.9342,0.1,99.9,0,1.526,0.595,0.005,0.924,1.247,
+3,2605,ST4,Upper Beach,9/15/2012,RUSH,Hand-Collecting,36.9723,-7.9341,0.4,99.6,0,0.849,0.71,0.033,0.927,0.747,
+4,2623,ST2,Low tide terrace,2/22/2013,RUSH,Hand-Collecting,36.9722,-7.9342,25.8,74.2,0,-0.312,1.548,-0.178,1.278,-0.243,-3.743
+5,2624,ST3,Lower Beach,2/22/2013,RUSH,Hand-Collecting,36.9722,-7.9342,1.6,98.4,0,1.009,0.769,-0.209,0.988,1.247,
+6,2625,ST4,Upper Beach,2/22/2013,RUSH,Hand-Collecting,36.9723,-7.9341,0,100,0,1.561,0.431,-0.132,1.042,1.747,
+7,2627,ST6,Estuarine Beach,2/22/2013,RUSH,Hand-Collecting,36.9724,-7.9341,4.6,95.4,0,0.395,0.746,-0.1,1.036,0.247,
+8,2628,ST7,Estuarine Beach,2/22/2013,RUSH,Hand-Collecting,36.9724,-7.9341,2.3,97.7,0,0.987,0.725,-0.047,0.949,0.747,
+9,2629,ST8,Estuarine Beach,2/22/2013,RUSH,Hand-Collecting,36.9724,-7.934,2.9,97.1,0,0.807,0.732,-0.104,1.013,0.747,
+10,2673,ST2,Low tide terrace,12/12/2013,RUSH,Hand-Collecting,36.9722,-7.9342,0.2,99.8,0,0.529,0.475,-0.007,1.041,0.747,
+11,2674,ST3,Lower Beach,12/12/2013,RUSH,Hand-Collecting,36.9722,-7.9342,0,100,0,0.756,0.458,0.057,1.215,0.747,
+12,2675,ST4,Upper Beach,12/12/2013,RUSH,Hand-Collecting,36.9723,-7.9341,0,100,0,0.87,0.524,0.06,1.046,0.747,
+13,2677,ST6,Estuarine Beach,12/12/2013,RUSH,Hand-Collecting,36.9724,-7.9341,0,100,0,0.954,0.453,0.058,1.038,0.747,
+14,2678,ST7,Estuarine Beach,12/12/2013,RUSH,Hand-Collecting,36.9724,-7.9341,0,100,0,0.721,0.454,0.045,1.032,0.747,
+15,2679,ST8,Estuarine Beach,12/12/2013,RUSH,Hand-Collecting,36.9724,-7.934,0.3,99.7,0,0.468,0.705,0.099,0.871,0.247,
