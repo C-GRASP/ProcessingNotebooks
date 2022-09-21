@@ -176,33 +176,24 @@ ID,Sample_ID,Sample_Type_Code,Project,dataset,Date,Location_Type,latitude,longit
 ,Quinby Inlet-1,,,Fenster et al (2016),26-Jun-07,,37.473746,-75.657005,,,,,0.22,,,,,,,,ExtremelyPoorlySorted,3.29,,,,,,0.22,,,,,,
 ,Wach Inlet-1,,,Fenster et al (2016),,,37.5796103,-75.589442,,,,,0.22,,,,,,,,VeryPoorlySorted,5.55,,,,,,0.22,,,,,,
 ,Wach Inlet-2,,,Fenster et al (2016),,,37.5798709,-75.600351,,,,,0.19,,,,,,,,VeryPoorlySorted,11.59,,,,,,0.19,,,,,,
-,R13A_HS,,,Briggs (2022),5/8/2019,,26.9413734,-80.071678,,,,,0.53,,,Leptokurtic,,Symmetrical,,,ModeratelySorted,,,,,,,0.53,,,,,,
-,R13A_H75,,,Briggs (2022),5/8/2019,,26.9413734,-80.071678,,,,,0.45,,,Mesokurtic,,Symmetrical,,,ModeratelySorted,,,,,,,0.45,,,,,,
-,R13A_MS,,,Briggs (2022),5/8/2019,,26.9414199,-80.071498,,,,,0.75,,,Leptokurtic,,CoarseSkewed,,,PoorlySorted,,,,,,,0.75,,,,,,
-,R13A_M75,,,Briggs (2022),5/8/2019,,26.9414199,-80.071498,,,,,0.67,,,Leptokurtic,,CoarseSkewed,,,PoorlySorted,,,,,,,0.67,,,,,,
-,R13A_LS,,,Briggs (2022),5/8/2019,,26.9414399,-80.071415,,,,,0.71,,,Leptokurtic,,CoarseSkewed,,,PoorlySorted,,,,,,,0.71,,,,,,
-,R13A_L75,,,Briggs (2022),5/8/2019,,26.9414399,-80.071415,,,,,0.84,,,Leptokurtic,,CoarseSkewed,,,PoorlySorted,,,,,,,0.84,,,,,,
-,R21_HS,,,Briggs (2022),4/10/2019,,26.9218932,-80.06617,,,,,0.38,,,Very Leptokurtic,,VeryCoarseSkewed,,,ModeratelyWellSorted,,,,,,,0.38,,,,,,
-,R21_H75,,,Briggs (2022),4/10/2019,,26.9218932,-80.06617,,,,,0.44,,,Leptokurtic,,CoarseSkewed,,,ModeratelyWellSorted,,,,,,,0.44,,,,,,
-,R21_MS,,,Briggs (2022),4/10/2019,,26.9219163,-80.066061,,,,,0.49,,,Leptokurtic,,CoarseSkewed,,,ModeratelySorted,,,,,,,0.49,,,,,,
-,R21_M75,,,Briggs (2022),10-Apr-19,,26.9219163,-80.066061,,,,,0.5,,,Leptokurtic,,CoarseSkewed,,,ModeratelySorted,,,,,,,0.5,,,,,,
-,R21_LS,,,Briggs (2022),4/10/2019,,26.9219404,-80.065933,,,,,0.33,,,Leptokurtic,,CoarseSkewed,,,ModeratelyWellSorted,,,,,,,0.33,,,,,,
-,R21_L75,,,Briggs (2022),4/10/2019,,26.9219404,-80.065933,,,,,0.63,,,Leptokurtic,,CoarseSkewed,,,ModeratelySorted,,,,,,,0.63,,,,,,
-,R27_HS,,,Briggs (2022),4/10/2019,,26.9048575,-80.060551,,,,,0.41,,,Leptokurtic,,CoarseSkewed,,,Well Sorted,,,,,,,0.41,,,,,,
-,R27_H75,,,Briggs (2022),4/10/2019,,26.9048575,-80.060551,,,,,0.44,,,Leptokurtic,,CoarseSkewed,,,ModeratelyWellSorted,,,,,,,0.44,,,,,,
-,R27_MS,,,Briggs (2022),4/10/2019,,26.9048861,-80.060441,,,,,0.44,,,Leptokurtic,,CoarseSkewed,,,ModeratelyWellSorted,,,,,,,0.44,,,,,,
-,R27_M75,,,Briggs (2022),4/10/2019,,26.9048861,-80.060441,,,,,0.46,,,Leptokurtic,,CoarseSkewed,,,ModeratelyWellSorted,,,,,,,0.46,,,,,,
-,R27_LS,,,Briggs (2022),4/10/2019,,26.9049036,-80.060379,,,,,0.36,,,Leptokurtic,,CoarseSkewed,,,ModeratelyWellSorted,,,,,,,0.36,,,,,,
-,R27_L75,,,Briggs (2022),4/10/2019,,26.9049036,-80.060379,,,,,0.47,,,Leptokurtic,,CoarseSkewed,,,ModeratelyWellSorted,,,,,,,0.47,,,,,,
-,R34_HS,,,Briggs (2022),4/10/2019,,26.8854633,-80.054621,,,,,0.53,,,Leptokurtic,,CoarseSkewed,,,ModeratelyWellSorted,,,,,,,0.53,,,,,,
-,R34_H75,,,Briggs (2022),4/10/2019,,26.8854633,-80.054621,,,,,0.38,,,Very Leptokurtic,,VeryCoarseSkewed,,,ModeratelySorted,,,,,,,0.38,,,,,,
-,R34_MS,,,Briggs (2022),10-Apr-19,,26.8854918,-80.054552,,,,,0.43,,,Very Leptokurtic,,VeryCoarseSkewed,,,PoorlySorted,,,,,,,0.43,,,,,,
-,R34_M75,,,Briggs (2022),10-Apr-19,,26.8854918,-80.054552,,,,,0.44,,,Mesokurtic,,Symmetrical,,,ModeratelySorted,,,,,,,0.44,,,,,,
-,R34_LS,,,Briggs (2022),4/10/2019,,26.8855034,-80.054474,,,,,0.28,,,Very Leptokurtic,,VeryCoarseSkewed,,,ModeratelyWellSorted,,,,,,,0.28,,,,,,
-,R34_L75,,,Briggs (2022),4/10/2019,,26.8855034,-80.054474,,,,,0.49,,,Mesokurtic,,Symmetrical,,,ModeratelySorted,,,,,,,0.49,,,,,,
-,R51_HS,,,Briggs (2022),4/10/2019,,26.8399893,-80.042386,,,,,0.42,,,Leptokurtic,,Symmetrical,,,ModeratelyWellSorted,,,,,,,0.42,,,,,,
-,R51_H75,,,Briggs (2022),4/10/2019,,26.8399893,-80.042386,,,,,0.38,,,Leptokurtic,,CoarseSkewed,,,Well Sorted,,,,,,,0.38,,,,,,
-,R51_MS,,,Briggs (2022),4/10/2019,,26.8400059,-80.042301,,,,,0.43,,,Leptokurtic,,CoarseSkewed,,,ModeratelyWellSorted,,,,,,,0.43,,,,,,
-,R51_M75,,,Briggs (2022),4/10/2019,,26.8400059,-80.042301,,,,,1.08,,,Leptokurtic,,CoarseSkewed,,,PoorlySorted,,,,,,,1.08,,,,,,
-,R51_LS,,,Briggs (2022),4/10/2019,,26.8400357,-80.042161,,,,,0.38,,,Leptokurtic,,CoarseSkewed,,,Well Sorted,,,,,,,0.38,,,,,,
-,R51_L75,,,Briggs (2022),4/10/2019,,26.8400357,-80.042161,,,,,0.58,,,Leptokurtic,,Symmetrical,,,ModeratelyWellSorted,,,,,,,0.58,,,,,,
+,R13A_H75,,,Briggs (2022),5/8/2019,,26.9413734,-80.071678,,,,,0.45,,,,,,,,,,,,,,,0.45,,,,,,
+,R13A_M75,,,Briggs (2022),5/8/2019,,26.9414199,-80.071498,,,,,0.67,,,,,,,,,,,,,,,0.67,,,,,,
+,R21_HS,,,Briggs (2022),4/10/2019,,26.9218932,-80.06617,,,,,0.38,,,,,,,,,,,,,,,0.38,,,,,,
+,R21_M75,,,Briggs (2022),10-Apr-19,,26.9219163,-80.066061,,,,,0.5,,,,,,,,,,,,,,,0.5,,,,,,
+,R27_H75,,,Briggs (2022),4/10/2019,,26.9048575,-80.060551,,,,,0.44,,,,,,,,,,,,,,,0.44,,,,,,
+,R27_MS,,,Briggs (2022),4/10/2019,,26.9048861,-80.060441,,,,,0.44,,,,,,,,,,,,,,,0.44,,,,,,
+,R34_M75,,,Briggs (2022),10-Apr-19,,26.8854918,-80.054552,,,,,0.44,,,,,,,,,,,,,,,0.44,,,,,,
+,R34_L75,,,Briggs (2022),4/10/2019,,26.8855034,-80.054474,,,,,0.49,,,,,,,,,,,,,,,0.49,,,,,,
+,R51_H75,,,Briggs (2022),4/10/2019,,26.8399893,-80.042386,,,,,0.38,,,,,,,,,,,,,,,0.38,,,,,,
+,R51_M75,,,Briggs (2022),4/10/2019,,26.8400059,-80.042301,,,,,1.08,,,,,,,,,,,,,,,1.08,,,,,,
+,Boca - R215,,,Briggs (2022),7/20/2017,,26.360035,-80.06916,,,,,0.27,,,,,,,,,,,,,,,0.27,,,,,,R215 3/1/17 SL
+,Boca - R216,,,Briggs (2022),7/16/2016,,26.357453,-80.069501,,,,,0.37,,,,,,,,,,,,,,,0.37,,,,,,"R216, midbeach, 6/8/16"
+,Boca - R217,,,Briggs (2022),12/21/2016,,26.354776,-80.069625,,,,,0.31,,,,,,,,,,,,,,,0.31,,,,,,R217 collected 9/16/16 - SL
+,Boca - R218A,,,Briggs (2022),6/29/2016,,26.350404,-80.069788,,,,,0.3,,,,,,,,,,,,,,,0.3,,,,,,"Boca, R218A, mid-beach, 6/8/16"
+,Boca - R219,,,Briggs (2022),7/15/2016,,26.347573,-80.069928,,,,,0.35,,,,,,,,,,,,,,,0.35,,,,,,"R219, midbeach, 6/14/16"
+,Boca - R220,,,Briggs (2022),10/2/2017,,26.343868,-80.070955,,,,,0.65,,,,,,,,,,,,,,,0.65,,,,,,9/14/2017 SL R220
+,Boyton Inlet- R152,,,Briggs (2022),2/26/2017,,26.54425,-80.043676,,,,,0.38,,,,,,,,,,,,,,,0.38,,,,,,Mid logger 45cm depth
+,Boyton (Ocean Ridge) - R156,,,Briggs (2022),2/13/2018,,26.53152,-80.046917,,,,,0.44,,,,,,,,,,,,,,,0.44,,,,,,OR Mid 7-17-17
+,Delray South - Atlantic Dunes,,,Briggs (2022),2/14/2017,,26.441889,-80.061608,,,,,0.29,,,,,,,,,,,,,,,0.29,,,,,,Mid logger 45 cm 9/22/16
+,Juno Beach,,,Briggs (2022),10/27/2020,,26.88541,-80.05464,,,,,0.39,,,,,,,,,,,,,,,0.39,,,,,,R34 MS
+,Jupiter Inlet,,,Briggs (2022),6/22/2021,,26.94134,-80.07174,,,,,1.15,,,,,,,,,,,,,,,1.15,,,,,,R13A MS
